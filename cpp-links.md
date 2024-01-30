@@ -183,6 +183,9 @@
 - [High Performance Scientific Computing with C](https://github.com/PacktPublishing/High-Performance-Scientific-Computing-With-C)
 -
 - [Benchmark A library to benchmark code snippets, similar to unit tests. Example](https://github.com/google/benchmark)
+- [gperftools (originally Google Performance Tools)](https://github.com/gperftools/gperftools)
+-
+-
 -
 -
 -
@@ -340,6 +343,8 @@
 -
 - [Multiplatform C++ on the Web with Emscripten](https://de.slideshare.net/chadaustin/multiplatform-c-on-the-web-with-emscripten-18258801#24)
 -
+- [Liquid template engine](https://github.com/Shopify/liquid)
+-
 - [cr.h A single file header-only live reload solution for C, written in C++](https://github.com/fungos/cr)
 - [CopperSpice](https://www.copperspice.com/)
 - [Project Ares Injector](https://github.com/Cerbersec/Ares)
@@ -378,7 +383,7 @@
 - [Rcpp: Seamless R and C++ Integration](https://www.rcpp.org/)
 - [Junction is a library of concurrent data structures in C++.](https://github.com/preshing/junction)
 -
--
+- [ZeroMQ](https://github.com/zeromq)
 -
 -
 -
