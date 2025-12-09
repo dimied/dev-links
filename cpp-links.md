@@ -7,13 +7,25 @@
 - https://github.com/barrust/set/blob/master/src/set.c
 - https://stackoverflow.com/questions/10082517/simplest-tool-to-measure-c-program-cache-hit-miss-and-cpu-time-in-linux
 - https://sys.cs.fau.de/lehre/ss24/bst/uebung/doc/extern/gcc-inline-assembly.html
+- [Static, Shared Dynamic and Loadable Linux Libraries](https://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 -
 -
--
+
+
 
 ---
 
 ## C++
+
+### Libraries
+- [certificate-transparency: Auditing for TLS certificates](https://github.com/google/certificate-transparency)
+- [crunchy](https://github.com/google/crunchy)
+- [dimsum](https://github.com/google/dimsum)
+- [effcee](https://github.com/google/effcee)
+- [FlatBuffers](https://github.com/google/flatbuffers)
+- [highwayhash](https://github.com/google/highwayhash)
+- [Skia](https://github.com/google/skia)
+-
 
 ---
 

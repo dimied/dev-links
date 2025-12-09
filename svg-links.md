@@ -34,6 +34,7 @@
 - [spritesh](https://github.com/edenspiekermann/sprite.sh)
 - [SVG circle progress generator](https://nikitahl.github.io/svg-circle-progress-generator/)
 - [SVGO](https://github.com/svg/svgo)
+  - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [vvvortex](https://www.fffuel.co/vvvortex/)
 
 ## Books

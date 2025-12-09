@@ -14,6 +14,7 @@
 - [Cordova](https://cordova.apache.org/)
 - [Derby (database)](https://de.wikipedia.org/wiki/Apache_Derby)
 - [Guacamole](https://guacamole.apache.org/)
+- [Impala](https://impala.apache.org/)
 - [Ivy](https://ant.apache.org/ivy/)
 - [Jena](https://jena.apache.org/)
 - [JMeter](https://en.wikipedia.org/wiki/Apache_JMeter)

@@ -1,6 +1,12 @@
 # Java
 
 
+
+## Libraries
+- [Error Prone](https://github.com/google/error-prone)
+- [jimfs](https://github.com/google/jimfs)
+- [re2j](https://github.com/google/re2j)
+
 ---
 
 - [Baeldung](https://www.baeldung.com/)

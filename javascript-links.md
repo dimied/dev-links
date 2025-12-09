@@ -62,6 +62,10 @@
 - https://webflow.com/
 - https://openjsf.org/projects
 - https://www.dunebook.com/15-javascript-compression-tools/
+- https://storybook.js.org/
+- [Clarity](https://clarity.microsoft.com/)
+- https://prepack.io/
+-
 -
 
 ---
@@ -117,6 +121,16 @@
 
 ## Images
 - https://github.com/blueimp/JavaScript-Load-Image
+- https://github.com/aFarkas/lazysizes
+- https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1/
+- https://github.com/verlok/vanilla-lazyload
+- https://www.npmjs.com/package/sharp
+- https://github.com/ApoorvSaxena/lozad.js
+- https://github.com/imagemin/imagemin-webp
+- https://www.npmjs.com/package/imagemin
+- https://levelup.gitconnected.com/the-ultimate-guide-to-web-image-performance-optimization-37b3de42fe2
+-
+
 
 
 ## Graphics
@@ -148,6 +162,7 @@
 ## Vizualization
 - [CanvasXpress](https://canvasxpress.org/)
 - [CanvasJS](https://canvasjs.com/)
+- [Chartist.js](https://gionkunz.github.io/chartist-js/)
 - [c3js](https://c3js.org/)
 - [Chart.js](https://www.chartjs.org/)
 - [D3](https://github.com/d3/d3)
@@ -155,6 +170,7 @@
 - [datatable](https://frappe.io/datatable)
 - [GoJS](https://gojs.net/latest/)
 - [JSXGraph](https://sourceforge.net/projects/jsxgraph/)
+- [neuroglancer](https://github.com/google/neuroglancer)
 - [NVD3](https://nvd3.org/)
 - [Paper.js](http://paperjs.org/)
 - [PhiloGL](http://www.senchalabs.org/philogl/)
@@ -199,6 +215,16 @@
 - [A-FRAME](https://aframe.io/)
 - https://github.com/borismus/webvr-boilerplate
 - https://github.com/immersive-web/webvr-polyfill
+
+
+## Quality
+- https://de.lorem-ipsum.info/
+- https://www.qrcode-monkey.com/de/#text
+- https://qrcode.loresoft.de/qr-code-generator
+- https://r12a.github.io/app-conversion/
+
+## Mobile
+- https://mobiforge.com/design-development/content-delivery-mobile-devices
 
 ---
 
@@ -404,8 +430,12 @@
 - https://github.com/LeaVerou/multirange
 - https://github.com/cjb/serverless-webrtc
 - https://github.com/pierrec/js-xxhash
--
--
+- [eventid-js](https://github.com/google/eventid-js)
+- [Lovefield](https://github.com/google/lovefield)
+- https://github.com/google/wicked-good-xpath
+- https://github.com/boardgameio/boardgame.io
+- https://github.com/google/web-starter-kit
+
 
 ## Components
 - [Bit](https://github.com/teambit/bit)
@@ -417,18 +447,19 @@
 - https://ayushgp.xyz/html-web-components-using-vanilla-js/
 - https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103
 - [webcomponents](https://github.com/WICG/webcomponents)
--
+- https://componentator.com/
 -
 -
 
 ## Functional
 - https://github.com/jkup/functional-javascript
-
+- [Lenses](https://medium.com/javascript-scene/lenses-b85976cb0534)
 
 
 ## Tools
 - [Aquatone](https://github.com/michenriksen/aquatone)
 - [broccolijs](https://github.com/broccolijs/broccoli)
+- [Browserify](https://browserify.org/)
 - [Brunch](https://brunch.github.io/)
 - [jspm](https://jspm.org/)
 - [Lerna](https://github.com/lerna/lerna)
@@ -550,6 +581,7 @@
 - https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
 - https://medium.com/@coffeeandcloud/angular-clean-architecture-approach-fcfe32e983a5
 - https://medium.com/@patrik.horva90/guidelines-for-creating-performant-angular-applications-and-their-efficient-maintenance-6c7537bd56cf
+- https://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1/
 -
 -
 
@@ -578,7 +610,7 @@
 - https://docs.expo.dev/versions/latest/sdk/camera/
 - https://gluestack.io/
 - https://recoiljs.org/
--
+- https://create-react-app.dev/docs/making-a-progressive-web-app/
 -
 
 ## SolidJS
@@ -606,7 +638,7 @@
 - https://blog.logrocket.com/petite-vue-alpine-alternative-progressive-enhancement/
 - https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8
 - https://codepen.io/hexagoncircle/pen/ZZQLoM
--
+- https://www.vuemastery.com/blog/getting-started-with-pwas-and-vue3/
 
 
 
@@ -666,6 +698,23 @@
 - https://elevenlabs.io/
 - https://github.com/tonaljs/tonal
 - https://github.com/musescore/MuseScore
+- https://github.com/video-dev/hls.js
+- https://github.com/brianchirls/annotated-video-player
+- https://github.com/brianchirls/Seriously.js/
+
+## Media
+- https://hacks.mozilla.org/2016/04/record-almost-everything-in-the-browser-with-mediarecorder/
+- https://web.dev/articles/getusermedia-intro?hl=de
+- https://stackoverflow.com/questions/18509385/html-5-video-recording-and-storing-a-stream
+- https://webaudiodemos.appspot.com/AudioRecorder/index.html
+- https://webaudiodemos.appspot.com/pitchdetect/index.html
+- https://simpl.info/mediarecorder/
+- https://developer.chrome.com/blog/mediarecorder
+- https://stackoverflow.com/questions/14256316/how-can-i-get-the-size-of-the-webcam-image-with-getusermedia
+- https://www.w3.org/TR/mediastream-recording/#dom-mediarecorder-start
+- https://medium.com/swlh/how-to-access-webcam-and-take-picture-with-javascript-b9116a983d78
+- [Shaka player](https://github.com/shaka-project/shaka-player)
+
 
 ## Speech
 - https://github.com/coqui-ai
@@ -682,12 +731,14 @@
 - [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [Link header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Link)
 - [matchMedia](https://www.mediaevent.de/javascript/window-matchMedia.html)
+- [MediaRecorder](https://developer.mozilla.org/de/docs/Web/API/MediaRecorder)
 - [Media Source Extensions](https://w3c.github.io/media-source/)
 - [MediaStream Image Capture API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API)
   - https://developer.chrome.com/blog/imagecapture/
   - https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API/Taking_still_photos
   - https://web.dev/articles/media-capturing-images?hl=de#access_the_camera_interactively
 - [MutationObserver](https://developer.mozilla.org/de/docs/Web/API/MutationObserver)
+- [Notification Triggers API](https://developer.chrome.com/docs/web-platform/notification-triggers/)
 - [PerformancePaintTiming](https://developer.mozilla.org/en-US/docs/Web/API/PerformancePaintTiming)
 - [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
 - [requestIdleCallback](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback)
@@ -698,13 +749,22 @@
 - [View Transition API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
 - [Web Shape API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
 - [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
+- [WebTransport API](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport_API)
 - [SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 - [Writing WebSocket client applications](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications)
 - https://developer.mozilla.org/de/docs/Web/API/Window/performance
 - https://medium.com/@smashingmag/logging-activity-with-the-web-beacon-api-409e0596c669
+- [Detect inactive users with the Idle Detection API](https://developer.chrome.com/docs/capabilities/web-apis/idle-detection)
+- [Indexing your offline-capable pages with the Content Indexing API](https://developer.chrome.com/docs/capabilities/web-apis/content-indexing-api)
+- [Badging for app icons](https://developer.chrome.com/docs/capabilities/web-apis/badging-api)
+- [Stay awake with the Screen Wake Lock API](https://developer.chrome.com/docs/capabilities/web-apis/wake-lock)
+-
+-
+-
 
 ## WebRTC, WebSockets
+- https://webrtc.github.io/samples/src/content/getusermedia/record/
 - https://web.dev/articles/webrtc-basics?hl=de
 - https://codelabs.developers.google.com/codelabs/webrtc-web?hl=de#0
 - https://www.webrtc-experiment.com/
@@ -715,14 +775,22 @@
 - https://github.com/websockets/ws
 - https://piehost.com/docs/3.0/nodejs-websocket
 - https://bloggeek.me/webrtc-turn/
+- https://github.com/webrtcHacks/adapter
+- https://webrtchacks.github.io/WebRTC-Camera-Resolution/
 -
 -
 
 ## Addons, Extensions
--
--
--
--
+- [Anatomy of an extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
+- [Browser extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
+- [chrome.bookmarks](https://developer.chrome.com/docs/extensions/reference/api/bookmarks)
+- [Example extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Examples)
+- [How to Build a Chrome Extension](https://www.freecodecamp.org/news/how-to-build-a-chrome-extension/)
+- [How to develop a Firefox extension](https://blog.mozilla.org/addons/2009/01/28/how-to-develop-a-firefox-extension/)
+- [Internationalization](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization#Internationalizing_manifest.json)
+- [Porting a Google Chrome extension](https://extensionworkshop.com/documentation/develop/porting-a-google-chrome-extension/)
+- [webextensions-examples](https://github.com/mdn/webextensions-examples)
+- [Work with files](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Working_with_files)
 -
 
 
@@ -755,8 +823,9 @@
 - [The circular menu](https://codepen.io/ainalem/pen/YoyZpq)
 - [Off-canvas Navigation Variants (Sidebar)](https://codepen.io/foxeisen/pen/YgEwbK)
 - [Electric Monster](https://codepen.io/OfigenusMaximus/pen/QWmdoPa)
--
--
+- [SVG background texture generator (v2019)](https://codepen.io/2kool2/pen/KvmBJN)
+- [404 - Sinclair ZX Spectrum emulation](https://codepen.io/2kool2/pen/xVrdpZ)
+- https://codepen.io/stevekinney/full/eVadLB/
 
 ## Audio articles
 - https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/

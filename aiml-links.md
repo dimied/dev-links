@@ -55,7 +55,7 @@
 - https://blog.devgenius.io/5-open-source-deep-learning-tools-for-imaging-super-resolution-f42ddb396678
 - https://stablediffusionweb.com/de
 - https://github.com/easydiffusion/easydiffusion
--
+- https://github.com/ringgaard/sling
 
 
 ## AR
@@ -69,6 +69,13 @@
 ## Speech
 - https://www.golem.de/news/machine-learning-die-eigene-stimme-als-tts-modell-2207-164919.html
 - https://github.com/mozilla/DeepSpeech
+-
+-
+
+## Text
+- [SentencePiece](https://github.com/google/sentencepiece)
+-
+-
 
 ## TensorFlow
 - https://www.youtube.com/watch?v=mWl45NkFBOc

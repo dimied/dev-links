@@ -2,6 +2,14 @@
 
 ---
 
+## Libraries
+- [ANGLE - Almost Native Graphics Layer Engine](https://github.com/google/angle)
+- [draco](https://github.com/google/draco)
+- [Shaderc](https://github.com/google/shaderc)
+
+
+---
+
 ## Research Articles
 - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/)
 
