@@ -2,6 +2,10 @@
 
 ---
 
+- https://de.wikipedia.org/wiki/XProc
+- http://www.w3schools.com/xsl/
+- https://www.oxygenxml.com/
+
 ## 
 - [ The Apache FOP Project](https://xmlgraphics.apache.org/fop/)
 - []()

@@ -53,7 +53,7 @@
 ## Tools
 - [blobmaker](https://www.blobmaker.app/)
 - [Fancy-Border-Radius](https://9elements.github.io/fancy-border-radius/#32.28.100.100--.)
-- [cubic-bezier.com](cubic-bezier.com)
+- [cubic-bezier.com](https://cubic-bezier.com)
 - [Autoprefixer CSS online](https://autoprefixer.github.io/)
 - [Easings Cheat Sheet](https://easings.net/)
 - [lesscssismore.com](http://lesscssismore.com)

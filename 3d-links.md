@@ -1,12 +1,14 @@
 # 3D
 
 ---
+
 ## Research Articles
 - [Extracting Triangular 3D Models, Materials, and Lighting From Images](https://nvlabs.github.io/nvdiffrec/)
 
 ## Blogs
 - [Paul Bourke](https://paulbourke.net/geometry/)
--
+- https://acko.net/
+- https://www.quelsolaar.com/
 -
 -
 - [Curves and Surfaces for GAGD](https://github.com/SirVer/cagd5e)
@@ -22,6 +24,7 @@
 
 
 ## Libraries
+- https://immersiveweb.dev/
 - [The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.](https://pointclouds.org/)
 - [TinySpline is a small, yet powerful library for interpolating, transforming, and querying arbitrary NURBS, ](https://github.com/msteinbeck/tinyspline)
 - [Einspline B-spline library ](https://sourceforge.net/projects/einspline/)
@@ -31,13 +34,21 @@
 
 ## Tools
 - [Final Surface](https://www.final-surface.de/de/)
+- https://makepad.dev/
+- https://www.shadertoy.com/
+- https://www.dcode.fr/math-simplification
+- https://www.symbolab.com/solver/derivative-calculator/%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft(%5Cfrac%7B3y%2B9%7D%7B2-x%7D%5Cright)
+- https://www.emathhelp.net/calculators/calculus-1/derivative-calculator/?f=e%5Eu&order=1&var=u&p=&steps=on
+- https://www.emathhelp.net/calculators/calculus-1/derivative-calculator/?f=%28cos%28v%29%2Bsin%28v%29-1%29*%281%2Bsin%28v%29%29*log%281-pi*v%2F10%29%2B7.5*sin%28v%29&order=1&var=v&p=&steps=on
 - []()
 - []()
 - []()
 
 
 ## Articles
--
+- https://de.wikipedia.org/wiki/Inversion_(Geometrie)
+- https://iquilezles.org/articles/distfunctions2d/
+- https://gpgpu-computing4.blogspot.com/2009/10/matrix-multiplication-3-opencl.html
 - [List of surfaces : Wikipedia](https://en.wikipedia.org/wiki/List_of_surfaces)
 -
 - [Parametrische Flächen und Körper](http://www.3d-meier.de/tut3/Seite0.html)
@@ -121,6 +132,7 @@
 - [GLeem: OpenGL Extremely Easy-to-use Manipulators](https://www.gnu.org/software/gleem/)
 - [OpenGL Examples](https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html)
 - [glutInitWindowPosition, glutInitWindowSize](https://www.opengl.org/resources/libraries/glut/spec3/node11.html)
+- https://medium.com/@benjamin.botto/opengl-and-cuda-applications-in-docker-af0eece000f1
 - []()
 - []()
 - []()

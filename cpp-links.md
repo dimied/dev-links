@@ -1,6 +1,20 @@
 ## C, C++
 
 
+## C
+- https://gcc.gnu.org/onlinedocs/cpp/Common-Predefined-Macros.html
+- https://stackoverflow.com/questions/18531782/how-to-know-if-uint128-t-is-defined
+- https://github.com/barrust/set/blob/master/src/set.c
+- https://stackoverflow.com/questions/10082517/simplest-tool-to-measure-c-program-cache-hit-miss-and-cpu-time-in-linux
+- https://sys.cs.fau.de/lehre/ss24/bst/uebung/doc/extern/gcc-inline-assembly.html
+-
+-
+-
+
+---
+
+## C++
+
 ---
 
 - [CppCast](https://cppcast.com/)
