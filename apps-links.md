@@ -1,5 +1,9 @@
 # Apps
 
+
+- [10015.io](https://10015.io/)
+-
+-
 - [chartbeat](https://chartbeat.com/)
 - [contentful](https://www.contentful.com/)
 - [extrawatch](https://www.extrawatch.com/)
@@ -13,6 +17,48 @@
 - [userlytics](https://www.userlytics.com/)
 - https://saaslandingpage.com/
 - https://de.scribd.com/
+- [Marker.io](https://marker.io/)
+- [Glitter.io](https://www.glitter.io/)
+- [Superlist](https://www.superlist.com/)
+-
+- [TidyCal](https://tidycal.com/)
+- [Kommodo](https://kommodo.ai/)
+- [Xmind](https://sourceforge.net/projects/xmind3/)
+-
+- [ventoy](https://www.ventoy.net/en/index.html)
+-
+- [MyTeachingHero](https://www.myteachinghero.com/)
+-
+- [Midday](https://github.com/midday-ai/midday)
+-
+
+---
+
+## Audio
+- [Audicity](https://www.audacity.de/)
+- [Mixxx](https://mixxx.org/)
+- [muted.io](https://muted.io/)
+-
+-
+-
+
+### Audio (Articles)
+- [Getting Started With GNU Radio](https://hackaday.com/2015/11/11/getting-started-with-gnu-radio/)
+
+---
+
+## Planing
+- [Whimsical](https://whimsical.com/)
+-
+-
+
+## Web
+- [Fire.app](https://fireapp.kkbox.com/)
+- [Yaak.app](https://yaak.app/)
+
+## Inventory management
+- [openboxes](https://github.com/openboxes/openboxes)
+-
 -
 
 
@@ -24,6 +70,13 @@
 
 ## Self-hosting
 - [Kolab](https://de.wikipedia.org/wiki/Kolab)
+-
+-
+-
+
+
+## Dev extensions
+- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
 -
 -
 -

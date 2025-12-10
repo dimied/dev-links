@@ -7,6 +7,20 @@
 -
 -
 
+
+## Product
+- [How to Create a Product Strategy in 12 Steps](https://medium.com/swlh/how-to-create-a-product-strategy-in-12-steps-9b7fe6230585)
+-
+-
+
+---
+
+## Customers
+
+
+### Open source
+- [Dittofeed](https://github.com/dittofeed/dittofeed)
+
 ---
 
 ## Customers

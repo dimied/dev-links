@@ -16,11 +16,11 @@
 - [Build a Python Web Application to Convert a Video to a Gif Using Streamlit](https://betterprogramming.pub/building-a-web-application-to-convert-a-video-to-a-gif-using-streamlit-2ab3b377eac1)
 - [Create a Python Web Server](https://pythonbasics.org/webserver/)
 - [Linear Regression in 6 lines of Python](https://towardsdatascience.com/linear-regression-in-6-lines-of-python-5e1d0cd05b8d)
-- []()
+- [101 Python Automation Scripts: Streamlining Tasks and Boosting Productivity(Part #1)](https://python.plainenglish.io/a-comprehensive-guide-to-python-automation-streamlining-tasks-and-boosting-productivity-fad00c5b62c5)
 - [freecodecamp Python](https://www.freecodecamp.org/news/tag/python)
 - [Articles: Speed up your data science and scientific computing code](https://pythonspeed.com/datascience/#memory)
 - []()
-
+- https://towardsdatascience.com/data-augmentation-techniques-for-audio-data-in-python-15505483c63c/#d071
 
 ---
 
@@ -38,9 +38,11 @@
 ---
 
 ## Framework
+- [Framework](https://frappe.io/framework)
 - [Textual is a Rapid Application Development framework for Python.](https://github.com/Textualize/textual)
+- [Tornado](https://www.tornadoweb.org/en/stable/)
+- [Twisted](https://twisted.org/)
 - [web2py Free open source full-stack framework for rapid developmen](http://www.web2py.com/)
-- []()
 - []()
 
 ---

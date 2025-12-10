@@ -7,6 +7,9 @@
 ---
 
 ## Apache
+- [How to Password Protect a Directory on Your Website](https://www.thesitewizard.com/apache/password-protect-directory.shtml)
+- [Setup and Configure Bandwidth Limiting Module for Apache2](https://linuxpoison.blogspot.com/2012/02/setup-and-configure-bandwidth-limiting.html)
+-
 -
 -
 -
@@ -38,10 +41,20 @@
 - [Understanding and Implementing FastCGI Proxying in Nginx](https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx)
 -
 - [Blue/Green Node.js Deploys with NGINX](https://dev.to/justincy/blue-green-node-js-deploys-with-nginx-bkc)
+-
+- https://www.cyberciti.biz/tips/linux-unix-bsd-nginx-webserver-security.html
+-
+
+### Tools (NGINX)
+- [gixy](https://github.com/dvershinin/gixy)
+-
+-
 
 ---
 
--
+
+## FTP
+- https://en.wikipedia.org/wiki/List_of_FTP_commands
 -
 -
 -

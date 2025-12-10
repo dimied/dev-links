@@ -8,6 +8,13 @@
 - []()
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
+
+
+## Web
+- [Dropshot](https://github.com/oxidecomputer/dropshot)
+- [Torii-rs](https://github.com/cmackenzie1/torii-rs)
+-
+
 ---
 
 ## 

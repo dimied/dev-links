@@ -7,6 +7,7 @@
 ---
 
 ## Apps
+- [blisk.io](https://blisk.io/)
 - [Centercode](https://www.centercode.com/)
 - [Chaos Toolkit](https://chaostoolkit.org/)
 - [Fitnesse](https://fitnesse.org/)
@@ -17,6 +18,7 @@
 - [Mockoon](https://mockoon.com/)
 - [Sentry](https://sentry.io/welcome/)
 - [Sonar](https://www.sonarsource.com/)
+- [Sparrow](https://sparrowapp.dev/)
 - [TestComplete](https://de.wikipedia.org/wiki/TestComplete)
 - [Testim](https://www.testim.io/)
 - [TestRail](https://www.testrail.com/)
@@ -29,7 +31,7 @@
 
 ## Test data
 - [DTM Data Generator](https://sqledit.com/dg/download.html)
--
+- [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 -
 -
 
@@ -55,6 +57,7 @@
 - [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers)
 - [Intern](https://theintern.io/)
 - [Jest.js](https://jestjs.io/)
+- [Maestro](https://github.com/mobile-dev-inc/Maestro)
 - [Nightwatch.js](https://nightwatchjs.org/)
   - [End-to-end testing with Nightwatch.js](https://medium.com/kaliop/end-to-end-testing-with-nightwatch-js-a821ad787fa4)
 - [PhantomJS](https://phantomjs.org/)
@@ -101,6 +104,7 @@
 -
 
 ## Articles
+- [Sanity Testing](https://artoftesting.com/sanity-testing)
 - [Acceptance test-driven development](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
 - [Automated Canary Analysis at Netflix with Kayenta](https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69)
 - [Cross-Browser-Testing: 10 Tools für die Überprüfung von Webseiten](https://t3n.de/news/cross-browser-testing-tools-542708/)

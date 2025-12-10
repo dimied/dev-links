@@ -33,6 +33,10 @@
   - https://metrics.aspose.com/
 - [CBR](https://docs.fileformat.com/ebook/cbr/)
 - [MS](https://learn.microsoft.com/en-us/openspecs/office_file_formats/MS-OFFFFLP/6ae2fd93-51fc-4e75-a54a-1b175c627b51)
+- [LibreOffice](https://api.libreoffice.org/examples/examples.html)
+- https://www.documentliberation.org/
+-
+
 
 ## Network
 - [Avro (Apache)](https://avro.apache.org/)
@@ -61,6 +65,10 @@
 
 ## FFMpeg
 - https://stackoverflow.com/questions/5487085/ffmpeg-convert-html-5-video-not-working
+
+
+## OCR
+- [olmOCR](https://medium.com/@samarrana407/olmocr-the-open-source-ocr-powerhouse-for-document-conversion-3deb90282ed4)
 
 ## PDF
 - https://stackoverflow.com/questions/11850776/reducing-pdf-file-size-using-ghostscript-on-linux-didnt-work

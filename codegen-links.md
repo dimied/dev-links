@@ -1,6 +1,10 @@
 # Code generation
 
 
+## Static sites
+- [nanoc](https://nanoc.app/)
+
+
 ## Tools
 - [ANTLR](https://www.antlr.org/)
   - [ANTLR 4 Runtime 4.13.2 API](https://www.antlr.org/api/Java/index.html)

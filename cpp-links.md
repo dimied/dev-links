@@ -1,6 +1,12 @@
 ## C, C++
 
 
+## Audio
+- [Csound](https://de.wikipedia.org/wiki/Csound)
+- [portaudio](https://www.portaudio.com/)
+-
+-
+
 ## C
 - https://gcc.gnu.org/onlinedocs/cpp/Common-Predefined-Macros.html
 - https://stackoverflow.com/questions/18531782/how-to-know-if-uint128-t-is-defined
@@ -8,6 +14,9 @@
 - https://stackoverflow.com/questions/10082517/simplest-tool-to-measure-c-program-cache-hit-miss-and-cpu-time-in-linux
 - https://sys.cs.fau.de/lehre/ss24/bst/uebung/doc/extern/gcc-inline-assembly.html
 - [Static, Shared Dynamic and Loadable Linux Libraries](https://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
+- [Automated testing in C — Part I](https://blog.devgenius.io/automated-testing-in-c-457a687633cc)
+- [C versus C++: fight!](https://itnext.io/c-versus-c-fight-201b3f07a94f)
+-
 -
 -
 
@@ -17,6 +26,8 @@
 
 ## C++
 
+- [Awesome Modern C++](https://awesomecpp.com/)
+
 ### Libraries
 - [certificate-transparency: Auditing for TLS certificates](https://github.com/google/certificate-transparency)
 - [crunchy](https://github.com/google/crunchy)
@@ -24,8 +35,28 @@
 - [effcee](https://github.com/google/effcee)
 - [FlatBuffers](https://github.com/google/flatbuffers)
 - [highwayhash](https://github.com/google/highwayhash)
+- [NanoLog](https://github.com/PlatformLab/NanoLog)
+- [simdjson](https://github.com/simdjson/simdjson)
 - [Skia](https://github.com/google/skia)
+- https://code.google.com/archive/p/opencurrent/
+- https://code.google.com/archive/p/thrust/
+
+### Profiling
+- [Coz](https://github.com/plasma-umass/coz)
 -
+-
+-
+-
+-
+-
+
+
+## Articles
+- https://stackoverflow.com/questions/48166918/the-use-of-t-as-a-template-parameter
+-
+-
+-
+
 
 ---
 

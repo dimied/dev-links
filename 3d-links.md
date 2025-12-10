@@ -1,11 +1,26 @@
 # 3D
 
+
+
+
 ---
 
 ## Libraries
 - [ANGLE - Almost Native Graphics Layer Engine](https://github.com/google/angle)
 - [draco](https://github.com/google/draco)
 - [Shaderc](https://github.com/google/shaderc)
+
+
+## Engines
+- [GODOT](https://godotengine.org/de/)
+-
+-
+
+
+## OpenSource
+- [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+-
+-
 
 
 ---

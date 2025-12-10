@@ -4,6 +4,7 @@
 - [Cloudinary](https://cloudinary.com/)
 - [compressor.io](https://compressor.io/)
 - [DrawKit](https://www.drawkit.com/)
+- [fotor](https://www.fotor.com/)
 - [Imagify](https://imagify.io/)
 - [img2pdf](https://gitlab.mister-muffin.de/josch/img2pdf)
 - [jpegmini](https://www.jpegmini.com/)
@@ -15,6 +16,15 @@
 - [unsplash](https://unsplash.com/developers)
 - [upscaler](https://icons8.com/upscaler)
 - [vectr](https://vectr.com/)
+-
+-
+-
+
+## Open source
+- [Immich](https://github.com/immich-app/immich)
+-
+-
+-
 
 ## Collections
 - [Adobe stock](https://stock.adobe.com/de)
@@ -23,12 +33,15 @@
 - [Lexica](https://lexica.art/)
 - [Pixabay](https://pixabay.com/)
 - [pngtree](https://pngtree.com/)
+- [Purepng](https://purepng.com/)
 - [Shutterstock](https://www.shutterstock.com/de/)
+- [Stickpng](https://www.stickpng.com/)
 - https://footageoftheworld.com/
 -
 
 
 ## Tools
+- https://github.com/imgly/background-removal-js
 - [sprity](https://github.com/sprity/sprity)
 - [butteraugli](https://github.com/google/butteraugli)
 - https://squoosh.app/
@@ -48,6 +61,12 @@
 - https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/
 - https://imagemagick.org/script/command-line-processing.php
 - https://legacy.imagemagick.org/Usage/basics/#mogrify
+-
+
+
+## GIT
+- [giftool](https://giftool.surge.sh/)
+-
 -
 
 ## PNG

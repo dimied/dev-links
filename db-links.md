@@ -1,5 +1,17 @@
 # Daatabases
 
+-
+-
+- [supabase.com](https://supabase.com/)
+- [DreamFactory](https://www.dreamfactory.com/)
+- [SkyllaDB](https://www.scylladb.com/)
+- [How I Made Postgres Fly on 2 Cores and 4GB RAM — 1.2 Billion Rows in 0.7 Seconds](https://medium.com/@kakamber07/how-i-made-postgres-fly-on-2-cores-and-4gb-ram-1-2-billion-rows-in-0-7-seconds-1a0e01c49571)
+-
+- https://stackoverflow.com/questions/6525917/connect-to-local-mysql-server-through-socket
+-
+-
+-
+
 ---
 
 - [Redis Labs ](https://github.com/RedisLabs)
@@ -7,6 +19,7 @@
 ---
 
 - [Qdrant Vector Database](https://qdrant.tech/)
+- [Dicedb](https://dicedb.io/)
 - [Dragonfly is a simple, performant, and cost-efficient in-memory data store.](https://www.dragonflydb.io/)
 - [ SpacetimeDB Multiplayer at the speed of light. ](https://github.com/clockworklabs/SpacetimeDB)
 - [EventStoreDB](https://www.eventstore.com/)
@@ -58,6 +71,7 @@
 
 ## Articles
 - [DB-Engines Ranking of Document Stores](https://db-engines.com/en/ranking/document+store)
+- [You Don’t Need a Dedicated Cache Service — PostgreSQL as a Cache](https://itnext.io/you-dont-need-a-dedicated-cache-service-postgresql-as-a-cache-bf951afc35e3)
 - [The Third Manifesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/)
 - [RA: A Relational Algebra Interpreter](https://users.cs.duke.edu/~junyang/ra/)
 - [Vektordatenbank](https://de.wikipedia.org/wiki/Vektordatenbank)

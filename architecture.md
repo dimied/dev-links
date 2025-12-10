@@ -1,5 +1,9 @@
 # Architecture
 
+
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
+- [awesome-backend](https://github.com/zhashkevych/awesome-backend)
+- [node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture)
 - [eventmodeling.org](https://eventmodeling.org/)
 - [Structure101](https://www.sonarsource.com/structure101/)
 - [SAFe Scaled Agile Framework](https://framework.scaledagile.com/#big-picture)
@@ -8,8 +12,34 @@
 - [microservices.io](https://microservices.io/index.html)
 - [eventuate.io](https://eventuate.io/)
 - [Istio.io](https://istio.io/)
+- [Parse Platform](https://parseplatform.org/)
+
+
+## CMDB
+- [CMDBuild](https://www.cmdbuild.org/en)
+- [Ralph](https://github.com/allegro/ralph/)
+-
 -
 
+
+## ITSM
+- [GLPI](https://github.com/glpi-project/glpi)
+- [Snipe-it](https://github.com/grokability/snipe-it)
+-
+-
+-
+-
+
+
+## Tools
+- [httpie](https://httpie.io/)
+- [Diagrams](https://diagrams.mingrammer.com/)
+- [PlantUML](https://plantuml.com/de/)
+- [Terrastruct](https://terrastruct.com/)
+- [Structurizr](- https://structurizr.com/)
+-
+-
+-
 
 ## Microservices
 - [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
@@ -29,9 +59,13 @@
 ## Web
 - https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
 - https://blog.bitsrc.io/micro-frontends-shell-vs-micro-apps-5ad809a9b85a
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+-
+-
 -
 
 ## Articles
+- [7 modelling languages for software architecture](https://icepanel.medium.com/7-modelling-languages-for-software-architecture-2ed3a9f75343)
 - [Top 5 Distributed System Design Patterns](https://medium.com/better-programming/top-5-distributed-system-design-patterns-ae9482f49128)
 - https://github.com/binhnguyennus/awesome-scalability
 - https://jmgarridopaz.github.io/content/hexagonalarchitecture.html

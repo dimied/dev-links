@@ -7,6 +7,8 @@
 - [Puppeteer](https://developer.chrome.com/docs/puppeteer/)
 - [Totaljs](https://www.totaljs.com/)
 
+
+- [Piny](https://getpiny.com/)
 ---
 
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
@@ -65,6 +67,19 @@
 - https://storybook.js.org/
 - [Clarity](https://clarity.microsoft.com/)
 - https://prepack.io/
+- https://sdk-design.js.org/
+- https://github.com/shadcn-ui/ui
+- https://www.npmjs.com/package/autoprefixer
+- https://kunststube.net/
+- https://ramenhog.com/blog/2017/05/01/creating-a-draggable-element-with-javascript
+- https://polymerlabs.github.io/wizzywid/
+- https://github.com/Aircloak
+- [changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+-
+- [Pintora](https://github.com/hikerpig/pintora)
+-
+- [Semantic cache](https://github.com/upstash/semantic-cache)
+-
 -
 -
 
@@ -73,6 +88,7 @@
 - [Bun](https://bun.sh/)
 - [Deno](https://deno.com/)
 - [htmx](https://htmx.org/)
+- [bare](https://github.com/holepunchto/bare)
 
 ## Specs
 - [Shadow DOM](https://www.w3.org/TR/shadow-dom/)
@@ -83,6 +99,9 @@
 - [Service Worker](https://developer.chrome.com/docs/workbox/service-worker-lifecycle)
 - [Workbox](https://developer.chrome.com/docs/workbox/)
 - https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03
+- [sw-precache](https://github.com/GoogleChromeLabs/sw-precache)
+-
+-
 
 ## Web worker
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
@@ -111,7 +130,7 @@
 - https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680
 - https://www.typescriptlang.org/docs/handbook/modules/theory.html#module-resolution
 - https://medium.com/@reidev275/typesafe-monadic-parsing-with-mapped-types-in-typescript-a3ef9efbd9f2
--
+- [up-fetch](https://github.com/L-Blondy/up-fetch)
 -
 -
 
@@ -129,6 +148,8 @@
 - https://github.com/imagemin/imagemin-webp
 - https://www.npmjs.com/package/imagemin
 - https://levelup.gitconnected.com/the-ultimate-guide-to-web-image-performance-optimization-37b3de42fe2
+- [wams-vips](https://github.com/kleisauke/wasm-vips)
+- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer)
 -
 
 
@@ -184,6 +205,7 @@
 - https://bost.ocks.org/mike/
 - https://mbostock.github.io/d3/talk/20111116/#8
 - https://observablehq.com/
+- https://observablehq.com/@mbostock/polar-clock
 - https://gist.github.com/mbostock
 - https://observablehq.com/@makio135/hello-raymarching
 - https://observablehq.com/@mbostock/shimmy
@@ -197,7 +219,7 @@
 - https://github.com/square/cubism
 - https://hackernoon.com/top-10-javascript-charting-libraries-for-your-web-development-d63286fdbbac
 - https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
--
+- https://medium.com/nightingale/what-board-games-teach-us-about-data-visualization-ded14080b4f4
 -
 -
 -
@@ -205,6 +227,7 @@
 ## Animation
 - [animejs](https://animejs.com/)
 - [barba.js](https://barba.js.org/)
+- [Kinesis.js](https://github.com/amineyarman/Kinesis.js)
 - [mojs](https://mojs.github.io/)
 - [Popmotion](https://popmotion.io/)
 - [vivus](https://maxwellito.github.io/vivus/)
@@ -225,6 +248,7 @@
 
 ## Mobile
 - https://mobiforge.com/design-development/content-delivery-mobile-devices
+- https://github.com/liriliri/eruda
 
 ---
 
@@ -240,6 +264,7 @@
 - [Arrow-js](https://www.arrow-js.com/)
 - [asmjs](http://asmjs.org/)
 - [Atomizejs](https://atomizejs.github.io/)
+- [Atropos.js](https://atroposjs.com/)
 - [autocomplete](https://github.com/algolia/autocomplete)
 - [Axios](https://github.com/axios/axios)
 - [Bacon.js](https://baconjs.github.io/)
@@ -320,6 +345,8 @@
 - [Jsuites](https://github.com/jsuites/jsuites)
 - [JsView](https://www.jsviews.com/)
 - [Lazy](https://xem.github.io/Lazy/)
+- [LDRS](https://uiball.com/ldrs/)
+- [lenis](https://github.com/darkroomengineering/lenis)
 - [libsodium.js](https://github.com/jedisct1/libsodium.js)
 - [Lit.dev](https://lit.dev/)
 - [Livekit](https://github.com/livekit/livekit)
@@ -339,6 +366,7 @@
 - [microjs](http://microjs.com/#)
 - [milo.js](https://milojs.github.io/milo/milo.js.html)
 - [minimongo](https://github.com/mWater/minimongo)
+- [mizu.js](https://mizu.sh/)
 - [Mithril.js](https://mithril.js.org/)
 - [Mobx.js](https://mobx.js.org/README.html)
 - [Moment.js](https://momentjs.com/)
@@ -375,14 +403,17 @@
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)
 - [scrolldir](https://github.com/yowainwright/scrolldir)
 - [sculp](https://github.com/dettier/sculp)
+- [SimpleBar](https://github.com/Grsmto/simplebar)
 - [signature pad](https://github.com/szimek/signature_pad)
 - [Sizzle](https://github.com/jquery/sizzle)
 - [Slick](https://kenwheeler.github.io/slick/)
 - [slim.js](https://github.com/slimjs/slim.js)
+- [SortableJS](https://sortablejs.github.io/Sortable/)
 - [Splide](https://splidejs.com/)
 - [splitting.js](https://splitting.js.org/)
 - [Stretchy](https://stretchy.verou.me/)
 - [Styled components](https://styled-components.com/)
+- [Sweetalert](https://sweetalert2.github.io/)
 - [SwiperJS](https://swiperjs.com/)
 - [TernJS](https://ternjs.net/)
 - [Tinybase](https://tinybase.org/)
@@ -435,7 +466,10 @@
 - https://github.com/google/wicked-good-xpath
 - https://github.com/boardgameio/boardgame.io
 - https://github.com/google/web-starter-kit
-
+- https://roughnotation.com/
+-
+-
+-
 
 ## Components
 - [Bit](https://github.com/teambit/bit)
@@ -451,6 +485,11 @@
 -
 -
 
+### Web components
+- [app-storage](https://www.webcomponents.org/element/@polymer/app-storage)
+-
+-
+
 ## Functional
 - https://github.com/jkup/functional-javascript
 - [Lenses](https://medium.com/javascript-scene/lenses-b85976cb0534)
@@ -463,6 +502,7 @@
 - [Brunch](https://brunch.github.io/)
 - [jspm](https://jspm.org/)
 - [Lerna](https://github.com/lerna/lerna)
+- [Lumbar](https://walmartlabs.github.io/lumbar/)
 - [Ninja](https://ninja-build.org/)
 - [PnPm](https://pnpm.io/)
 - [projen](https://projen.io/)
@@ -477,8 +517,12 @@
 - https://javascript.plainenglish.io/setting-up-webpack-for-the-production-and-development-3ca0b0b12ff5
 - https://medium.com/better-programming/the-battle-of-bundlers-6333a4e3eda9
 - [Webpack Deep Dive](https://slides.com/kentcdodds/webpack-deep-dive)
+- [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)
 -
 -
+-
+-
+
 
 
 
@@ -491,7 +535,9 @@
 - [Ionic](https://ionicframework.com/)
 - [Meteor](https://www.meteor.com/)
 - [Mootools](https://mootools.net/)
+- [Nue.js](https://nuejs.org/)
 - [Prototypejs](http://prototypejs.org/)
+- [VanJS](https://vanjs.org/)
 - [Vanilla-JS](http://vanilla-js.com/)
 - [ShieldUI](https://www.shieldui.com/)
 - [Svelte](https://svelte.dev/)
@@ -590,18 +636,22 @@
 
 ## jQuery
 - [ajax-zoom](https://www.ajax-zoom.com/)
-- https://oscarotero.com/jquery/
+- [FitText](https://github.com/davatron5000/FitText.js)
+- [FitVids](https://github.com/davatron5000/FitVids.js)
 - [Slinky](https://github.com/alizahid/slinky)
 - [Guillotine](https://github.com/matiasgali/guillotine)
+- [Lettering.js](https://github.com/davatron5000/Lettering.js)
 - [onepage-scroll](https://github.com/peachananr/onepage-scroll)
 - [scrollpath](https://github.com/JoelBesada/scrollpath)
 - [toastr](https://github.com/CodeSeven/toastr)
--
+- https://oscarotero.com/jquery/
 -
 -
 
 
 ## React
+- [Chakra-UI](https://v2.chakra-ui.com/)
+- [Expo](https://expo.dev/)
 - [Pure React](https://www.purereact.com/)
 - https://github.com/chenkie/react-user-authentication
 - https://github.com/oblador/react-native-vector-icons
@@ -722,8 +772,12 @@
 
 ## WebAPI
 - [Ambient light sensor](https://www.w3.org/TR/ambient-light/)
+- [Contact Picker API](https://www.w3.org/TR/contact-picker/)
 - [Contact Picker](https://developer.chrome.com/docs/capabilities/web-apis/contact-picker?hl=de)
+- [DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent?retiredLocale=de)
+- [Device orientation events](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
 - [getusermedia](https://web.dev/articles/getusermedia-intro?hl=de)
 - [hasFocus](https://developer.mozilla.org/en-US/docs/Web/API/Document/hasFocus)
 - [Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
@@ -733,6 +787,7 @@
 - [matchMedia](https://www.mediaevent.de/javascript/window-matchMedia.html)
 - [MediaRecorder](https://developer.mozilla.org/de/docs/Web/API/MediaRecorder)
 - [Media Source Extensions](https://w3c.github.io/media-source/)
+- [MediaStream Recording API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
 - [MediaStream Image Capture API](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Image_Capture_API)
   - https://developer.chrome.com/blog/imagecapture/
   - https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API/Taking_still_photos
@@ -777,6 +832,9 @@
 - https://bloggeek.me/webrtc-turn/
 - https://github.com/webrtcHacks/adapter
 - https://webrtchacks.github.io/WebRTC-Camera-Resolution/
+- https://www.simplewebrtc.com/
+- [PeerJS](https://peerjs.com/)
+-
 -
 -
 
@@ -826,6 +884,7 @@
 - [SVG background texture generator (v2019)](https://codepen.io/2kool2/pen/KvmBJN)
 - [404 - Sinclair ZX Spectrum emulation](https://codepen.io/2kool2/pen/xVrdpZ)
 - https://codepen.io/stevekinney/full/eVadLB/
+- [Reptile Interactive Cursor](https://codepen.io/sk-chaurasiya/pen/VYvbxed)
 
 ## Audio articles
 - https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/
@@ -836,9 +895,14 @@
 -
 
 ## Articles
+- https://simpl.info/getusermedia/constraints/
 - https://javascript30.com/
 - https://rxmarbles.com/
+- https://tympanus.net/Development/FullscreenOverlayStyles/
+- https://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/
+- [You Don’t Need Lodash: How I Gave Up Lodash](https://javascript.plainenglish.io/you-dont-need-lodash-how-i-gave-up-lodash-693c8b96a07c)
 - [ReadabilityJS](https://itsopensource.com/readabilityjs-adding-reader-view/)
+- [Shadow DOM v1 – Eigenständige Webkomponenten](https://web.dev/articles/shadowdom-v1?hl=de)
 - https://jaredforsyth.com/rxvision/examples/playground/
 - https://github.com/mrdavidlaing/javascript-koans
 - https://webdesign.tutsplus.com/create-a-customized-html5-audio-player--webdesign-7081t
@@ -987,6 +1051,19 @@
 -
 - https://stackoverflow.com/questions/9638591/detecting-a-redirect-with-javascript-how
 - https://medium.com/coding-beauty/es15-javascript-features-fc2d1f7a00ce
+-
+- https://blog.bitsrc.io/advanced-frontend-development-how-to-enforce-code-quality-at-scale-509e867cb87d
+-
+- https://javascript.plainenglish.io/10-essential-github-repos-for-software-developers-6a42ebba279
+-
+- https://nicolasgallagher.com/micro-clearfix-hack/
+- https://medium.com/better-programming/5-awesome-http-headers-web-developers-should-master-332a1a332084
+- https://dev.to/elizabethschafer/designing-button-focus-states-for-better-usability-gm2
+- https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/jj676915(v=vs.85)?redirectedfrom=MSDN
+-
+-
+-
+-
 -
 -
 

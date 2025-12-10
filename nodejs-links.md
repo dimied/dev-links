@@ -36,6 +36,7 @@
 - [Sequelize](https://sequelize.org/v3/)
 - [spider](https://github.com/mikeal/spider)
 - [sst.dev](https://sst.dev/)
+- [undici](https://github.com/nodejs/undici)
 - [waterline](https://github.com/balderdashy/waterline)
 - [yup](https://github.com/jquense/yup/)
 - https://github.com/jeff-lewis/cls-hooked
@@ -47,6 +48,7 @@
 ## Frameworks
 - [Adonis.js](https://adonisjs.com/)
 - [hapi](https://hapi.dev/)
+- [Hono](https://hono.dev/)
 - [koa.js](https://koajs.com/)
 - [NestJS](https://nestjs.com/)
 - [Sails.js](https://sailsjs.com/)
@@ -83,6 +85,7 @@
 ---
 
 ## Articles
+- [7 Node.js Design Patterns Every Developer Should Know](https://blog.bitsrc.io/nodejs-design-patterns-must-know-8ef0a73b3339)
 - https://medium.com/pipedrive-engineering/resource-optimization-in-node-js-c90c731f9df4
 - https://blog.bitsrc.io/node-js-just-released-version-20-wth-6cb6dfbc161f
 - https://javascript.plainenglish.io/10-advanced-and-important-node-js-mistakes-103de158ffad

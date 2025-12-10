@@ -1,16 +1,39 @@
 # Dev Ops
 
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [infobyip](https://www.infobyip.com/detectmonitordpi.php)
 - [eBPF](https://ebpf.io/)
   - [eBPF, sidecars, and the future of the service mesh](https://www.buoyant.io/blog/ebpf-sidecars-and-the-future-of-the-service-mesh)
 - [Calico](https://www.tigera.io/project-calico/)
 - [dcos](https://dcos.io/)
 - [HermitCore](https://hermitcore.org/)
+- [Ops School](https://www.opsschool.org/)
+- [taubyte](https://taubyte.com/)
+- [TernFS](https://github.com/XTXMarkets/ternfs)
+-
+-
+
+## Cloud
+- [Komodor](https://komodor.com/)
+-
+-
+
+## OS
+- [KolibriOS](https://git.kolibrios.org/)
+
+
+## Auth
+- [OpenID Connect](https://de.wikipedia.org/wiki/OpenID_Connect)
+- [Permit.io](https://www.permit.io/)
+-
 -
 
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/cd/)
 - [GOCD](https://www.gocd.org/)
--
+- [20 Best Continuous Integration Tools: A Guide to Optimizing Your CI/CD Processes](https://securityboulevard.com/2019/05/20-best-continuous-integration-tools-a-guide-to-optimizing-your-ci-cd-processes/)
+- [nx.dev](https://nx.dev/)
+- [Travis CI](https://www.travis-ci.com/)
 -
 -
 
@@ -21,19 +44,29 @@
 - [DNSPerf](https://www.dnsperf.com/#!dns-resolvers)
 - [dynatrace](https://www.dynatrace.com/)
 - [F5 Aspen mesh](https://www.f5.com/products/aspen-mesh)
+- [httpwatch](https://www.httpwatch.com/)
 - [hyperping](https://hyperping.com/)
 - [keycdn](https://tools.keycdn.com/)
 - [linode](https://www.linode.com/de/)
 - [Nagios](https://www.nagios.org/)
 - [netlify](https://www.netlify.com/)
+- [new relic](https://newrelic.com/de)
+- [Pingdom](https://www.pingdom.com/)
+- [Porter.run](https://www.porter.run/)
 - [Railway](https://railway.com/)
 - [Render](https://render.com/)
+- [Shakebugs](https://www.shakebugs.com/)
 - [systeminit](https://www.systeminit.com/)
 - [Traefik](https://traefik.io/traefik)
 - [quay](https://quay.io/)
+- [WebSpy](https://www.webspy.com/)
 -
 -
 -
+-
+
+## VM (OS)
+- [hyperlight](https://github.com/hyperlight-dev/hyperlight)
 -
 -
 
@@ -41,6 +74,7 @@
 ## OpenSource
 - [btop](https://github.com/aristocratos/btop)
 - [certbot](https://certbot.eff.org/instructions?ws=other&os=ubuntufocal)
+- [CFEngine](https://de.wikipedia.org/wiki/CFEngine)
 - [Chrony](https://en.wikipedia.org/wiki/Chrony)
 - [collectd](https://collectd.org/)
 - [Consul](https://developer.hashicorp.com/consul)
@@ -48,27 +82,61 @@
 - [cyclic.sh](https://www.cyclic.sh/)
 - [dregsy - Container Registry Sync](https://github.com/xelalexv/dregsy)
 - [envoyproxy](https://www.envoyproxy.io/)
+- [fluentd](https://www.fluentd.org/)
 - [Gaia](https://github.com/stacks-archive/gaia)
+- [Gearman](https://gearman.org/)
+- [gns3](https://www.gns3.com/)
 - [gogs](https://github.com/gogs/gogs)
 - [mitmproxy](https://www.mitmproxy.org/)
 - [NixOS](https://nixos.org/)
 - [OpenTofu](https://opentofu.org/)
+- [OTail](https://github.com/getlawrence/OTail)
 - [ownCloud](https://owncloud.com/)
 - [Polipo](https://de.wikipedia.org/wiki/Polipo)
 - [Pyroscope](https://pyroscope.io/)
+- [sitespeed.io](https://www.sitespeed.io/)
+- [sshuttle](https://github.com/sshuttle/sshuttle)
 - [StormKit](https://stormkit.io/)
+- [Superfile](https://github.com/yorukot/superfile)
+- [TCPDump](https://www.tcpdump.org/)
 - [tmux](https://wiki.ubuntuusers.de/tmux/)
+- [TripWire](https://de.wikipedia.org/wiki/Open_Source_Tripwire)
+- [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software))
 - [Vesta Control Panel](https://github.com/outroll/vesta)
+- [WebDav](http://webdav.org/)
 - [Webmin](https://webmin.com/)
 - [ZMap Project](https://zmap.io/)
--
--
--
--
 
+
+## Cloud(OS)
+- [localstack](https://github.com/localstack/localstack)
+
+
+## Tools
+- [Mosh (mobile shell)](https://mosh.org/)
+- [yazi](https://github.com/sxyazi/yazi)
+
+
+## Monitoring
+- [Cacti](https://www.cacti.net/)
+- [healthchecks](https://github.com/healthchecks/healthchecks)
+- [Malcolm](https://github.com/cisagov/Malcolm)
+- [SmokePing](https://github.com/oetiker/SmokePing)
+- [uptime-kuma](https://github.com/louislam/uptime-kuma)
+- [whos.amung.us](https://whos.amung.us/)
+- [4 open source monitoring tools](https://opensource.com/article/18/8/open-source-monitoring-tools)
+-
+-
 
 ## Git
 - [How to Delete Commits From Remote in Git](https://hackernoon.com/how-to-delete-commits-from-remote-in-git)
+
+
+## Gitlab
+- [How To Build Your First GitLab CI/CD Pipeline](https://medium.com/avmconsulting-blog/how-to-build-your-first-gitlab-ci-cd-pipeline-5416d7e3b602)
+- [Using GitLab CI/CD with a Bitbucket Cloud repository](https://docs.gitlab.com/ci/ci_cd_for_external_repos/bitbucket_integration/)
+- [GitLab Runners](https://www.youtube.com/watch?v=JFMXe1nMopo)
+- [Your Private CI/CD using self-hosted GitLab and Docker](https://levelup.gitconnected.com/your-private-ci-cd-using-self-hosted-gitlab-ci-and-docker-ee1aca71b99e)
 
 
 ## WebServer
@@ -81,11 +149,17 @@
 - [IPstack](https://ipstack.com/)
 - https://worldpopulationreview.com/country-rankings/ip-address-by-country
 
+### IPs (free)
+- [geoip.spotrealms.com](https://geoip.spotrealms.com/)
+-
+
 
 ## OpenStack
 - https://docs.openstack.org/api-quick-start/
 
 ## Docker
+- [docker.com](https://www.docker.com/)
+- [BLAFS](https://github.com/negativa-ai/BLAFS)
 - [imagelayers](https://github.com/microscaling/imagelayers)
 - [Lazydocker](https://github.com/jesseduffield/lazydocker)
 - [rawdns](https://github.com/tianon/rawdns)
@@ -97,6 +171,10 @@
 
 
 ## Kubernetes
+- [Kubernetes](https://kubernetes.io/)
+- [Kubernetes History Inspector](https://github.com/GoogleCloudPlatform/khi)
+- [Cyclops](https://github.com/cyclops-ui/cyclops)
+- [Headlamp](https://github.com/kubernetes-sigs/headlamp)
 - [Helm](https://helm.sh/)
 - [Karpenter](https://karpenter.sh/)
 - [Keda](https://keda.sh/)
@@ -106,6 +184,7 @@
 - [Welcome Tilt: Fixing the pains of microservice development for Kubernetes](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 - https://thenewstack.io/how-to-choose-the-right-kubernetes-monitoring-tool/
 - [Kaniko](https://github.com/GoogleContainerTools/kaniko)
+- [kluctl](https://github.com/kluctl/kluctl)
 - [Kubespray](https://github.com/kubernetes-sigs/kubespray)
 - [Kubeone](https://github.com/kubermatic/kubeone)
 - [Kops](https://github.com/kubernetes/kops)
@@ -113,6 +192,14 @@
 -
 -
 
+### K8s security
+- [Kubescape](https://github.com/kubescape/kubescape)
+-
+-
+
+
+## Service mesh
+- https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
 
 ## Articles
 - [Linux Cheatsheet for DevOps](https://keentolearn.medium.com/linux-cheatsheet-for-devops-e4f4cd4631aa)
@@ -133,8 +220,10 @@
 - https://thenewstack.io/infrastructure-as-data-vs-infrastructure-as-code-whats-the-difference/
 - [Stop using Alpine Docker images](https://medium.com/inside-sumup/stop-using-alpine-docker-images-fbf122c63010)
 - [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://cloudnativenow.com/topics/cloudnativedevelopment/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/)
+- [Beobachtbarkeit von Google Cloud](https://cloud.google.com/products/observability)
+- https://dzone.com/articles/how-to-share-and-sync-code-between-microservices
 -
-
+-
 
 
 

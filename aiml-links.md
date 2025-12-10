@@ -1,5 +1,55 @@
 # AIML
 
+
+- [Milvus](https://github.com/milvus-io/milvus)
+
+
+## Articles
+- https://github.com/swirl-ai/ai-angineers-handbook/tree/main/building_agents_from_scratch/deep_research_agent
+-
+-
+-
+
+
+## Apps
+- [Midjourney](https://www.midjourney.com/home)
+-
+-
+-
+
+## Agents
+- [AgentK](https://github.com/mikekelly/AgentK)
+- [codel](https://github.com/semanser/codel)
+-
+
+
+## LLM
+- [Haystack](https://github.com/deepset-ai/haystack)
+- [lmdeploy](https://github.com/InternLM/lmdeploy)
+- [LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
+-
+
+
+## VLM
+- [VILA](https://github.com/NVlabs/VILA)
+-
+-
+
+
+## Llama
+- [Introducing Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
+
+
+## Promps
+- [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
+-
+
+## Images
+- [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
+-
+-
+ 
+
 ## Datasets
 - https://datasetsearch.research.google.com/
 - https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
@@ -15,6 +65,8 @@
 - https://github.com/facebookresearch/metaseq
 - https://super.gluebenchmark.com/
 - https://github.com/microsoft/nnfusion
+- https://github.com/databricks/dbrx
+-
 
 ## Tools
 - [Caffe](https://caffe.berkeleyvision.org/)
@@ -56,6 +108,8 @@
 - https://stablediffusionweb.com/de
 - https://github.com/easydiffusion/easydiffusion
 - https://github.com/ringgaard/sling
+- https://github.com/TheAgentCompany/TheAgentCompany
+- https://github.com/oumi-ai/oumi
 
 
 ## AR

@@ -5,7 +5,7 @@
 - [Kdenlive](https://kdenlive.org/de/)
 - [OpenShot](https://de.wikipedia.org/wiki/OpenShot)
 - [Shotcut](https://www.shotcut.org/)
--
+- [Peertube](https://joinpeertube.org/)
 -
 -
 
@@ -22,6 +22,9 @@
 - [Shaka-packager](https://github.com/shaka-project/shaka-packager)
 -
 
+## Video (OS)
+- [VideoLingo](https://github.com/Huanshere/VideoLingo)
+- https://github.com/memorysafety/rav1d
 
 ## Apps
 - [Agora](https://www.agora.io/en/)
@@ -42,6 +45,7 @@
 - [Visavid](https://visavid.de/)
 - [vyond](https://www.vyond.com/)
 - [Webcam Toy](https://webcamtoy.com/de/)
+- [wondershare](https://www.wondershare.com/)
 - [wowza](https://www.wowza.com/)
 - https://www.all-streaming-media.com/
 - https://www.unified-streaming.com/

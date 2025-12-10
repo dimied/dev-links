@@ -1,5 +1,35 @@
 # CSS
 
+- [css-validator (W3)](https://jigsaw.w3.org/css-validator/)
+- [CSS Code Quality](https://www.projectwallace.com/css-code-quality)
+- [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion
+- https://meyerweb.com/eric/tools/css/reset/
+- https://css-tricks.com/the-truth-about-css-selector-performance/
+- https://css-tricks.com/moving-backgrounds/
+- https://css-tricks.com/almanac/properties/b/border-image/border-image-outset/
+- https://css-tricks.com/different-ways-to-get-css-gradient-shadows/
+- https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/
+- https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/
+- [10 CSS One-Liners to Transform Your Web App](https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7)
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/Functions
+-
+-
+- [Hyper UI](https://www.hyperui.dev/)
+- [Motion UI](https://zurb.com/playground/motion-ui)
+-
+- [csscrush](https://the-echoplex.net/csscrush/#plugins--hocus-pocus)
+-
+- https://css-tricks.com/auto-growing-inputs-textareas/
+-
+- [Simple.css](https://simplecss.org/)
+-
+-
+-
+-
+
+
+
 ---
 
 - [em, px, pt, cm, in: Web Style Sheets CSS Tips & Tricks](https://www.w3.org/Style/Examples/007/units.de.html)

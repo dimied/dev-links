@@ -5,7 +5,9 @@
 - https://www.modularscale.com/
 - [Fontello - icon fonts generator](https://fontello.com/)
 - [fontflipper](https://fontflipper.com/upload)
+- [fontjoy](https://fontjoy.com/)
 - [fontpair](https://www.fontpair.co/)
+- [Fontsgeek](https://fontsgeek.com/fonts/Seeing-Stars-Regular)
 - [fontspring](https://www.fontspring.com/)
 - [FontSquirrel](https://www.fontsquirrel.com)
   - [Cabinsketch](https://www.fontsquirrel.com/fonts/cabinsketch)
@@ -31,6 +33,7 @@
 
 # Icons
 - [flaticon](https://www.flaticon.com/)
+- [Flowbite icons](https://flowbite.com/icons/)
 - [Freepik icons](https://www.freepik.com/icons)
 - [iconbuddy](https://iconbuddy.com/)
 - [icons8](https://icons8.com/)

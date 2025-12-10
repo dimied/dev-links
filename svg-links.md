@@ -50,6 +50,11 @@
 -
 
 ## Articles
+- [6 Common SVG Fails (and How to Fix Them)](https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/)
+- https://tympanus.net/codrops/2014/01/07/shape-hover-effect-with-svg/
+- https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/pub#slide=id.p
+- [Tips for Creating Accessible SVG](https://www.sitepoint.com/tips-accessible-svg/)
+- [Animated line drawing in SVG](https://jakearchibald.com/2013/animated-line-drawing-svg/)
 - [SVG Path-Animation: Lineart mit CSS](https://www.mediaevent.de/svg-line-art-mit-css/)
 - [Understanding and Manually Improving SVG Optimization](https://css-tricks.com/understanding-and-manually-improving-svg-optimization/)
 - [Paths](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorials/SVG_from_scratch/Paths)

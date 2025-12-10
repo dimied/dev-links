@@ -130,6 +130,11 @@
 
 ---
 
+## DB articles
+
+-
+-
+
 ## Web headers
 - [Cache-Control header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control)
 -
@@ -137,6 +142,8 @@
 -
 
 ## Web articles
+- [High Performance Browser Networking](https://hpbn.co/)
+- [Website mit PageSpeed-Tools analysieren und optimieren](https://developers.google.com/speed?hl=de)
 - https://www.youtube.com/watch?v=bw1QYJnNDDo
 - https://stevesouders.com/
 - https://web.dev/articles/vitals?hl=de#core-web-vitals
@@ -190,6 +197,9 @@
 - https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/
 - [Lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading)
 - https://signalvnoise.com/posts/3112-how-basecamp-next-got-to-be-so-damn-fast-without-using-much-client-side-ui
+- [So You Want To Make Your Website Faster?](https://medium.com/codex/so-you-want-to-make-your-website-faster-d2a00db39097)
+-
+-
 -
 
 ## Articles

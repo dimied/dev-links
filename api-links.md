@@ -5,6 +5,7 @@
 - [apilayer](https://apilayer.com/)
 - https://www.abstractapi.com/a/home
 - [apis.io](https://apis.io/)
+- [Free Public APIs](https://www.freepublicapis.com/)
 - [Mulesoft](https://www.mulesoft.com/api/management)
 - [rapidapi](https://rapidapi.com/)
 - [traefik.io](https://traefik.io/)
