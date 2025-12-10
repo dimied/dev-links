@@ -3,6 +3,7 @@
 - [Damn Small Linux](https://de.wikipedia.org/wiki/Damn_Small_Linux)
 - [Linux from scratch](https://linuxfromscratch.org/)
 - [SystemRescue](https://www.system-rescue.org/)
+- [T2Linux](https://t2linux.com/)
 - [Xenproject](https://xenproject.org/)
 - https://forum.howtoforge.com/
 - https://www.webdevelopersnotes.com/text-web-browsers-list
@@ -105,6 +106,7 @@
 -
 
 ## SSH
+- [Parallel SSH](https://parallel-ssh.org/)
 - https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
 - https://www.liquidweb.com/blog/using-ssh-keys/
 - https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html
@@ -116,6 +118,7 @@
 - https://www.pixelbeat.org/cmdline.html
 - https://tldp.org/LDP/abs/html/arrays.html
 - https://tldp.org/LDP/abs/html/
+- [The Bash Guide](https://guide.bash.academy/)
 - [Bash recursive scripting](https://community.unix.com/t/bash-recursive-scripting/178942)
 - https://opensource.com/article/18/5/you-dont-know-bash-intro-bash-arrays
 - https://bash.cyberciti.biz/backup/gpg-encrypted-secure-ftp-backup-2/
@@ -140,6 +143,12 @@
 - https://unix.stackexchange.com/questions/335801/bash-remembers-wrong-path-to-an-executable-that-was-moved-deleted
 -
 
+
+## Ubuntu
+- [How to set up your very own local APT repository in Ubuntu](https://medium.com/@edinson.padron.urdaneta/how-to-set-up-your-very-own-local-apt-repository-in-ubuntu-dfb509e5b2df)
+- [How to Setup a Local or Private Ubuntu Mirror](https://louwrentius.com/how-to-setup-a-local-or-private-ubuntu-mirror.html)
+-
+-
 
 ## Drivers
 - https://appusajeev.wordpress.com/2011/06/18/writing-a-linux-character-device-driver/

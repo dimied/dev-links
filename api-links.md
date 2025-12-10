@@ -3,6 +3,7 @@
 
 ## Hubs
 - [apilayer](https://apilayer.com/)
+- https://www.abstractapi.com/a/home
 - [apis.io](https://apis.io/)
 - [Mulesoft](https://www.mulesoft.com/api/management)
 - [rapidapi](https://rapidapi.com/)

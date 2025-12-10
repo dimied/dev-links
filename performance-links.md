@@ -141,6 +141,7 @@
 - https://stevesouders.com/
 - https://web.dev/articles/vitals?hl=de#core-web-vitals
 - https://nitropack.io/blog/post/early-hints
+- [Back-Forward-Cache](https://web.dev/articles/bfcache?hl=de)
 - [Kurze Ladezeiten](https://web.dev/explore/fast?hl=de#prioritize-resources)
 - [Measuring Performance With Server Timing](https://www.smashingmagazine.com/2018/10/performance-server-timing/)
 - [An introduction to Web Performance and the Critical Rendering Path](https://www.freecodecamp.org/news/an-introduction-to-web-performance-and-the-critical-rendering-path-ce1fb5029494)
