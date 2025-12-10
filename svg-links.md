@@ -21,6 +21,8 @@
 - [svgicons2svgfont](https://github.com/nfroidure/svgicons2svgfont)
 - [SVGInjector](https://github.com/iconic/SVGInjector)
 - [walkway](https://github.com/ConnorAtherton/walkway)
+- [GoldenSeeds](https://github.com/tmunz/GoldenSeeds)
+-
 -
 
 

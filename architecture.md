@@ -3,6 +3,7 @@
 
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
 - [awesome-backend](https://github.com/zhashkevych/awesome-backend)
+- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture)
 - [eventmodeling.org](https://eventmodeling.org/)
 - [Structure101](https://www.sonarsource.com/structure101/)
@@ -13,6 +14,9 @@
 - [eventuate.io](https://eventuate.io/)
 - [Istio.io](https://istio.io/)
 - [Parse Platform](https://parseplatform.org/)
+-
+- [SPDX](https://spdx.dev/)
+-
 
 
 ## CMDB

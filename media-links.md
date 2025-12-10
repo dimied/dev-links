@@ -6,7 +6,7 @@
 - [OpenShot](https://de.wikipedia.org/wiki/OpenShot)
 - [Shotcut](https://www.shotcut.org/)
 - [Peertube](https://joinpeertube.org/)
--
+- [ente.io](https://ente.io/de/)
 -
 
 
@@ -31,6 +31,7 @@
 - [clipconverter.cc](https://www.clipconverter.cc/de/3/)
 - [Frame.io](https://frame.io/)
 - [GPAC](https://gpac.io/)
+  - [gpac](https://github.com/gpac/gpac)
 - [Live555](http://www.live555.com/)
 - [Nimble](https://softvelum.com/nimble/)
 - [OBS](https://obsproject.com/)

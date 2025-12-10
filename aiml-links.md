@@ -1,32 +1,75 @@
 # AIML
 
-
+- [code-interpreter](https://github.com/e2b-dev/code-interpreter)
 - [Milvus](https://github.com/milvus-io/milvus)
+- [AutoGroq](https://github.com/jgravelle/AutoGroq)
+- [Vanna](https://github.com/vanna-ai/vanna)
+- [Argilla](https://github.com/argilla-io/argilla)
+-
+- [LibreChat](https://github.com/danny-avila/LibreChat)
+-
+- [Fabric](https://github.com/danielmiessler/fabric)
+-
+- [anotherwrapper](https://anotherwrapper.com/)
+-
+- https://github.com/jftesser/stereo-image-generation
+-
+- https://docs.mindsdb.com/mindsdb
+- https://github.com/aymenfurter/microagents
+-
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica)
+- [mintlify](https://www.mintlify.com/)
+-
+- https://www.meilisearch.com/
+-
+- [baserow](https://github.com/baserow/baserow)
+-
 
 
 ## Articles
 - https://github.com/swirl-ai/ai-angineers-handbook/tree/main/building_agents_from_scratch/deep_research_agent
--
+- https://github.com/wenhao728/awesome-diffusion-v2v
 -
 -
 
 
 ## Apps
 - [Midjourney](https://www.midjourney.com/home)
--
+- [Mistral](https://mistral.ai/)
+- [Valley](https://github.com/RupertLuo/Valley)
 -
 -
 
 ## Agents
 - [AgentK](https://github.com/mikekelly/AgentK)
 - [codel](https://github.com/semanser/codel)
+- [Composio](https://github.com/ComposioHQ)
+- [llamatutor](https://github.com/Nutlope/llamatutor)
+- [OpenAGI](https://github.com/agiresearch/OpenAGI)
+-
+
+
+## Documents
+- [MinerU](https://github.com/opendatalab/MinerU)
+-
+-
+
+
+## RAG
+- [GraphRAG](https://github.com/microsoft/graphrag)
+-
 -
 
 
 ## LLM
 - [Haystack](https://github.com/deepset-ai/haystack)
 - [lmdeploy](https://github.com/InternLM/lmdeploy)
+- [llm-interface](https://github.com/samestrin/llm-interface)
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch)
+- [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
+-
 -
 
 
@@ -36,9 +79,22 @@
 -
 
 
-## Llama
-- [Introducing Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
+## MLX
+- [rlx](https://github.com/noahfarr/rlx)
+-
+-
 
+
+## Claude
+- [Claude Engineer v3](https://github.com/Doriandarko/claude-engineer)
+
+
+## Llama
+- [LlamaIndex](https://developers.llamaindex.ai/python/framework/)
+- [Introducing Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
+- [Fine-tuning](https://www.llama.com/docs/how-to-guides/fine-tuning/)
+-
+-
 
 ## Promps
 - [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
@@ -46,6 +102,7 @@
 
 ## Images
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
+- [DMD2](https://github.com/tianweiy/DMD2)
 -
 -
  
@@ -119,17 +176,25 @@
 - https://deepmind.google/models/imagen/
 - https://netzpolitik.org/2022/text-zu-bild-generierung-der-anfang-von-etwas-grossem/
 - https://www.heise.de/news/Text-zu-Bild-Revolution-Stable-Diffusion-ermoeglicht-KI-Bildgenerieren-fuer-alle-7244307.html
+-
+-
+-
+
 
 ## Speech
 - https://www.golem.de/news/machine-learning-die-eigene-stimme-als-tts-modell-2207-164919.html
 - https://github.com/mozilla/DeepSpeech
+- https://github.com/fishaudio/fish-speech
 -
 -
 
+
 ## Text
+- [eSpeak NG Text-to-Speech](https://github.com/espeak-ng/espeak-ng)
 - [SentencePiece](https://github.com/google/sentencepiece)
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts)
 -
--
+
 
 ## TensorFlow
 - https://www.youtube.com/watch?v=mWl45NkFBOc
@@ -137,6 +202,15 @@
 - https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db
 - https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html
 - https://www.oreilly.com/content/perform-sentiment-analysis-with-lstms-using-tensorflow/
+-
+-
+
+
+## PyTorch
+- [Hivemind](https://github.com/learning-at-home/hivemind)
+-
+-
+
 
 ## Robotics
 - https://www.therobotreport.com/deepmind-open-source-mujoco-on-github/
@@ -163,7 +237,9 @@
 - https://www.spektrum.de/news/wie-gauss-helfen-kann-das-geheimnis-des-deep-learning-zu-lueften/1937500
 - https://www.computerwoche.de/article/2756196/machine-learning-darum-geht-s.html
 
+
 ## Articles
+- [4 Underground Image Generation AI Tools](https://medium.com/writers-blokke/4-underground-image-generation-ai-tools-92bb8ba49e19)
 - https://en.wikipedia.org/wiki/Simulated_annealing
 - https://de.wikipedia.org/wiki/Constraint-Satisfaction-Problem
 - https://research.google/blog/pathways-language-model-palm-scaling-to-540-billion-parameters-for-breakthrough-performance/

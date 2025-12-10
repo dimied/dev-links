@@ -10,7 +10,7 @@
 - [Gotime Podcast](https://changelog.com/gotime)
 - []()
 - []()
-
+- https://gobyexample.com/struct-embedding
 
 
 ---

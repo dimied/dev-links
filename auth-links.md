@@ -3,12 +3,15 @@
 - [Cerbos](https://www.cerbos.dev/)
 - [GNU Radius](https://www.gnu.org/software/radius/)
 - [OData](https://www.odata.org/)
-
+- [Super Tokens](https://github.com/supertokens/supertokens-core)
+-
+-
+-
 
 
 ## Libs
 - [dex - A federated OpenID Connect provider](https://github.com/dexidp/dex)
--
+- [pocket-id](https://github.com/pocket-id/pocket-id)
 -
 -
 

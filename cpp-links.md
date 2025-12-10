@@ -20,6 +20,11 @@
 -
 -
 
+### Compilers
+- [Aro](https://github.com/Vexu/arocc)
+-
+-
+
 
 
 ---
@@ -33,6 +38,8 @@
 - [crunchy](https://github.com/google/crunchy)
 - [dimsum](https://github.com/google/dimsum)
 - [effcee](https://github.com/google/effcee)
+- [exprparse](https://github.com/amgary/exprparse)
+- [folly](https://github.com/facebook/folly)
 - [FlatBuffers](https://github.com/google/flatbuffers)
 - [highwayhash](https://github.com/google/highwayhash)
 - [NanoLog](https://github.com/PlatformLab/NanoLog)
@@ -48,6 +55,21 @@
 -
 -
 -
+-
+
+## 2D
+- [delabella](https://github.com/msokalski/delabella)
+-
+
+## 3D
+- [ANurbs](https://github.com/oberbichler/ANurbs)
+- [cubicoid](https://github.com/classAndrew/cubicoid)
+- [CurvatureVisualization](https://github.com/andresbejarano/CurvatureVisualization)
+- [OpenVSP](https://github.com/OpenVSP/OpenVSP)
+- [Pinocchio](https://github.com/pmolodo/Pinocchio)
+- [subdivision-surfaces](https://github.com/manuelpagliuca/subdivision-surfaces)
+- [Subdivision Surfaces](https://github.com/RobertBColton/SubdivisionSurfaces)
+- https://github.com/Q-Minh/naive-surface-nets
 -
 
 

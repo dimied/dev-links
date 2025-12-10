@@ -3,6 +3,8 @@
 
 - [10015.io](https://10015.io/)
 -
+- [opensourcealternative.to](https://www.opensourcealternative.to/)
+-
 -
 - [chartbeat](https://chartbeat.com/)
 - [contentful](https://www.contentful.com/)
@@ -31,6 +33,42 @@
 -
 - [Midday](https://github.com/midday-ai/midday)
 -
+- [ShareX](https://github.com/ShareX/ShareX)
+-
+- [screenpipe](https://github.com/mediar-ai/screenpipe)
+-
+- [Polypane](https://polypane.app/)
+-
+- [Omnivore](https://github.com/omnivore-app/omnivore)
+-
+- [Puter](https://github.com/HeyPuter/puter)
+-
+- [usememos](https://usememos.com/)
+-
+- [supermemory](https://github.com/supermemoryai/supermemory)
+-
+- [motia](https://www.motia.dev/)
+-
+-
+
+
+## CMS
+- [strapi](https://github.com/strapi/strapi)
+-
+-
+
+
+## Commerce
+- [Medusa](https://github.com/medusajs/medusa)
+-
+-
+
+
+## Development
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
+- [Penpot](https://github.com/penpot/penpot)
+-
+
 
 ---
 
@@ -101,8 +139,15 @@
 ## Tools
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 
+
 ## ELT
 - [Airbyte](https://github.com/airbytehq/airbyte)
+- [omniparser](https://github.com/jf-tech/omniparser)
+-
+
+
+## Web Scraping
+- [Scrapling](https://github.com/D4Vinci/Scrapling)
 -
 -
 

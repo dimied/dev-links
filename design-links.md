@@ -34,11 +34,12 @@
 - https://simonbrown.je/
 - https://icu.unicode.org/
 -
--
 - [UI Design Daily](https://www.uidesigndaily.com/)
 -
 -
 - https://github.com/mgp/book-notes/blob/master/the-non-designers-design-book.markdown
+-
+- https://www.awwwards.com/websites/3d/
 
 ## Examples
 - https://motion.zajno.com/
@@ -80,6 +81,7 @@
 ## Collections
 - [Pexels](https://www.pexels.com/de-de/)
 - [undraw](https://undraw.co/)
+- [uiverse](https://uiverse.io/)
 -
 
 
@@ -118,7 +120,7 @@
 ## Typography
 - [Axis-praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
 - [typographic scale](https://www.google.com/search?channel=fs&client=ubuntu&q=the+typographic+scale)
--
+- https://github.com/ErniW/Processing-Generative-Typography
 -
 
 ### Articles

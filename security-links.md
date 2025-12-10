@@ -1,6 +1,13 @@
 # Security
 
 
+## Secrets
+- [infisical](https://infisical.com/)
+-
+-
+-
+
+
 ## Auth
 - [Authentic](https://goauthentik.io/)
 -
@@ -60,13 +67,13 @@
 - [Hayabusa](https://github.com/Yamato-Security/hayabusa)
 - [Mapoverview](https://github.com/alexandreborges/malwoverview)
 - [Matano](https://github.com/matanolabs/matano)
--
+- [OpenVAS](https://www.openvas.org/)
 -
 
 ## Articles
 - [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
 - [Session Fixation](https://de.wikipedia.org/wiki/Session_Fixation)
--
+- https://devsecopsai.today/12-free-network-security-tools-better-than-costly-software-7be2f5bc2ba9
 -
 -
 -

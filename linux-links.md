@@ -114,6 +114,7 @@
 -
 
 ## Bash
+- https://explainshell.com/
 - https://linux.sowas.com/
 - https://www.pixelbeat.org/cmdline.html
 - https://tldp.org/LDP/abs/html/arrays.html

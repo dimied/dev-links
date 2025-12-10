@@ -1,15 +1,25 @@
 # Daatabases
 
+- [Convex](https://docs.convex.dev/home)
+- [directus](https://github.com/directus/directus)
 -
--
+- [nocodb](https://github.com/nocodb/nocodb)
 - [supabase.com](https://supabase.com/)
+- [tadabase](https://tadabase.io/)
 - [DreamFactory](https://www.dreamfactory.com/)
 - [SkyllaDB](https://www.scylladb.com/)
 - [How I Made Postgres Fly on 2 Cores and 4GB RAM — 1.2 Billion Rows in 0.7 Seconds](https://medium.com/@kakamber07/how-i-made-postgres-fly-on-2-cores-and-4gb-ram-1-2-billion-rows-in-0-7-seconds-1a0e01c49571)
 -
 - https://stackoverflow.com/questions/6525917/connect-to-local-mysql-server-through-socket
 -
+- [DBeaver](https://github.com/dbeaver/dbeaver)
+- [TablePlus](https://tableplus.com/)
+- https://www.pgadmin.org/
+- https://www.beekeeperstudio.io/
 -
+- https://www.digitalocean.com/community/tutorials/how-to-optimize-mysql-with-query-cache-on-ubuntu-18-04
+-
+- https://docs.turso.tech/introduction
 -
 
 ---

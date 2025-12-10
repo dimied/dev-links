@@ -9,6 +9,7 @@
 - [Arrow](https://arrow.apache.org/)
 - [ATLAS](https://cwiki.apache.org/confluence/display/ATLAS/Atlas+Home)
 - [Avro (serialization)](https://avro.apache.org/)
+- [Beam](https://beam.apache.org/)
 - [Camel](https://camel.apache.org/)
 - [Cassandra](https://cassandra.apache.org/_/index.html)
 - [Cordova](https://cordova.apache.org/)

@@ -1,6 +1,7 @@
 # Queue
 
-
+- [AutoMQ](https://www.automq.com/)
+-
 - [Beanstald](https://beanstalkd.github.io/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 -

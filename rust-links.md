@@ -10,10 +10,25 @@
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
 
 
+
+## 3D
+- [csgrs](https://github.com/timschmidt/csgrs)
+-
+-
+-
+
+
+## GUI
+- [egui](https://github.com/emilk/egui)
+-
+-
+
+
 ## Web
 - [Dropshot](https://github.com/oxidecomputer/dropshot)
 - [Torii-rs](https://github.com/cmackenzie1/torii-rs)
 -
+
 
 ---
 

@@ -80,6 +80,9 @@
 -
 - [Semantic cache](https://github.com/upstash/semantic-cache)
 -
+- [httpbin](https://github.com/postmanlabs/httpbin)
+- https://www.textcompare.org/javascript/
+- https://minify-js.com/
 -
 -
 
@@ -131,7 +134,7 @@
 - https://www.typescriptlang.org/docs/handbook/modules/theory.html#module-resolution
 - https://medium.com/@reidev275/typesafe-monadic-parsing-with-mapped-types-in-typescript-a3ef9efbd9f2
 - [up-fetch](https://github.com/L-Blondy/up-fetch)
--
+- [zod](https://github.com/colinhacks/zod)
 -
 
 ## AI, OCR
@@ -160,7 +163,7 @@
 - [luma.gl](https://github.com/visgl/luma.gl)
 - [Mountain GL](https://github.com/thomaswilburn/mountain-gl)
 - [stack.gl](https://stack.gl/)
-
+- [Zdog](https://github.com/metafizzy/zdog)
 - https://www.kevs3d.co.uk/dev/index.html
 - https://xem.github.io/articles/webgl-guide.html
 - https://www.smashingmagazine.com/2017/09/animation-interaction-techniques-webgl/
@@ -191,6 +194,7 @@
 - [datatable](https://frappe.io/datatable)
 - [GoJS](https://gojs.net/latest/)
 - [JSXGraph](https://sourceforge.net/projects/jsxgraph/)
+- [model-viewer](https://github.com/google/model-viewer)
 - [neuroglancer](https://github.com/google/neuroglancer)
 - [NVD3](https://nvd3.org/)
 - [Paper.js](http://paperjs.org/)
@@ -220,14 +224,16 @@
 - https://hackernoon.com/top-10-javascript-charting-libraries-for-your-web-development-d63286fdbbac
 - https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
 - https://medium.com/nightingale/what-board-games-teach-us-about-data-visualization-ded14080b4f4
--
--
+- https://github.com/design-automation/mobius
+- https://github.com/moritzsalla/tessera
+- https://github.com/charlyoleg/parametrix
 -
 
 ## Animation
 - [animejs](https://animejs.com/)
 - [barba.js](https://barba.js.org/)
 - [Kinesis.js](https://github.com/amineyarman/Kinesis.js)
+- [lottie-web](https://github.com/airbnb/lottie-web)
 - [mojs](https://mojs.github.io/)
 - [Popmotion](https://popmotion.io/)
 - [vivus](https://maxwellito.github.io/vivus/)
@@ -333,6 +339,7 @@
 - [ie7.js](https://code.google.com/archive/p/ie7-js/)
 - [Immutable](https://immutable-js.com/)
 - [Ignite-UI](https://www.infragistics.com/products/ignite-ui-angular)
+- [initializr](https://github.com/verekia/initializr)
 - [intercooler.js](https://intercoolerjs.org/)
 - [IntersectionObserver (w3c)](https://github.com/w3c/IntersectionObserver)
 - [InversifyJS](https://github.com/inversify/InversifyJS)
@@ -467,7 +474,10 @@
 - https://github.com/boardgameio/boardgame.io
 - https://github.com/google/web-starter-kit
 - https://roughnotation.com/
--
+- https://github.com/brix/crypto-js
+- https://github.com/zxcvbn-ts/zxcvbn
+- https://github.com/kimmobrunfeldt/progressbar.js
+- https://github.com/pqina/filepond
 -
 -
 
@@ -500,6 +510,7 @@
 - [broccolijs](https://github.com/broccolijs/broccoli)
 - [Browserify](https://browserify.org/)
 - [Brunch](https://brunch.github.io/)
+- [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 - [jspm](https://jspm.org/)
 - [Lerna](https://github.com/lerna/lerna)
 - [Lumbar](https://walmartlabs.github.io/lumbar/)
@@ -520,10 +531,6 @@
 - [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)
 -
 -
--
--
-
-
 
 
 ---
@@ -645,7 +652,7 @@
 - [scrollpath](https://github.com/JoelBesada/scrollpath)
 - [toastr](https://github.com/CodeSeven/toastr)
 - https://oscarotero.com/jquery/
--
+- https://github.com/DavidHDev/react-bits
 -
 
 
@@ -661,6 +668,8 @@
 - https://gluestack.io/
 - https://recoiljs.org/
 - https://create-react-app.dev/docs/making-a-progressive-web-app/
+- [Functional UI Kit](https://github.com/functional-ui/functional-ui-kit)
+-
 -
 
 ## SolidJS
@@ -689,7 +698,9 @@
 - https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8
 - https://codepen.io/hexagoncircle/pen/ZZQLoM
 - https://www.vuemastery.com/blog/getting-started-with-pwas-and-vue3/
-
+- https://github.com/kitbagjs/router
+-
+-
 
 
 ## WebAssembly
@@ -764,7 +775,9 @@
 - https://www.w3.org/TR/mediastream-recording/#dom-mediarecorder-start
 - https://medium.com/swlh/how-to-access-webcam-and-take-picture-with-javascript-b9116a983d78
 - [Shaka player](https://github.com/shaka-project/shaka-player)
-
+- [xgplayer](https://github.com/bytedance/xgplayer)
+-
+-
 
 ## Speech
 - https://github.com/coqui-ai
@@ -814,9 +827,12 @@
 - [Indexing your offline-capable pages with the Content Indexing API](https://developer.chrome.com/docs/capabilities/web-apis/content-indexing-api)
 - [Badging for app icons](https://developer.chrome.com/docs/capabilities/web-apis/badging-api)
 - [Stay awake with the Screen Wake Lock API](https://developer.chrome.com/docs/capabilities/web-apis/wake-lock)
+- https://developer.mozilla.org/en-US/docs/Web/API/Scheduler/yield
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/speculationrules
 -
 -
 -
+
 
 ## WebRTC, WebSockets
 - https://webrtc.github.io/samples/src/content/getusermedia/record/
@@ -1060,8 +1076,8 @@
 - https://medium.com/better-programming/5-awesome-http-headers-web-developers-should-master-332a1a332084
 - https://dev.to/elizabethschafer/designing-button-focus-states-for-better-usability-gm2
 - https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/jj676915(v=vs.85)?redirectedfrom=MSDN
--
--
+- https://medium.com/@kp9810113/10-browser-tricks-that-instantly-made-me-a-faster-frontend-developer-e7d79477358c
+- https://javascript.plainenglish.io/how-to-style-broken-images-using-css-b238c907c8af
 -
 -
 -

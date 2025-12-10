@@ -114,7 +114,7 @@
 - [Reporting API](https://developer.mozilla.org/en-US/docs/Web/API/Reporting_API)
 - https://tools.keycdn.com/performance
 - https://github.com/GoogleChromeLabs/quicklink
--
+- https://javascript.plainenglish.io/make-any-app-load-faster-with-just-6-lines-of-html-fe091cb9fdf6
 -
 
 ## HTTP

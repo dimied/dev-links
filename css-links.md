@@ -1,5 +1,7 @@
 # CSS
 
+
+- [cssfx](https://cssfx.netlify.app/)
 - [css-validator (W3)](https://jigsaw.w3.org/css-validator/)
 - [CSS Code Quality](https://www.projectwallace.com/css-code-quality)
 - [CSS Flexible Box Layout Module Level 1](https://www.w3.org/TR/css-flexbox-1/)
@@ -13,6 +15,8 @@
 - https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/
 - [10 CSS One-Liners to Transform Your Web App](https://blog.bitsrc.io/10-css-one-liners-to-transform-your-web-app-04306968c6c7)
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/Functions
+- [css.gui](https://github.com/components-ai/css.gui)
+- https://colourcontrast.cc/?background=ffe66d&foreground=222222
 -
 -
 - [Hyper UI](https://www.hyperui.dev/)
@@ -24,7 +28,7 @@
 -
 - [Simple.css](https://simplecss.org/)
 -
--
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/color-mix
 -
 -
 

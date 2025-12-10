@@ -1,5 +1,24 @@
 # Python
 
+
+
+## 3D
+- [gcs](https://github.com/bu-shapelab/gcs)
+-
+-
+-
+
+## Modelling
+- [min_surfaces_modelling](https://github.com/iorveth/min_surfaces_modelling)
+-
+-
+
+## Libraries
+- [crossword-autogen](https://github.com/fpingas/crossword-autogen)
+-
+-
+-
+
 ---
 
 ## Articles
@@ -39,6 +58,7 @@
 
 ## Framework
 - [Framework](https://frappe.io/framework)
+- [Mountaineer](https://github.com/piercefreeman/mountaineer)
 - [Textual is a Rapid Application Development framework for Python.](https://github.com/Textualize/textual)
 - [Tornado](https://www.tornadoweb.org/en/stable/)
 - [Twisted](https://twisted.org/)

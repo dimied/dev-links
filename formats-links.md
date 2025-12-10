@@ -76,7 +76,7 @@
 - [PDF Split and Merge](https://wiki.ubuntuusers.de/PDF_Split_and_Merge/)
 - [PDFtk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/)
 - [How to Merge PDF files](http://ktmatu.com/info/merge-pdf-files/)
--
+- [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 -
 -
 

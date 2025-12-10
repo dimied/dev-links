@@ -2,6 +2,9 @@
 
 
 
+- https://github.com/mxgmn/WaveFunctionCollapse
+-
+-
 
 ---
 
@@ -19,6 +22,8 @@
 
 ## OpenSource
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD)
+- [rhioCAD](https://github.com/mikowiec/rhioCAD)
+-
 -
 -
 

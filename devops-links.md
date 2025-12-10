@@ -11,11 +11,47 @@
 - [taubyte](https://taubyte.com/)
 - [TernFS](https://github.com/XTXMarkets/ternfs)
 -
+- [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+-
+- [Tracecat](https://www.tracecat.com/)
+-
+- [Opsy](https://github.com/datolabs-io/opsy)
+-
+- [Pantry](https://getpantry.cloud/)
+-
+- [XPipe](https://github.com/xpipe-io)
+-
+- [Amplication](https://amplication.com/)
+-
+- [RustDeck](https://rustdesk.com/de/)
+-
+- [ScreenshotOne](https://screenshotone.com/)
+- [LocalCan](https://www.localcan.com/)
+- [Rover](https://www.getrover.com/)
+-
+- [appwrite](https://github.com/appwrite/appwrite)
+- [apidog](https://apidog.com/)
+- [signoz.io](https://signoz.io/)
+- https://capture.dev/
+-
+- [asdf](https://asdf-vm.com/)
+-
+
+
+
+## Agents
+- [Telegraf](https://github.com/influxdata/telegraf)
+-
 -
 
 ## Cloud
 - [Komodor](https://komodor.com/)
 -
+-
+
+## Data storage
+- [Ceph](https://github.com/ceph/ceph)
+- [Seafile](https://github.com/haiwen/seafile)
 -
 
 ## OS
@@ -30,6 +66,7 @@
 
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/cd/)
+- [Drone](https://www.drone.io/)
 - [GOCD](https://www.gocd.org/)
 - [20 Best Continuous Integration Tools: A Guide to Optimizing Your CI/CD Processes](https://securityboulevard.com/2019/05/20-best-continuous-integration-tools-a-guide-to-optimizing-your-ci-cd-processes/)
 - [nx.dev](https://nx.dev/)
@@ -100,12 +137,17 @@
 - [Superfile](https://github.com/yorukot/superfile)
 - [TCPDump](https://www.tcpdump.org/)
 - [tmux](https://wiki.ubuntuusers.de/tmux/)
+- [transform.tools](https://transform.tools/)
 - [TripWire](https://de.wikipedia.org/wiki/Open_Source_Tripwire)
 - [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software))
 - [Vesta Control Panel](https://github.com/outroll/vesta)
 - [WebDav](http://webdav.org/)
 - [Webmin](https://webmin.com/)
 - [ZMap Project](https://zmap.io/)
+
+
+## Media
+- [Supersonic](https://github.com/Mach5/supersonic)
 
 
 ## Cloud(OS)
@@ -117,9 +159,18 @@
 - [yazi](https://github.com/sxyazi/yazi)
 
 
+
+## Logging
+- [logu](https://github.com/ynqa/logu)
+-
+-
+
+
 ## Monitoring
 - [Cacti](https://www.cacti.net/)
+- [Checkmate](https://checkmate.so/)
 - [healthchecks](https://github.com/healthchecks/healthchecks)
+- [highlight.io](https://highlight.io/)
 - [Malcolm](https://github.com/cisagov/Malcolm)
 - [SmokePing](https://github.com/oetiker/SmokePing)
 - [uptime-kuma](https://github.com/louislam/uptime-kuma)
@@ -154,11 +205,10 @@
 -
 
 
-## OpenStack
-- https://docs.openstack.org/api-quick-start/
 
 ## Docker
 - [docker.com](https://www.docker.com/)
+- [dokku](https://github.com/dokku/dokku)
 - [BLAFS](https://github.com/negativa-ai/BLAFS)
 - [imagelayers](https://github.com/microscaling/imagelayers)
 - [Lazydocker](https://github.com/jesseduffield/lazydocker)
@@ -167,6 +217,10 @@
 - [Docker Swarm: Deploying a 3-Tier Architecture](https://medium.com/nerd-for-tech/docker-swarm-deploying-a-3-tier-architecture-a4bdafd746a1)
 - [I Reduced My production Docker Container’s Size by 96%](https://levelup.gitconnected.com/optimize-your-docker-go-web-app-for-production-2c55db4d96ce)
 - https://github.com/docker/docker-bench-security
+- https://medium.com/@ujjawalr/5-dockerfile-tricks-that-separate-senior-developers-from-juniors-bcd9846d8b7f
+-
+-
+-
 -
 
 
@@ -180,6 +234,7 @@
 - [Keda](https://keda.sh/)
 - [k0smotron](https://k0smotron.io/)
 - [linkerd2](https://github.com/linkerd/linkerd2)
+- [netshoot](https://github.com/nicolaka/netshoot)
 - [How to Achieve Zero-Downtime Application with Kubernetes](https://blog.devops.dev/how-to-achieve-zero-downtime-application-with-kubernetes-ba52fdea9a9b)
 - [Welcome Tilt: Fixing the pains of microservice development for Kubernetes](https://www.docker.com/blog/welcome-tilt-fixing-the-pains-of-microservice-development-for-kubernetes/)
 - https://thenewstack.io/how-to-choose-the-right-kubernetes-monitoring-tool/
@@ -197,6 +252,14 @@
 -
 -
 
+---
+
+## OpenStack
+- https://docs.openstack.org/api-quick-start/
+-
+-
+
+---
 
 ## Service mesh
 - https://www.infracloud.io/blogs/service-mesh-comparison-istio-vs-linkerd/
@@ -222,7 +285,7 @@
 - [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes](https://cloudnativenow.com/topics/cloudnativedevelopment/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/)
 - [Beobachtbarkeit von Google Cloud](https://cloud.google.com/products/observability)
 - https://dzone.com/articles/how-to-share-and-sync-code-between-microservices
--
+- https://dev.to/huizhou92/debunking-the-misconception-maximum-number-of-tcp-connections-on-a-server-174
 -
 
 

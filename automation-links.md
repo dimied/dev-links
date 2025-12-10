@@ -3,8 +3,12 @@
 
 - [dagster](https://dagster.io/)
 -
+- [openmediavault](https://github.com/openmediavault/openmediavault/)
 -
-
+- [Home Assistant](https://github.com/home-assistant)
+-
+- [ThingsBoard](https://github.com/thingsboard/thingsboard)
+-
 
 ## Workflow (OS)
 - [Cadence](https://cadenceworkflow.io/)
