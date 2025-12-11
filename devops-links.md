@@ -36,7 +36,53 @@
 -
 - [asdf](https://asdf-vm.com/)
 -
+- [kestra](https://kestra.io/)
+- [traefik](https://github.com/traefik/traefik)
+- [Inngest](https://www.inngest.com/)
+-
+- [Reflex](https://reflex.dev/)
+- [Redsift](https://redsift.com/pulse-platform/certificates-lite)
+- [Windmill](https://www.windmill.dev/)
+-
+- [Geodesic](https://github.com/cloudposse/geodesic)
+- [dash0](https://www.dash0.com/)
+- [Crossplane](https://github.com/crossplane/crossplane)
+- [piku](https://github.com/piku/piku)
+-
+- [keep](https://github.com/keephq/keep)
+-
+- [convex](https://www.convex.dev/)
+-
+- [kyanos](https://github.com/hengyoush/kyanos)
+-
+- [KitOps](https://github.com/kitops-ml/kitops)
+-
+- [SigNoz](https://github.com/SigNoz/signoz)
+-
+- [hoppscotch.io](https://hoppscotch.io/)
+-
+- [modd](https://github.com/cortesi/modd)
+-
 
+
+## Dashboards
+- [Dashy](https://github.com/Lissy93/dashy)
+-
+-
+
+
+## Streaming
+- [s2.dev](https://s2.dev/)
+-
+-
+
+
+## PaaS, Self-hosting
+- [CapRover](https://caprover.com/)
+- [Coolify](https://coolify.io/)
+- [Urocissa](https://github.com/hsa00000/Urocissa)
+-
+-
 
 
 ## Agents
@@ -61,19 +107,28 @@
 ## Auth
 - [OpenID Connect](https://de.wikipedia.org/wiki/OpenID_Connect)
 - [Permit.io](https://www.permit.io/)
+- [SSOReady](https://github.com/ssoready/ssoready)
 -
 -
+-
+
+---
 
 ## CI/CD
 - [Argo CD](https://argoproj.github.io/cd/)
 - [Drone](https://www.drone.io/)
+- [Gitea](https://about.gitea.com/)
 - [GOCD](https://www.gocd.org/)
-- [20 Best Continuous Integration Tools: A Guide to Optimizing Your CI/CD Processes](https://securityboulevard.com/2019/05/20-best-continuous-integration-tools-a-guide-to-optimizing-your-ci-cd-processes/)
 - [nx.dev](https://nx.dev/)
+- [Tekto](https://tekton.dev/)
 - [Travis CI](https://www.travis-ci.com/)
 -
 -
 
+### Articles (CI/CD)
+- [20 Best Continuous Integration Tools: A Guide to Optimizing Your CI/CD Processes](https://securityboulevard.com/2019/05/20-best-continuous-integration-tools-a-guide-to-optimizing-your-ci-cd-processes/)
+
+---
 
 ## Apps
 - [Cloudcraft](https://www.cloudcraft.co/)
@@ -169,6 +224,7 @@
 ## Monitoring
 - [Cacti](https://www.cacti.net/)
 - [Checkmate](https://checkmate.so/)
+  - [Checkmate](https://github.com/bluewave-labs/checkmate)
 - [healthchecks](https://github.com/healthchecks/healthchecks)
 - [highlight.io](https://highlight.io/)
 - [Malcolm](https://github.com/cisagov/Malcolm)
@@ -178,6 +234,24 @@
 - [4 open source monitoring tools](https://opensource.com/article/18/8/open-source-monitoring-tools)
 -
 -
+
+## System monitor
+- [Conky](https://github.com/brndnmtthws/conky)
+-
+-
+
+## SRE
+- [Parity](https://www.tryparity.com/)
+- [StatusPal](https://www.statuspal.io/)
+
+
+
+## SRE (OS)
+- [HyperDX](https://github.com/hyperdxio/hyperdx)
+-
+-
+
+---
 
 ## Git
 - [How to Delete Commits From Remote in Git](https://hackernoon.com/how-to-delete-commits-from-remote-in-git)
@@ -189,9 +263,13 @@
 - [GitLab Runners](https://www.youtube.com/watch?v=JFMXe1nMopo)
 - [Your Private CI/CD using self-hosted GitLab and Docker](https://levelup.gitconnected.com/your-private-ci-cd-using-self-hosted-gitlab-ci-and-docker-ee1aca71b99e)
 
+## HTTP
+- [httptap](https://github.com/monasticacademy/httptap)
+
 
 ## WebServer
 - [Hiawatha](https://hiawatha.leisink.net/)
+
 
 ## IPs
 - [Ip2Loc](https://ip2loc.com/)
@@ -202,6 +280,15 @@
 
 ### IPs (free)
 - [geoip.spotrealms.com](https://geoip.spotrealms.com/)
+-
+
+
+## Container, Images
+- [containerd](https://containerd.io/)
+- [linuxserver.io](https://www.linuxserver.io/)
+- [Podman](https://podman.io/)
+- [skopeo](https://github.com/containers/skopeo)
+- [modern.ie-vm](https://archive.org/download/modern.ie-vm)
 -
 
 
@@ -226,6 +313,7 @@
 
 ## Kubernetes
 - [Kubernetes](https://kubernetes.io/)
+- [ArgoCD](https://github.com/argoproj/argo-cd)
 - [Kubernetes History Inspector](https://github.com/GoogleCloudPlatform/khi)
 - [Cyclops](https://github.com/cyclops-ui/cyclops)
 - [Headlamp](https://github.com/kubernetes-sigs/headlamp)
@@ -233,6 +321,8 @@
 - [Karpenter](https://karpenter.sh/)
 - [Keda](https://keda.sh/)
 - [k0smotron](https://k0smotron.io/)
+- [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
+- [lens](https://github.com/lensapp/lens)
 - [linkerd2](https://github.com/linkerd/linkerd2)
 - [netshoot](https://github.com/nicolaka/netshoot)
 - [How to Achieve Zero-Downtime Application with Kubernetes](https://blog.devops.dev/how-to-achieve-zero-downtime-application-with-kubernetes-ba52fdea9a9b)

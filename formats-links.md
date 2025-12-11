@@ -1,6 +1,12 @@
 # Formats
 
 
+## Apps (Paid)
+- [Appryse](https://docs.apryse.com/)
+-
+-
+
+
 ## Apps
 - [asciidoctor](https://asciidoctor.org/)
 - [cloudconvert](https://cloudconvert.com/)
@@ -24,6 +30,24 @@
 - https://www.mindbreeze.com/de
 - https://travelarounds.com/
 -
+- [DocuSeal](https://www.docuseal.com/)
+- 
+
+
+## Apps (PDF)
+- [MuPDF](https://de.wikipedia.org/wiki/MuPDF)
+-
+-
+
+
+## Libraries (PDF)
+- [Poppler](https://de.wikipedia.org/wiki/Poppler)
+-
+-
+
+
+## Documents (OS)
+- [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
 -
 -
 
@@ -63,12 +87,17 @@
 - https://commons.apache.org/proper/commons-compress/examples.html
 
 
+## Markdown
+- [Marked](https://github.com/markedjs/marked)
+-
+
 ## FFMpeg
 - https://stackoverflow.com/questions/5487085/ffmpeg-convert-html-5-video-not-working
 
 
 ## OCR
 - [olmOCR](https://medium.com/@samarrana407/olmocr-the-open-source-ocr-powerhouse-for-document-conversion-3deb90282ed4)
+- [surya](https://github.com/datalab-to/surya)
 
 ## PDF
 - https://stackoverflow.com/questions/11850776/reducing-pdf-file-size-using-ghostscript-on-linux-didnt-work

@@ -19,9 +19,14 @@
 
 
 ## GUI
+- [dioxus](https://github.com/DioxusLabs/dioxus)
 - [egui](https://github.com/emilk/egui)
 -
 -
+
+
+## Search
+- [Sonic](https://crates.io/crates/sonic-server)
 
 
 ## Web

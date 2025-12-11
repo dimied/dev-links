@@ -1,6 +1,11 @@
 # Python
 
 
+## Audio
+- [pedalboard](https://github.com/spotify/pedalboard)
+-
+-
+
 
 ## 3D
 - [gcs](https://github.com/bu-shapelab/gcs)

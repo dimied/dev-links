@@ -28,6 +28,7 @@
 - [DRBD](https://de.wikipedia.org/wiki/DRBD)
 - [Pacemaker](https://de.wikipedia.org/wiki/Pacemaker)
 - [GNU Parallel](https://www.gnu.org/software/parallel/)
+- [eza](https://github.com/eza-community/eza)
 - find
   - https://hypexr.org/linux_find_help.html
 - ls

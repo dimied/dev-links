@@ -28,6 +28,7 @@
 - [google-webfonts-helper](https://gwfh.mranftl.com/fonts)
 - [Improve Page Speed when Using Google Fonts](https://johnfraney.ca/blog/improve-page-speed-google-fonts/)
 -
+- [Font Tester](https://font-tester.foxcraft.tech/)
 
 ---
 
@@ -43,10 +44,15 @@
 - [icomoon](https://icomoon.io/)
 - [ionicons](https://ionic.io/ionicons/)
 - [Ligature Symbols](https://kudakurage.com/ligature_symbols/)
+- [Linearicons](https://linearicons.com/)
+- [lordicon](https://lordicon.com/)
+- [Lucide](https://lucide.dev/)
+  - [Lucide (git)](https://github.com/lucide-icons/lucide)
 - [MFG labs icon set](https://mfglabs.github.io/mfglabs-iconset/)
 - [modernpictograms](https://modernpictograms.com/)
 - [nucleoapp](https://nucleoapp.com/)
 - [nounproject](https://thenounproject.com/)
+- [Simple Icons](https://github.com/simple-icons/simple-icons)
 - [Typicons](https://www.s-ings.com/typicons/)
 - https://responsiveicons.co.uk/
 

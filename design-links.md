@@ -40,9 +40,56 @@
 - https://github.com/mgp/book-notes/blob/master/the-non-designers-design-book.markdown
 -
 - https://www.awwwards.com/websites/3d/
+-
+- [Clipdrop](https://clipdrop.co/)
+- [Vizzu](https://lib.vizzuhq.com/latest/)
+-
+- [Shaper](https://github.com/hihayk/shaper)
+- [Ark UI](https://ark-ui.com/)
+-
+- [Minimox](https://minimox.vercel.app/)
+-
+- [Carbon](https://carbondesignsystem.com/)
+-
+- [PatternPad](https://patternpad.com/)
+-
+- [Magic UI](https://magicui.design/)
+-
+- https://lawsofux.com/
+- https://designbetterpodcast.com/
+- https://www.kickassux.com/
+- https://learnmobile.design/
+- https://www.uxtools.co/
+- https://uxcel.com/
+-
+- https://superdesigner.co/
+-
+- https://neumorphism.io/#e0e0e0
+-
+-
+- [blobmaker.app](https://www.blobmaker.app/)
+- https://csstypeset.com/
+- https://mockups-design.com/
+-
+
+
 
 ## Examples
 - https://motion.zajno.com/
+
+
+---
+
+## Animation
+- [Lottielab](https://www.lottielab.com/)
+- [lottiefiles](https://lottiefiles.com/featured-free-animations)
+- [motion.dev](https://motion.dev/)
+- [Zdog](https://zzz.dog/)
+- [waitanimate](https://waitanimate.wstone.uk/)
+-
+
+
+---
 
 ## Colors (Paid)
 - [Spectrum](https://colorspectrum.design/)
@@ -52,10 +99,16 @@
 ## Colors
 - [Accessible colors](https://accessible-colors.com/)
 - [Colorable](https://colorable.jxnblk.com/)
+- [ColorSpace](https://mycolor.space/)
 - [Color-wheel (Canva)](https://www.canva.com/colors/color-wheel/)
+- [Muzli colors](https://colors.muz.li/)
 - https://noeldelgado.github.io/shadowlord/#2f8d29
+- [Reasonable colors](https://www.reasonable.work/colors/)
+-
+-
 
 ## Gradient
+- [cssgradient.io](https://cssgradient.io/)
 - [culrs](https://culrs.com/)
 - [shadergradient](https://shadergradient.co/)
 
@@ -93,8 +146,11 @@
 - https://westciv.com/tools/radialgradients/
 - [PatternKid](https://patternkid.com/)
 - [Skelementor](https://webcurate.co/skelementor)
+- [Penpot](https://penpot.app/)
+- [VisBug](https://visbug.web.app/)
 -
 -
+
 
 ## Apps (images)
 - [MRCUTOUT](https://www.mrcutout.com/)
@@ -111,8 +167,13 @@
 - [Atlas icons](https://atlasicons.vectoricons.net/)
 - [Feathericons](https://feathericons.com/)
 - [heroicons](https://heroicons.com/)
+- [iconer.app](https://iconer.app/)
 - [iconic.app](https://iconic.app/)
 - [Iconsax](https://iconsax.io/)
+- https://creatorsrepo.com/icons?system=material
+- https://lucide-animated.com/
+- [unicornicons](https://www.unicornicons.com/)
+-
 -
 
 ---
@@ -169,6 +230,9 @@
 - [Web APIs that you should use for a Better UX](https://medium.com/better-programming/must-have-web-apis-for-better-ux-34af6747cb8f)
 - https://blog.bitsrc.io/5-tips-for-modern-frontend-architecture-e3342241cb15
 - https://dev.to/kathykato/creating-reveal-effects-on-scroll-31o6
+- https://uxplanet.org/14-logic-driven-ui-design-tips-145ee08ea5a5
+- https://medium.com/design-bootcamp/7-ui-ux-principles-every-dev-should-know-463f5253356c
+- https://martinfowler.com/articles/design-token-based-ui-architecture.html
 -
 
 

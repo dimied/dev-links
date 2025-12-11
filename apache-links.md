@@ -5,6 +5,7 @@
 ---
 
 - [ActiveMQ](https://activemq.apache.org/)
+- [Allura](https://allura.apache.org/)
 - [Ambari (Hadoop)](https://ambari.apache.org/)
 - [Arrow](https://arrow.apache.org/)
 - [ATLAS](https://cwiki.apache.org/confluence/display/ATLAS/Atlas+Home)
@@ -14,6 +15,9 @@
 - [Cassandra](https://cassandra.apache.org/_/index.html)
 - [Cordova](https://cordova.apache.org/)
 - [Derby (database)](https://de.wikipedia.org/wiki/Apache_Derby)
+- [DolphinScheduler](https://dolphinscheduler.apache.org/)
+- [ECharts](https://echarts.apache.org/en/index.html)
+  - [ZRender](https://github.com/ecomfe/zrender)
 - [Guacamole](https://guacamole.apache.org/)
 - [Impala](https://impala.apache.org/)
 - [Ivy](https://ant.apache.org/ivy/)
@@ -29,12 +33,21 @@
 - [Parquet](https://parquet.apache.org/)
 - [PDFBox](https://pdfbox.apache.org/)
 - [Solr (search platform)](https://solr.apache.org/)
+- [SkyWalking](https://github.com/apache/skywalking)
 - [SystemDS](https://en.wikipedia.org/wiki/Apache_SystemDS)
 - [Thrift](https://thrift.apache.org/)
 - [Traffic Server](https://github.com/apache/trafficserver)
 - [YuniKorn (Kubernetes)](https://yunikorn.apache.org/)
 - [Zeppelin](https://zeppelin.apache.org/)
 - [Zookeeper](https://zookeeper.apache.org/)
+
+---
+
+- [strimzi](https://github.com/strimzi/strimzi-kafka-operator)
+- https://github.com/k8ssandra/k8ssandra-operator
+-
+
+
 
 ---
 

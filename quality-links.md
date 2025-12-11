@@ -62,7 +62,9 @@
   - [End-to-end testing with Nightwatch.js](https://medium.com/kaliop/end-to-end-testing-with-nightwatch-js-a821ad787fa4)
 - [PhantomJS](https://phantomjs.org/)
 - [Playwright](https://playwright.dev/)
+- [Puppeteer](https://pptr.dev/)
 - [Puppetry](https://puppetry.app/)
+- [Responsive Viewer](https://responsiveviewer.org/)
 - [Reqres](https://reqres.in/)
 - [SauceLabs](https://saucelabs.com/)
 - [Selenium](https://www.selenium.dev/)
@@ -73,6 +75,7 @@
 - [Testcafe](https://testcafe.io/)
 - [Testling](https://ci.testling.com/)
 - [testrigor](https://testrigor.com/)
+- [testlink-code](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
 - [wallaby.js](https://wallabyjs.com/)
 - [Watir](https://en.wikipedia.org/wiki/Watir)
 - [webdriver.io](https://webdriver.io/)
@@ -85,7 +88,9 @@
 
 
 ## Tools
+- [Bruno](https://github.com/usebruno/bruno)
 - https://github.com/jonathanpenn/ui-auto-monkey
+
 
 ## Java
 - [Mockito](https://site.mockito.org/)

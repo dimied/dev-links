@@ -9,6 +9,9 @@
 -
 - [ThingsBoard](https://github.com/thingsboard/thingsboard)
 -
+- [n8n](https://n8n.io/)
+-
+-
 
 ## Workflow (OS)
 - [Cadence](https://cadenceworkflow.io/)
@@ -28,6 +31,23 @@
 - 
 
 
+## Python
+- https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b
+-
+-
+-
+
+
+## Browser
+- [Stagehand](https://github.com/browserbase/stagehand)
+- https://github.com/lexiforest/curl-impersonate
+-
+
+
+## Web scraping
+- [Crawlee](https://github.com/apify/crawlee)
+
+
 ## Web
 - [Windmill](https://github.com/windmill-labs/windmill)
 -
@@ -37,5 +57,14 @@
 
 ## JavaScript
 - https://medium.com/write-a-catalyst/7-awesome-javascript-automation-scripts-that-i-use-daily-e896542c1d69
+-
+-
+-
+-
+
+
+
+
+
 
 

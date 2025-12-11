@@ -6,7 +6,7 @@
 - [Google](https://github.com/google/google-api-javascript-client)
 - [Puppeteer](https://developer.chrome.com/docs/puppeteer/)
 - [Totaljs](https://www.totaljs.com/)
-
+- [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 - [Piny](https://getpiny.com/)
 ---
@@ -84,14 +84,79 @@
 - https://www.textcompare.org/javascript/
 - https://minify-js.com/
 -
+- [pdf-lib.js](https://pdf-lib.js.org/)
+-
+- https://targetj.io/
+- https://github.com/tolgee/tolgee-platform
+- https://github.com/mielo-ui/mielo.css/
+-
+- [Party.js](https://party.js.org/)
+- [Style Observer](https://github.com/LeaVerou/style-observer)
+-
+- [Ohm.js](https://ohmjs.org/)
+- [riot.js](https://github.com/riot/riot)
+- https://github.com/felix-bohlin/ui
+-
+-
+- [FortuneSheet](https://github.com/ruilisi/fortune-sheet)
+-
+- [RunKit](https://runkit.netlify.app/)
+-
+- [NitroModules](https://github.com/mrousavy/nitro)
+-
+- [BenchJS](https://benchjs.com/)
+-
+- [jscanify](https://github.com/puffinsoft/jscanify)
+-
+- [mavo](https://mavo.io/)
+-
+-
+- https://github.com/GrapesJS/touch/blob/master/src/touchpolyfill.js
+-
+- https://github.com/toss/es-toolkit
+-
+- [RunJS](https://runjs.app/)
+-
+- [Tippy.js](https://atomiks.github.io/tippyjs/)
+-
+- https://quokkajs.com/
+-
+-
+-
+
+
+
+## Form builder
+- [Formsmd](https://github.com/formsmd/formsmd)
+-
+-
+
+
+## Grid system
+- [fast-grid](https://github.com/gabrielpetersson/fast-grid)
+-
+-
+
+
+## Web Builder (OS)
+- [GrapesJS](https://github.com/GrapesJS/grapesjs)
+- [Plasmic](https://www.plasmic.app/)
+- [Webstudio](https://github.com/webstudio-is/webstudio)
 -
 
 ---
 
 - [Bun](https://bun.sh/)
 - [Deno](https://deno.com/)
+-
+-
+-
 - [htmx](https://htmx.org/)
 - [bare](https://github.com/holepunchto/bare)
+-
+-
+- https://esbuild.github.io/
+- [oxc](https://github.com/oxc-project/oxc)
 
 ## Specs
 - [Shadow DOM](https://www.w3.org/TR/shadow-dom/)
@@ -135,7 +200,9 @@
 - https://medium.com/@reidev275/typesafe-monadic-parsing-with-mapped-types-in-typescript-a3ef9efbd9f2
 - [up-fetch](https://github.com/L-Blondy/up-fetch)
 - [zod](https://github.com/colinhacks/zod)
+- https://valibot.dev/
 -
+
 
 ## AI, OCR
 - - https://tesseract.projectnaptha.com/
@@ -237,6 +304,12 @@
 - [mojs](https://mojs.github.io/)
 - [Popmotion](https://popmotion.io/)
 - [vivus](https://maxwellito.github.io/vivus/)
+-
+
+
+## Maps
+- [Leafletjs](https://leafletjs.com/)
+-
 -
 
 
@@ -367,6 +440,7 @@
 - [lz-string](https://pieroxy.net/blog/pages/lz-string/index.html)
 - [markojs](https://markojs.com/)
 - [MathJax](https://www.mathjax.org/)
+- [math.js](https://mathjs.org/)
 - [Maquette](https://maquettejs.org/)
 - [MediaElement.js](https://www.mediaelementjs.com/)
 - [Mermaid.js](https://mermaid.js.org/)
@@ -479,12 +553,12 @@
 - https://github.com/kimmobrunfeldt/progressbar.js
 - https://github.com/pqina/filepond
 -
--
 
 ## Components
 - [Bit](https://github.com/teambit/bit)
 - [DHTMLX](https://dhtmlx.com/)
 - [Inferno.js](https://www.infernojs.org/)
+- [Mitosis](https://github.com/BuilderIO/mitosis)
 - [Riot.js](https://riot.js.org/)
 - [Stencil](https://stenciljs.com/)
 - [X-Tag](https://x-tag.github.io/)
@@ -536,6 +610,7 @@
 ---
 
 ## Frameworks
+- [Astro](https://astro.build/)
 - [Aurelia](https://aurelia.io/)
 - [DerbyJS](https://derbyjs.com/)
 - [Electronjs](https://www.electronjs.org/)
@@ -544,13 +619,16 @@
 - [Mootools](https://mootools.net/)
 - [Nue.js](https://nuejs.org/)
 - [Prototypejs](http://prototypejs.org/)
-- [VanJS](https://vanjs.org/)
-- [Vanilla-JS](http://vanilla-js.com/)
+- [Reveal.js](https://revealjs.com/)
 - [ShieldUI](https://www.shieldui.com/)
 - [Svelte](https://svelte.dev/)
 - [qooxdoo](https://qooxdoo.org/)
+- [VanJS](https://vanjs.org/)
+- [Vanilla-JS](http://vanilla-js.com/)
 - [webcomponents](https://www.webcomponents.org/)
 - https://semantic-ui.com/
+- [wasp](https://github.com/wasp-lang/wasp)
+-
 -
 
 ---
@@ -657,8 +735,12 @@
 
 
 ## React
+- [Ant Design](https://ant.design/)
 - [Chakra-UI](https://v2.chakra-ui.com/)
 - [Expo](https://expo.dev/)
+- [Fancy](https://github.com/danielpetho/fancy)
+- [Formily](https://github.com/alibaba/formily)
+- [mui](https://mui.com/)
 - [Pure React](https://www.purereact.com/)
 - https://github.com/chenkie/react-user-authentication
 - https://github.com/oblador/react-native-vector-icons
@@ -669,6 +751,8 @@
 - https://recoiljs.org/
 - https://create-react-app.dev/docs/making-a-progressive-web-app/
 - [Functional UI Kit](https://github.com/functional-ui/functional-ui-kit)
+- [Refine](https://github.com/refinedev/refine)
+- https://github.com/astoilkov/use-local-storage-state
 -
 -
 
@@ -683,6 +767,7 @@
 - [Nuxt](https://nuxt.com/)
 - [vuetify](https://vuetifyjs.com/en/)
 - [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar)
+- [Quasar](https://quasar.dev/)
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)
 - [Vue Toastification](https://github.com/Maronato/vue-toastification)
 - https://github.com/rhysd/marked-sanitizer-github/blob/master/test/fixture/vuejs-awesome-vue-README.md
@@ -784,6 +869,7 @@
 
 
 ## WebAPI
+- [AbortSignal](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
 - [Ambient light sensor](https://www.w3.org/TR/ambient-light/)
 - [Contact Picker API](https://www.w3.org/TR/contact-picker/)
 - [Contact Picker](https://developer.chrome.com/docs/capabilities/web-apis/contact-picker?hl=de)
@@ -816,6 +902,7 @@
 - [User Timing](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API/User_timing)
 - [View Transition API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
 - [Web Shape API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
+- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
 - [WebTransport API](https://developer.mozilla.org/en-US/docs/Web/API/WebTransport_API)
 - [SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
@@ -829,7 +916,7 @@
 - [Stay awake with the Screen Wake Lock API](https://developer.chrome.com/docs/capabilities/web-apis/wake-lock)
 - https://developer.mozilla.org/en-US/docs/Web/API/Scheduler/yield
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/speculationrules
--
+- [DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
 -
 -
 
@@ -1078,11 +1165,23 @@
 - https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/jj676915(v=vs.85)?redirectedfrom=MSDN
 - https://medium.com/@kp9810113/10-browser-tricks-that-instantly-made-me-a-faster-frontend-developer-e7d79477358c
 - https://javascript.plainenglish.io/how-to-style-broken-images-using-css-b238c907c8af
+- https://medium.com/@letscodefuture/15-open-source-projects-every-developer-should-bookmark-4ef3d29f8b49
+- https://medium.com/@letscodefuture/15-modern-open-source-tools-for-supercharge-your-next-project-ecf2b23b6f66
+- https://medium.com/sourcescribes/9-github-projects-that-surprised-me-c6326cd53bcd
+-
+- https://www.geeksforgeeks.org/javascript/how-to-differentiate-functions-using-mathjs/
+-
+- https://medium.com/coding-beauty/new-javascript-pipeline-operator-transform-anything-into-a-one-liner-2287aecb6314
+- https://www.dhiwise.com/post/luxon-vs-date-fns-whats-the-best-for-managing-dates
+- https://medium.com/@arnoldgunter/10-weird-facts-about-javascript-youve-never-heard-before-6ccb14628121
+- https://medium.com/no-nonsense-backend/8-javascript-performance-tips-i-discovered-after-years-of-coding-56ab5fae43af
+- https://javascript.plainenglish.io/javascripts-new-safe-assignment-operator-revolutionizing-error-handling-in-2024-995816a18350
+-
+- https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Code_style_guide/JavaScript#general_guidelines_for_javascript_code_examples
+- https://medium.com/coding-beauty/new-javascript-operator-1e60dea05654
+- https://javascript.plainenglish.io/11-mysterious-but-interesting-front-end-tips-39f98bc416a9
 -
 -
--
--
-
 
 
 

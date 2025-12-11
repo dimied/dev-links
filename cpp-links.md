@@ -1,11 +1,36 @@
 ## C, C++
 
 
+## Online compiler
+- [godbolt](https://godbolt.org/)
+-
+-
+
+
 ## Audio
 - [Csound](https://de.wikipedia.org/wiki/Csound)
 - [portaudio](https://www.portaudio.com/)
 -
 -
+
+
+## Linking
+- [Wild](https://github.com/davidlattimore/wild)
+-
+-
+
+
+## Assembly
+- https://gpfault.net/posts/asm-tut-0.txt.html
+
+
+## Other languages
+- [How to call C/C++ code from Node.js](https://medium.com/@koistya/how-to-call-c-c-code-from-node-js-86a773033892)
+-
+-
+-
+
+---
 
 ## C
 - https://gcc.gnu.org/onlinedocs/cpp/Common-Predefined-Macros.html
@@ -15,6 +40,7 @@
 - https://sys.cs.fau.de/lehre/ss24/bst/uebung/doc/extern/gcc-inline-assembly.html
 - [Static, Shared Dynamic and Loadable Linux Libraries](https://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 - [Automated testing in C — Part I](https://blog.devgenius.io/automated-testing-in-c-457a687633cc)
+- https://blog.devgenius.io/automated-testing-in-c-part-ii-42304d40dadb
 - [C versus C++: fight!](https://itnext.io/c-versus-c-fight-201b3f07a94f)
 -
 -
@@ -25,13 +51,28 @@
 -
 -
 
+## GUI
+- [Clay](https://www.nicbarker.com/clay)
+-
+-
 
+
+## Web
+- https://dev.to/jeffreythecoder/how-i-built-a-simple-http-server-from-scratch-using-c-739
+- https://github.com/JeffreytheCoder/Simple-HTTP-Server
+-
+-
+-
+-
 
 ---
 
 ## C++
 
 - [Awesome Modern C++](https://awesomecpp.com/)
+- [cplusplus.com](https://cplusplus.com/)
+-
+-
 
 ### Libraries
 - [certificate-transparency: Auditing for TLS certificates](https://github.com/google/certificate-transparency)
@@ -41,7 +82,9 @@
 - [exprparse](https://github.com/amgary/exprparse)
 - [folly](https://github.com/facebook/folly)
 - [FlatBuffers](https://github.com/google/flatbuffers)
+- [gpu.cpp](https://github.com/AnswerDotAI/gpu.cpp)
 - [highwayhash](https://github.com/google/highwayhash)
+- [json.cpp](https://github.com/jart/json.cpp)
 - [NanoLog](https://github.com/PlatformLab/NanoLog)
 - [simdjson](https://github.com/simdjson/simdjson)
 - [Skia](https://github.com/google/skia)
@@ -67,10 +110,15 @@
 - [CurvatureVisualization](https://github.com/andresbejarano/CurvatureVisualization)
 - [OpenVSP](https://github.com/OpenVSP/OpenVSP)
 - [Pinocchio](https://github.com/pmolodo/Pinocchio)
+- [raylib](https://www.raylib.com/)
 - [subdivision-surfaces](https://github.com/manuelpagliuca/subdivision-surfaces)
 - [Subdivision Surfaces](https://github.com/RobertBColton/SubdivisionSurfaces)
 - https://github.com/Q-Minh/naive-surface-nets
 -
+
+
+## Web
+- [Crow](https://crowcpp.org/master/)
 
 
 ## Articles

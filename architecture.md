@@ -15,8 +15,13 @@
 - [Istio.io](https://istio.io/)
 - [Parse Platform](https://parseplatform.org/)
 -
+- [OSGi](https://de.wikipedia.org/wiki/OSGi)
+-
 - [SPDX](https://spdx.dev/)
 -
+- [Swark](https://github.com/swark-io/swark)
+-
+- [Simulacrum](https://github.com/metz-sh/simulacrum)
 
 
 ## CMDB
@@ -34,10 +39,16 @@
 -
 -
 
+## Data models
+- [TypeSchema](https://typeschema.org/)
+-
+-
+
 
 ## Tools
 - [httpie](https://httpie.io/)
 - [Diagrams](https://diagrams.mingrammer.com/)
+- [IcePanel](https://icepanel.io/)
 - [PlantUML](https://plantuml.com/de/)
 - [Terrastruct](https://terrastruct.com/)
 - [Structurizr](- https://structurizr.com/)
@@ -61,14 +72,16 @@
 -
 
 ## Web
+- https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a
 - https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
 - https://blog.bitsrc.io/micro-frontends-shell-vs-micro-apps-5ad809a9b85a
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
--
+- https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e
 -
 -
 
 ## Articles
+- https://azeynalli1990.medium.com/fundamental-skills-for-becoming-performant-software-architect-b02369f1fecc
 - [7 modelling languages for software architecture](https://icepanel.medium.com/7-modelling-languages-for-software-architecture-2ed3a9f75343)
 - [Top 5 Distributed System Design Patterns](https://medium.com/better-programming/top-5-distributed-system-design-patterns-ae9482f49128)
 - https://github.com/binhnguyennus/awesome-scalability
@@ -93,6 +106,24 @@
 - https://blog.bitsrc.io/10-microservice-anti-patterns-278bcb7f385d
 - https://chubernetes.com/evolution-of-monolithic-systems-c20156f06907
 - https://medium.com/@justincloud/i-managed-to-outsource-all-authentication-headaches-in-1-hour-for-my-saas-17357357487
+- https://aakibkhan1.medium.com/how-to-create-good-software-architecture-diagrams-06bc900dcb96
+- https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022
+- https://levelup.gitconnected.com/my-favourite-software-architecture-patterns-0e57073b4be1
+- https://medium.com/software-design-concepts/10-of-the-best-anti-patterns-ever-dcbab89bc21d
 -
+- https://martinfowler.com/bliki/StranglerFigApplication.html
+-
+-
+-
+
+
+
+
+
+
+
+
+
+
 
 

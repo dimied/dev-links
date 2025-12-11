@@ -1,6 +1,6 @@
 # CSS
 
-
+- [Charts.css](https://chartscss.org/)
 - [cssfx](https://cssfx.netlify.app/)
 - [css-validator (W3)](https://jigsaw.w3.org/css-validator/)
 - [CSS Code Quality](https://www.projectwallace.com/css-code-quality)
@@ -30,9 +30,66 @@
 -
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/color_value/color-mix
 -
+- [Animxyz](https://animxyz.com/)
+- [Whirl](https://whirl.netlify.app/)
+- https://csstriggers.com/
+- https://www.cssvariables.com/
+- https://medium.com/design-bootcamp/the-first-10-lines-of-css-i-write-in-every-project-fe177cb12559
+-
+- https://cube.fyi/#what-does-cube-css-stand-for
+-
+- https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations
+-
+- [Glassmorphism CSS Generator](https://ui.glass/generator/)
+- https://hype4.academy/tools/glassmorphism-generator
+-
+-
+- https://medium.com/design-bootcamp/7-new-css-features-you-dont-know-about-226dd2921cb4
+-
+- [Foundation](https://get.foundation/)
+- [Tachyons](https://tachyons.io/)
+- [Animista](https://animista.net/)
+- [UnusedCSS](https://unused-css.com/)
+- [CSS Scan](https://getcssscan.com/)
+-
+- [Cursify](https://cursify.vercel.app/)
+-
+- https://levelup.gitconnected.com/10-css-tricks-that-made-me-10x-more-productive-0b92a118f25b
+-
+- [unocss](https://github.com/unocss/unocss)
+-
+- https://github.com/9elements/fancy-border-radius
+-
+- [Clippy](https://bennettfeely.com/clippy/)
+-
+- https://www.google.com/search?client=ubuntu&channel=fs&q=css+glassmorphism+generator
+-
+- https://levelup.gitconnected.com/10-css-tips-and-tricks-that-only-experienced-web-developers-know-d18da43d2632
+-
+-
 -
 
 
+
+## CSS Games
+- https://flexboxfroggy.com/#de
+- https://cssgridgarden.com/#de
+- https://flukeout.github.io/
+-
+-
+
+
+## Animation
+- [Animate.css](https://animate.style/)
+- https://github.com/miniMAC/magic
+-
+-
+-
+
+### Loader
+- [CSS Loader Generator](https://www.cssportal.com/css-loader-generator/)
+-
+-
 
 ---
 
@@ -63,6 +120,7 @@
 - [Houdini APIs](https://developer.mozilla.org/en-US/docs/Web/API/Houdini_APIs)
 - [Houdini.how](https://houdini.how/)
 - [CSS Houdini Spellbook](https://houdini.glitch.me/)
+- https://levelup.gitconnected.com/there-is-an-api-in-css-called-houdini-and-its-crazy-769227445d12
 
 ---
 

@@ -1,11 +1,19 @@
 # Auth
 
+- [auth0](https://auth0.com/)
+
+---
+
 - [Cerbos](https://www.cerbos.dev/)
+  - [Cerbos (git)](https://github.com/cerbos/cerbos)
+- [Hanko](https://github.com/teamhanko/hanko)
 - [GNU Radius](https://www.gnu.org/software/radius/)
 - [OData](https://www.odata.org/)
 - [Super Tokens](https://github.com/supertokens/supertokens-core)
 -
--
+- [logto](https://github.com/logto-io/logto)
+- [Zitadel](https://github.com/zitadel/zitadel)
+- https://github.com/stack-auth/stack-auth
 -
 
 

@@ -7,6 +7,11 @@
 - https://github.com/mafintosh/pump
 - https://github.com/node-cache/node-cache
 -
+- [Encore](https://encore.dev/)
+-
+
+## AI
+- [Natural](https://naturalnode.github.io/natural/)
 -
 -
 
@@ -17,6 +22,11 @@
 -
 -
 
+
+## DB, ORM (OS)
+- [Drizzle](https://orm.drizzle.team/)
+- [Prisma](https://github.com/prisma/prisma)
+-
 
 ---
 
@@ -49,7 +59,12 @@
 - [yup](https://github.com/jquense/yup/)
 - https://github.com/jeff-lewis/cls-hooked
 - https://www.npmjs.com/package/node-memwatch
+- [del](https://github.com/sindresorhus/del)
 -
+-
+
+## Templates
+- [pug](https://github.com/pugjs/pug)
 
 
 ## Security
@@ -83,6 +98,11 @@
 - https://github.com/bda-research/node-crawler
 - https://github.com/observing/thor
 -
+-
+-
+
+## Tools
+- [Verdaccio](https://www.verdaccio.org/)
 -
 -
 
@@ -127,8 +147,8 @@
 - https://raygun.com/blog/improve-node-performance/
 - https://blog.logrocket.com/rate-limiting-node-js/#how-to-implement-rate-limiting-node-js
 - https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers
--
--
+- 
+- https://www.30secondsofcode.org/js/s/nodejs-static-file-server/
 -
 
 

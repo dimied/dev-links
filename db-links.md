@@ -2,12 +2,22 @@
 
 - [Convex](https://docs.convex.dev/home)
 - [directus](https://github.com/directus/directus)
+- [dicedb](https://github.com/DiceDB/dice)
 -
-- [nocodb](https://github.com/nocodb/nocodb)
+- [nocodb](https://www.nocodb.com/)
+  - [nocodb (git)](https://github.com/nocodb/nocodb)
 - [supabase.com](https://supabase.com/)
+  - [supabase (git)](https://github.com/supabase/supabase)
 - [tadabase](https://tadabase.io/)
 - [DreamFactory](https://www.dreamfactory.com/)
+- [Instant](https://github.com/instantdb/instant)
+- [Pocketbase](https://pocketbase.io/)
 - [SkyllaDB](https://www.scylladb.com/)
+- [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+- [Valkey](https://valkey.io/)
+- [YugabyteDB](https://github.com/yugabyte/yugabyte-db)
+-
+-
 - [How I Made Postgres Fly on 2 Cores and 4GB RAM — 1.2 Billion Rows in 0.7 Seconds](https://medium.com/@kakamber07/how-i-made-postgres-fly-on-2-cores-and-4gb-ram-1-2-billion-rows-in-0-7-seconds-1a0e01c49571)
 -
 - https://stackoverflow.com/questions/6525917/connect-to-local-mysql-server-through-socket
@@ -15,11 +25,17 @@
 - [DBeaver](https://github.com/dbeaver/dbeaver)
 - [TablePlus](https://tableplus.com/)
 - https://www.pgadmin.org/
-- https://www.beekeeperstudio.io/
+- [Beekeeper](https://www.beekeeperstudio.io/)
+  - [Beekeeper (git)](https://github.com/beekeeper-studio/beekeeper-studio)
 -
 - https://www.digitalocean.com/community/tutorials/how-to-optimize-mysql-with-query-cache-on-ubuntu-18-04
 -
 - https://docs.turso.tech/introduction
+- https://github.com/HelixDB/helix-db
+- [sqlc](https://sqlc.dev/)
+- [Readyset](https://github.com/readysettech/readyset)
+-
+- [react-querybuilder](https://github.com/react-querybuilder/react-querybuilder)
 -
 
 ---
@@ -29,6 +45,7 @@
 ---
 
 - [Qdrant Vector Database](https://qdrant.tech/)
+  - [Qdrant (git)](https://github.com/qdrant/qdrant)
 - [Dicedb](https://dicedb.io/)
 - [Dragonfly is a simple, performant, and cost-efficient in-memory data store.](https://www.dragonflydb.io/)
 - [ SpacetimeDB Multiplayer at the speed of light. ](https://github.com/clockworklabs/SpacetimeDB)

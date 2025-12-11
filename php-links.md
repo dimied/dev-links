@@ -8,7 +8,8 @@
 
 ## Libraries
 - [recaptcha](https://github.com/google/recaptcha)
-
+- [OCR-Text-Extractor](https://github.com/ShababSoftwares/OCR-Text-Extractor)
+- https://github.com/thiagoalessio/tesseract-ocr-for-php
 ---
 
 ## CakePHP

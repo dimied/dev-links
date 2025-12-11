@@ -23,6 +23,33 @@
 - https://www.meilisearch.com/
 -
 - [baserow](https://github.com/baserow/baserow)
+- https://github.com/AUTOMATIC1111/stable-diffusion-webui
+- https://github.com/comfyanonymous/ComfyUI
+- https://github.com/invoke-ai/InvokeAI
+-
+- [Machine Translate](https://machinetranslate.org/)
+- [LandChain](https://docs.langchain.com/oss/python/langgraph/overview)
+- [Zep](https://help.getzep.com/overview)
+-
+- [Janus](https://github.com/deepseek-ai/Janus)
+- [verl](https://github.com/volcengine/verl)
+- [Jan](https://github.com/janhq/jan)
+-
+- [Storm](https://github.com/stanford-oval/storm)
+- [ToolJet](https://github.com/ToolJet/ToolJet)
+-
+- [GenAIScript](https://microsoft.github.io/genaiscript/)
+-
+- [Repomix](https://github.com/yamadashy/repomix)
+-
+- [LangChain](https://www.langchain.com/)
+- 
+- [Omniparse](https://github.com/adithya-s-k/omniparse)
+-
+- https://docs.openhands.dev/overview/introduction
+-
+- [Thunderbit](https://thunderbit.com/)
+-
 -
 
 
@@ -32,22 +59,41 @@
 -
 -
 
+## Tutorials
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
 
 ## Apps
+- [Foocus](https://github.com/lllyasviel/Fooocus)
 - [Midjourney](https://www.midjourney.com/home)
 - [Mistral](https://mistral.ai/)
 - [Valley](https://github.com/RupertLuo/Valley)
 -
 -
 
-## Agents
-- [AgentK](https://github.com/mikekelly/AgentK)
-- [codel](https://github.com/semanser/codel)
-- [Composio](https://github.com/ComposioHQ)
-- [llamatutor](https://github.com/Nutlope/llamatutor)
-- [OpenAGI](https://github.com/agiresearch/OpenAGI)
+
+## Art generator
+- [Bluewillow](https://www.bluewillow.ai/)
+-
 -
 
+## Agents
+- [AgentK](https://github.com/mikekelly/AgentK)
+- [Cline](https://github.com/cline/cline)
+- [codel](https://github.com/semanser/codel)
+- [Composio](https://github.com/ComposioHQ)
+- [Flowiseai](https://flowiseai.com/)
+- [llamatutor](https://github.com/Nutlope/llamatutor)
+- [OpenAGI](https://github.com/agiresearch/OpenAGI)
+- [OpenHands](https://openhands.dev/)
+- [AutoGen](https://microsoft.github.io/autogen/stable/)
+-
+
+
+## Compuer Vision
+- [supervision](https://supervision.roboflow.com/latest/)
+-
+-
 
 ## Documents
 - [MinerU](https://github.com/opendatalab/MinerU)
@@ -93,8 +139,11 @@
 - [LlamaIndex](https://developers.llamaindex.ai/python/framework/)
 - [Introducing Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
 - [Fine-tuning](https://www.llama.com/docs/how-to-guides/fine-tuning/)
+- [llamafile](https://github.com/mozilla-ai/llamafile)
 -
 -
+-
+
 
 ## Promps
 - [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
@@ -103,6 +152,12 @@
 ## Images
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
 - [DMD2](https://github.com/tianweiy/DMD2)
+- [Zerox](https://github.com/getomni-ai/zerox)
+-
+
+
+## Video
+- [Loom](https://www.loom.com/)
 -
 -
  
@@ -208,7 +263,7 @@
 
 ## PyTorch
 - [Hivemind](https://github.com/learning-at-home/hivemind)
--
+- [diffusers](https://github.com/huggingface/diffusers)
 -
 
 

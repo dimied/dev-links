@@ -23,6 +23,8 @@
 
 ## Customers
 
+### Marketing
+- [Mautic](https://github.com/mautic/mautic)
 
 ### Open source
 - [Dittofeed](https://github.com/dittofeed/dittofeed)

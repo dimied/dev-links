@@ -49,6 +49,43 @@
 -
 - [motia](https://www.motia.dev/)
 -
+- [posthog](https://posthog.com/)
+-
+- [CyberChef](https://gchq.github.io/CyberChef/)
+- https://www.scrapeless.com/en
+-
+- https://github.com/documenso/documenso
+- https://github.com/devflowinc/trieve
+- [PostHog](https://github.com/posthog/posthog)
+- [Vibe Draw](https://github.com/martin226/vibe-draw)
+-
+- [Rapidtables](https://www.rapidtables.com/)
+  - https://www.rapidtables.com/convert/number/hex-to-decimal.html?x=457
+-
+- [MapMatrix](https://github.com/veloplanner/map-matrix)
+-
+- [Memos](https://github.com/usememos/memos)
+-
+- [file.rocks](https://www.file.rocks/)
+-
+- [tiiny.host](https://tiiny.host/)
+- 
+- [Anyquery](https://github.com/julien040/anyquery)
+-
+- [PocketBase](https://github.com/pocketbase/pocketbase)
+-
+- [outline](https://github.com/outline/outline)
+-
+- [Focalboard](https://github.com/mattermost-community/focalboard)
+-
+- [budibase](https://github.com/budibase/budibase)
+-
+- [ClipShare](https://github.com/goshops-com/clipshare)
+-
+
+## Backups
+- [restic](https://restic.net/)
+-
 -
 
 
@@ -60,6 +97,12 @@
 
 ## Commerce
 - [Medusa](https://github.com/medusajs/medusa)
+- [spree](https://github.com/spree/spree)
+-
+
+
+## Feedback
+- [fider](https://github.com/getfider/fider)
 -
 -
 
@@ -69,6 +112,28 @@
 - [Penpot](https://github.com/penpot/penpot)
 -
 
+
+## Personal
+- [ActivityWatch](https://github.com/ActivityWatch/activitywatch)
+-
+-
+
+
+## PKM
+- [Joplin](https://joplinapp.org/)
+- [logseq](https://logseq.com/)
+- [SiYuan](https://github.com/siyuan-note/siyuan)
+- [learn-thing](https://github.com/aotakeda/learn-thing)
+- [notesnook](https://github.com/streetwriters/notesnook)
+-
+-
+-
+
+
+## Screen sharing
+- [Cap](https://github.com/CapSoftware/Cap)
+-
+-
 
 ---
 
