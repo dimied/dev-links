@@ -30,6 +30,14 @@
 -
 - [Font Tester](https://font-tester.foxcraft.tech/)
 
+
+## Apps
+- [MyFonts](https://www.myfonts.com/de)
+-
+-
+-
+
+
 ---
 
 # Icons
@@ -37,6 +45,7 @@
 - [Flowbite icons](https://flowbite.com/icons/)
 - [Freepik icons](https://www.freepik.com/icons)
 - [iconbuddy](https://iconbuddy.com/)
+- [Iconify](https://iconify.design/)
 - [icons8](https://icons8.com/)
 - [iconmonstr](https://iconmonstr.com/)
 - [iconstore](https://iconstore.co/)
@@ -55,8 +64,13 @@
 - [Simple Icons](https://github.com/simple-icons/simple-icons)
 - [Typicons](https://www.s-ings.com/typicons/)
 - https://responsiveicons.co.uk/
+- [Google](https://fonts.google.com/icons?hl=de)
+-
+- [Skillicons](https://skillicons.dev/)
+-
 
 ## Articles
+- https://fonts.google.com/download/next-steps
 - [Icon design done right.](https://medium.com/@ewoudt/icon-design-done-right-79a051197c59)
 - [Build an Icon System With SVG Sprites: A Complete Guide](https://levelup.gitconnected.com/build-an-icon-system-with-svg-sprites-a-complete-guide-1e195820ac6a)
 - 

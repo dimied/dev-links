@@ -1,8 +1,16 @@
-# Daatabases
+# Databases
 
+
+- [Berkeley DB](https://de.wikipedia.org/wiki/Berkeley_DB)
+- [ChartDB](https://chartdb.io/)
 - [Convex](https://docs.convex.dev/home)
 - [directus](https://github.com/directus/directus)
 - [dicedb](https://github.com/DiceDB/dice)
+- [Dragonfly](https://www.dragonflydb.io/)
+  - [Dragonfly (git)](https://github.com/dragonflydb/dragonfly)
+- [DuckDB](https://duckdb.org/)
+-
+- [LanceDB](https://lancedb.com/)
 -
 - [nocodb](https://www.nocodb.com/)
   - [nocodb (git)](https://github.com/nocodb/nocodb)
@@ -12,8 +20,14 @@
 - [DreamFactory](https://www.dreamfactory.com/)
 - [Instant](https://github.com/instantdb/instant)
 - [Pocketbase](https://pocketbase.io/)
+-
+- [riak](https://riak.com/)
+-
 - [SkyllaDB](https://www.scylladb.com/)
+  - [SkyllaDB (git)](https://github.com/scylladb/scylladb)
 - [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+- [TigerBeetle](https://tigerbeetle.com/)
+  - [TigerBeetle (git)](https://github.com/tigerbeetle/tigerbeetle)
 - [Valkey](https://valkey.io/)
 - [YugabyteDB](https://github.com/yugabyte/yugabyte-db)
 -
@@ -37,6 +51,39 @@
 -
 - [react-querybuilder](https://github.com/react-querybuilder/react-querybuilder)
 -
+- https://github.com/asg017/sqlite-vec
+- 
+- [Turso database](https://github.com/tursodatabase/turso)
+-
+- [teable](https://teable.ai/)
+-
+-
+
+
+## Tools
+- [LAZYSQL](https://github.com/jorgerojas26/lazysql)
+-
+
+
+## Blogs
+- [highperformancesqlite](https://highperformancesqlite.com/)
+
+
+
+## MySQL
+- https://stackoverflow.com/questions/3456159/how-to-shrink-purge-ibdata1-file-in-mysql
+
+## SQLite
+- [libsql](https://github.com/tursodatabase/libsql)
+-
+-
+
+
+## Articles
+- [Why Auto Increment Is A Terrible Idea](https://www.clever.cloud/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/)
+-
+-
+
 
 ---
 

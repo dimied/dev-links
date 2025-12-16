@@ -20,6 +20,11 @@
 - https://www.google.com/search?client=ubuntu&channel=fs&q=soft+hyphen+html
 
 
+## Tools
+- [XML Sitemap Generator](https://auctollo.com/products/google-xml-sitemap-generator/)
+-
+-
+
 ## Libraries
 - https://johnresig.com/blog/html5-shiv/
 -

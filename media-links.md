@@ -29,6 +29,13 @@
 -
 -
 
+
+## Video quality
+- [vmaf](https://github.com/Netflix/vmaf)
+-
+-
+
+
 ## Apps
 - [Agora](https://www.agora.io/en/)
 - [clipconverter.cc](https://www.clipconverter.cc/de/3/)
@@ -70,6 +77,11 @@
 -
 -
 
+## FFMpeg
+- https://github.com/BreadOnPenguins/scripts/blob/master/audio-video/editrec
+-
+-
+
 ## PHP
 - https://www.php.net/manual/de/function.imagecreatefromstring.php
 - https://stackoverflow.com/questions/6735414/php-data-uri-to-file
@@ -82,7 +94,7 @@
 - [Comparison of UPnP AV media servers](https://en.wikipedia.org/wiki/Comparison_of_UPnP_AV_media_servers)
 - https://developers.google.com/interactive-media-ads/docs/sdks/html5/client-side/get-started?hl=de
 - https://foliovision.com/player/troubleshooting/encoding
--
+- http://www.live555.com/
 -
 -
 -

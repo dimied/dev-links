@@ -7,8 +7,24 @@
 -
 
 
+## Learning
+- https://www.mathcurve.com/
+
+
 ## Products
 - [Vuframe](https://www.vuframe.com/)
+-
+-
+
+
+## Collections
+- [Humans](https://humans.wannathis.one/)
+-
+-
+
+
+## Modelling
+- [Wings 3D](https://www.wings3d.com/)
 -
 -
 
@@ -80,6 +96,15 @@
 
 
 ## Articles
+- https://graphicsrunner.blogspot.com/2009/01/volume-rendering-101.html
+- [Octahedral Impostors](https://shaderbits.com/blog/octahedral-impostors)
+- https://www.g-truc.net/post-0662.html
+- https://developer.nvidia.com/gpugems/gpugems3/part-iv-image-effects/chapter-21-true-impostors
+- https://www.humus.name/index.php?page=Comments&ID=228
+- https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline#
+- https://gpuopen.com/videos/graphics-pipeline/
+-
+-
 - https://de.wikipedia.org/wiki/Inversion_(Geometrie)
 - https://iquilezles.org/articles/distfunctions2d/
 - https://gpgpu-computing4.blogspot.com/2009/10/matrix-multiplication-3-opencl.html

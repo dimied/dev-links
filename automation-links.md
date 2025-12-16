@@ -11,6 +11,19 @@
 -
 - [n8n](https://n8n.io/)
 -
+- [make](https://www.make.com/en)
+-
+- [axiom](https://axiom.ai/)
+-
+- [Crawlee](https://github.com/apify/crawlee)
+-
+-
+-
+
+
+## Home automation
+- [Tasmota templates](https://tasmota.github.io/docs/Templates/)
+-
 -
 
 ## Workflow (OS)

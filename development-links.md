@@ -1,8 +1,10 @@
 # Development
 
+## Interesting
+- [complexityexplained](https://complexityexplained.github.io/)
+
 ## Collections
 - [Awesome Minimalist Frameworks](https://github.com/neiesc/awesome-minimalist)
-
 
 ## Apps
 - [CodeTracer](https://github.com/metacraft-labs/codetracer)
@@ -13,8 +15,18 @@
 -
 
 ## Code
+- [BrontoSource](https://brontosource.dev/)
 - [scc](https://github.com/boyter/scc)
+- [nativelink](https://github.com/TraceMachina/nativelink)
+- [Zed](https://zed.dev/)
+-
+- https://rextester.com/l/bash_online_compiler
 
+
+## Competition
+- https://devpost.com/hackathons
+-
+-
 
 ## General
 - [hacks.mozilla.org](https://hacks.mozilla.org/)
@@ -31,17 +43,23 @@
 -
 
 ## Regular expressions
+- [debuggex](https://www.debuggex.com/)
+- [iHateRegex](https://ihateregex.io/)
+- [regex101](https://regex101.com/)
 - [regexlib](https://regexlib.com/)
+- [regexper](https://regexper.com/)
+- [regexr](https://regexr.com/)
 - [regular-expressions.info](https://www.regular-expressions.info/)
+  - [Back references](https://www.regular-expressions.info/backref.html)
+-
 -
 
 
 ## Feature flags
+- [Fider](https://fider.io/)
 - [Flagsmith](https://github.com/Flagsmith/flagsmith)
 - [Flipt](https://github.com/flipt-io/flipt)
 - [Open Feature](https://github.com/open-feature)
--
--
 -
 
 
@@ -56,6 +74,15 @@
 
 
 ----
+
+## Forum
+- https://zfx.info/index.php
+
+
+## Articles
+- https://www.harness.io/harness-devops-academy/dark-launch
+- https://developer.confluent.io/courses/architecture/compaction/
+-
 
 ## Articles (Tools)
 - https://medium.com/@coders.stop/10-vs-code-extensions-for-debugging-testing-and-coding-faster-c26fb82b1350

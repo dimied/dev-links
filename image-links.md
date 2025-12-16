@@ -17,12 +17,12 @@
 - [upscaler](https://icons8.com/upscaler)
 - [vectr](https://vectr.com/)
 -
--
+- https://www.coolutils.com/de/online/DICOM-to-JPG
 -
 
 ## Open source
 - [Immich](https://github.com/immich-app/immich)
--
+- [darktable](https://www.darktable.org/)
 -
 -
 
@@ -64,7 +64,7 @@
 -
 
 
-## GIT
+## GIF
 - [giftool](https://giftool.surge.sh/)
 -
 -
@@ -73,6 +73,10 @@
 - https://ariya.io/2016/07/shrinking-png-images-with-quantization
 - [APNG](https://en.wikipedia.org/wiki/APNG)
 -
+
+
+## Optimization
+- https://imageoptim.com/versions.html
 
 ---
 

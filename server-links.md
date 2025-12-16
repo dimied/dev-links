@@ -4,13 +4,21 @@
 -
 -
 
+## Streaming
+- [Red5](https://www.red5.net/open-source-live-streaming/)
+-
+-
+
 ---
 
 ## Apache
 - [How to Password Protect a Directory on Your Website](https://www.thesitewizard.com/apache/password-protect-directory.shtml)
 - [Setup and Configure Bandwidth Limiting Module for Apache2](https://linuxpoison.blogspot.com/2012/02/setup-and-configure-bandwidth-limiting.html)
--
--
+- - https://notepad.patheticcockroach.com/3054/how-to-create-and-install-an-apache-ssl-certificate-either-self-signed-or-not/
+- https://www.petefreitag.com/blog/secure-apache-conf/
+- https://httpd.apache.org/docs/2.0/misc/rewriteguide.html
+- https://httpd.apache.org/docs/2.0/mod/mod_rewrite.html
+- https://stackoverflow.com/questions/19856297/mod-rewrite-and-subdirectory-access
 -
 -
 

@@ -24,6 +24,29 @@
 - [Simulacrum](https://github.com/metz-sh/simulacrum)
 
 
+## Overviews
+- [LeSS](https://less.works/)
+- [Scrum Guides](https://scrumguides.org/)
+-
+-
+
+
+## Books
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+-
+-
+
+
+## Coding style
+- [Tiger style](https://tigerstyle.dev/)
+-
+-
+
+
+## Refactoring
+- https://refactoring.com/catalog/
+
+
 ## CMDB
 - [CMDBuild](https://www.cmdbuild.org/en)
 - [Ralph](https://github.com/allegro/ralph/)
@@ -38,6 +61,14 @@
 -
 -
 -
+
+## Data oriented design
+- [Data-Oriented Design (Wikipedia)](https://en.wikipedia.org/wiki/Data-oriented_design)
+- [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
+-
+-
+-
+
 
 ## Data models
 - [TypeSchema](https://typeschema.org/)
@@ -71,6 +102,24 @@
 -
 -
 
+
+## Distrubuted
+- [Reactive planning is a cloud native pattern](https://gianarb.it/blog/reactive-planning-is-a-cloud-native-pattern)
+-
+
+
+## State machines
+- [Rosmaro.js](https://rosmaro.js.org/)
+- [Statecharts](https://statecharts.dev/)
+- [Stately](https://stately.ai/)
+- [StateWORKS](https://www.stateworks.com/)
+- [XState.js](https://xstate.js.org/)
+- https://venilnoronha.io/a-simple-state-machine-framework-in-go
+- https://mermaid.js.org/syntax/stateDiagram.html
+-
+-
+
+
 ## Web
 - https://levelup.gitconnected.com/backend-for-frontend-bff-architecture-64fa9f316a5a
 - https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215
@@ -80,7 +129,18 @@
 -
 -
 
+
+## Articles (German)
+- [Agile Anti-Patterns](https://entwickler.de/agile/agile-anti-patterns-001/)
+- https://www.manager-magazin.de/hbm/innovation/design-thinking-die-methode-setzt-sich-in-deutschen-unternehmen-durch-a-80fd104a-0002-0001-0000-000204235136
+- https://sebastianviereck.de/regeln-fur-guten-sauberen-code-clean-code/
+-
+
+
 ## Articles
+- https://agiledeveloper.com/web/downloads
+- https://www.infoq.com/presentations/code-documentation/
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - https://azeynalli1990.medium.com/fundamental-skills-for-becoming-performant-software-architect-b02369f1fecc
 - [7 modelling languages for software architecture](https://icepanel.medium.com/7-modelling-languages-for-software-architecture-2ed3a9f75343)
 - [Top 5 Distributed System Design Patterns](https://medium.com/better-programming/top-5-distributed-system-design-patterns-ae9482f49128)
@@ -112,10 +172,31 @@
 - https://medium.com/software-design-concepts/10-of-the-best-anti-patterns-ever-dcbab89bc21d
 -
 - https://martinfowler.com/bliki/StranglerFigApplication.html
+- https://martinfowler.com/articles/design-token-based-ui-architecture.html
+- https://martinfowler.com/bliki/BlueGreenDeployment.html
+- https://samnewman.io/patterns/architectural/bff/
+- https://www.martinfowler.com/articles/continuousIntegration.html
+- https://martinfowler.com/bliki/GetterEradicator.html
+-
+- https://www.oreilly.com/radar/
+-
+- https://bennett39.medium.com/the-end-of-so-called-agile-scrum-and-what-comes-next-448113d1f2b1
+- https://www.wired.com/2014/09/most-code-is-an-ugly-mess-heres-how-to-make-it-beautiful/
+- https://www.aha.io/roadmapping/guide/roadmap/ultimate-guide
+- https://medium.com/mjukvare/10-lead-software-developer-principles-7e056d0e9c9c
+- https://blog.devgenius.io/how-to-find-the-stinky-parts-of-your-code-fa8df47fc39c
+- https://levelup.gitconnected.com/code-smell-143-data-clumps-86cfe2f36a19
+- https://medium.com/bytebytego-system-design-alliance/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b
+- https://medium.com/codex/how-to-recognize-a-bad-software-developer-4b41b266a560
+- https://jasonformat.com/islands-architecture/
+-
+- https://medium.com/better-programming/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a
+- https://cacm.acm.org/research/a-large-scale-study-of-programming-languages-and-code-quality-in-github/
+-
+- https://worrydream.com/LadderOfAbstraction/
 -
 -
 -
-
 
 
 

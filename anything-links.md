@@ -5,19 +5,29 @@
 - [random.org](https://www.random.org/)
 -
 -
--
+- https://thenewstack.io/
 
 ## Tools
+- [bitrix24](https://www.bitrix24.de/)
 - [Tanstack](https://tanstack.com/)
 -
 -
 -
 
-
+## Data
+- [Pola.rs](https://pola.rs/)
+-
+-
 
 ## Clones
 - [realworld](https://github.com/gothinkster/realworld)
 -
+-
+
+
+## Other
+- [Holochain](https://www.holochain.org/)
+- [Virtualics](https://virtualitics.com/)
 -
 
 

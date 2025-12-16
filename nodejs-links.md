@@ -9,6 +9,13 @@
 -
 - [Encore](https://encore.dev/)
 -
+- [Platformatic](https://platformatic.dev/)
+-
+- [Restify](https://restify.com/)
+-
+-
+-
+
 
 ## AI
 - [Natural](https://naturalnode.github.io/natural/)
@@ -76,6 +83,7 @@
 
 ## Frameworks
 - [Adonis.js](https://adonisjs.com/)
+- [Fastify](https://fastify.dev/)
 - [hapi](https://hapi.dev/)
 - [Hono](https://hono.dev/)
 - [koa.js](https://koajs.com/)

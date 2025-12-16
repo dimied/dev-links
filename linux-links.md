@@ -9,6 +9,20 @@
 - https://www.webdevelopersnotes.com/text-web-browsers-list
 - http://www.elinks.cz/
 - https://sourceforge.net/directory/software-development/linux/
+-
+- [eSpeak](https://wiki.ubuntuusers.de/eSpeak/)
+- [Benachrichtigungsdienst](https://wiki.ubuntuusers.de/Benachrichtigungsdienst/)
+-
+- [Xephyr](https://wiki.archlinux.org/title/Xephyr)
+-
+- [durdraw](https://github.com/cmang/durdraw)
+-
+-
+
+## Programming
+- [Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming)
+-
+-
 
 
 ## Videos
@@ -50,7 +64,28 @@
 -
 -
 
+
+## Games
+- [Linux Games](https://github.com/Ashpex/Linux_Games)
+-
+-
+
+
+## X Windows
+- [Xephyr](https://wiki.ubuntuusers.de/Xephyr/)
+-
+-
+
 ---
+
+## Data recovery
+- [GNU ddrescue](https://wiki.ubuntuusers.de/gddrescue/)
+- https://wiki.ubuntuusers.de/Datenrettung/
+- https://www.030-datenrettung.de/datenrettung-linux-ddrescue-anleitung
+- https://recoverit.wondershare.net/de/ad/recuva-alternative-original.html
+-
+-
+
 
 ## System
 - [7 Great Apps to View Disk Usage in Linux](https://www.makeuseof.com/tag/how-to-analyze-your-disk-usage-pattern-in-linux/)
@@ -143,6 +178,8 @@
 - [recursively renaming files](https://community.unix.com/t/recursively-renaming-files/209052)
 - [Recursively renaming files in Linux](https://mamchenkov.net/wordpress/2005/09/26/recursively-renaming-files-in-linux/)
 - https://unix.stackexchange.com/questions/335801/bash-remembers-wrong-path-to-an-executable-that-was-moved-deleted
+- https://www.howtoforge.com/tutorial/linux-shell-scripting-lessons-5/
+-
 -
 
 
@@ -197,7 +234,12 @@
 - https://techieloversblog.wordpress.com/2016/01/17/linux-the-must-10-free-and-open-source-softwares/
 - https://www.quora.com/Can-you-surprise-me-with-a-Linux-software-so-good-I-didnt-know-I-need-it-until-now
 - https://www.howtogeek.com/425232/how-to-securely-delete-files-on-linux/
+- https://stackoverflow.com/questions/1401359/understanding-linux-proc-pid-maps-or-proc-self-maps
 -
+- https://askubuntu.com/questions/18654/how-to-prevent-updating-of-a-specific-package
+- https://medium.com/the-software-journal/you-wont-believe-these-10-linux-commands-actually-exist-60e29843fc3e
+-
+- https://medium.com/codex/18-selected-super-useful-linux-one-liners-398ba6d20f8c
 -
 -
 

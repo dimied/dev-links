@@ -1,5 +1,8 @@
 # Performance
 
+## Books
+- [Designing for Performance](https://designingforperformance.com/index.html)
+
 ## Companies
 - [Catchpoint](https://de.catchpoint.com/platform)
 
@@ -63,10 +66,6 @@
 - [tsung](https://github.com/processone/tsung)
 -
 -
--
--
--
--
 
 ---
 
@@ -90,6 +89,26 @@
 - https://github.com/microsoft/deoptexplorer-vscode
 
 
+## Load testing
+- [Papy](https://github.com/noahpop77/Papy)
+- https://www.linode.com/docs/guides/load-testing-with-siege/
+
+## IP
+- [iPerf](https://iperf.fr/)
+
+
+## HTTP
+- https://wondernetwork.com/pings/
+- https://cloudping.info/
+- [ab - Apache HTTP server benchmarking tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
+- [Aperture](https://github.com/fluxninja/aperture)
+- [Haproxy](https://www.haproxy.org/)
+- [vegeta](https://github.com/tsenart/vegeta)
+- [siege](https://www.joedog.org/siege-home/)
+- [wrk](https://github.com/wg/wrk)
+- [httptest](https://pkg.go.dev/net/http/httptest)
+
+
 ## Web
 - [Artillery](https://github.com/artilleryio/artillery)
 - [Gatling](https://gatling.io/)
@@ -109,7 +128,7 @@
 - https://bloggingwizard.com/page-load-time-statistics/
 - [web-performance](https://github.com/w3c/web-performance)
 - https://www.performancebudget.io/
-- [PageSpeed](https://pagespeed.web.dev/?hl=DE)
+- [PageSpeed](https://pagespeed.web.dev/)
 - [radar.cloudflare](https://radar.cloudflare.com/)
 - https://hstspreload.org/
 - [Reporting API](https://developer.mozilla.org/en-US/docs/Web/API/Reporting_API)
@@ -119,16 +138,6 @@
 - https://github.com/collections/load-testing
 
 
-## HTTP
-- https://wondernetwork.com/pings/
-- https://cloudping.info/
-- [ab - Apache HTTP server benchmarking tool](https://httpd.apache.org/docs/2.4/programs/ab.html)
-- [Aperture](https://github.com/fluxninja/aperture)
-- [Haproxy](https://www.haproxy.org/)
-- [vegeta](https://github.com/tsenart/vegeta)
-- [siege](https://www.joedog.org/siege-home/)
-- [wrk](https://github.com/wg/wrk)
-- [httptest](https://pkg.go.dev/net/http/httptest)
 
 ---
 
@@ -202,6 +211,9 @@
 - [So You Want To Make Your Website Faster?](https://medium.com/codex/so-you-want-to-make-your-website-faster-d2a00db39097)
 - https://medium.com/full-stack-forge/how-to-make-your-website-load-in-under-1-second-e748100bba01
 -
+- https://www.filamentgroup.com/lab/weight-wait.html
+-
+- [Relayd](https://de.slideshare.net/slideshow/relayd-a-load-balancer-for-openbsd/12851509)
 -
 
 ## Articles

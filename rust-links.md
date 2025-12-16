@@ -3,15 +3,19 @@
 ---
 
 - [Rust](https://www.rust-lang.org/)
-- []()
-- []()
-- []()
+- [ferrocene](https://ferrocene.dev/)
+-
+-
+
+## Learning
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/)
-
-
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
+-
+-
 
 ## 3D
+- [Bevy](https://bevy.org/)
 - [csgrs](https://github.com/timschmidt/csgrs)
 -
 -
@@ -21,23 +25,44 @@
 ## GUI
 - [dioxus](https://github.com/DioxusLabs/dioxus)
 - [egui](https://github.com/emilk/egui)
+- [tauri.app](https://tauri.app/)
+-
+-
+-
+
+## Libraries
+- [Crossbeam](https://github.com/crossbeam-rs/crossbeam)
 -
 -
 
 
 ## Search
 - [Sonic](https://crates.io/crates/sonic-server)
+-
+-
+-
 
 
 ## Web
 - [Dropshot](https://github.com/oxidecomputer/dropshot)
+- [Servo](https://servo.org/)
+- [rkyv](https://rkyv.org/)
 - [Torii-rs](https://github.com/cmackenzie1/torii-rs)
+- 
 -
 
+## Articles
+- https://medium.com/@syntaxSavage/generic-associated-types-gats-the-rust-feature-that-finally-solves-async-trait-hell-b9b79d14a422
+
+## Articles (GERMAN)
+- https://www.heise.de/hintergrund/Cross-Plattform-Applikationen-mit-Rust-1-Langlebig-und-flexibel-10646857.html
+-
+-
 
 ---
 
-## 
+- https://medium.com/@theopinionatedev/from-alpine-to-distroless-building-rust-pods-that-boot-in-milliseconds-a0eafd54cf88
+-
 - [The 9 indispensable features to learn for the new Rust programmer](https://kerkour.com/indispensable-rust-features-to-learn)
 - [Rust Is Hard, Or: The Misery of Mainstream Programming](https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html)
 - [Game Development with Rust](https://medium.com/pragmatic-programmers/game-development-with-rust-31147f7b6096)

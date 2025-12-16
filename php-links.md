@@ -6,10 +6,39 @@
 -
 -
 
+
 ## Libraries
 - [recaptcha](https://github.com/google/recaptcha)
 - [OCR-Text-Extractor](https://github.com/ShababSoftwares/OCR-Text-Extractor)
 - https://github.com/thiagoalessio/tesseract-ocr-for-php
+- https://github.com/xemle/html5-video-php
+-
+-
+
+
+## Security (Articles)
+- [How to Encrypt Large Messages with Asymmetric Keys and phpseclib](https://www.sitepoint.com/encrypt-large-messages-asymmetric-keys-phpseclib/)
+- [WordPress: Angriffe auf die XMLRPC-Schnittstelle (xmlrpc.php) unterbinden](https://www.kuketz-blog.de/wordpress-angriffe-auf-die-xmlrpc-schnittstelle-xmlrpc-php-unterbinden/)
+-
+-
+-
+
+## Performance
+- https://talks.php.net/show/confoo10/5
+
+
+## Articles (German)
+- https://manuel.kiessling.net/2010/08/23/tutorial-testgetriebene-entwicklung-mit-php/
+
+
+## Articles
+- https://www.php.net/manual/de/function.imagecreatefromstring.php
+- https://stackoverflow.com/questions/6735414/php-data-uri-to-file
+- https://stackoverflow.com/questions/5924061/using-php-to-output-an-mp4-video
+- https://stackoverflow.com/questions/11431778/mp4-video-delivery-via-php-fails-in-google-chrome
+-
+
+
 ---
 
 ## CakePHP

@@ -1,6 +1,9 @@
 # Auth
 
 - [auth0](https://auth0.com/)
+- [Clerk](https://clerk.com/)
+-
+-
 
 ---
 
@@ -11,9 +14,16 @@
 - [OData](https://www.odata.org/)
 - [Super Tokens](https://github.com/supertokens/supertokens-core)
 -
+- [lldap](https://github.com/lldap/lldap)
 - [logto](https://github.com/logto-io/logto)
 - [Zitadel](https://github.com/zitadel/zitadel)
 - https://github.com/stack-auth/stack-auth
+-
+
+
+## Tools (OS)
+- [Keycloak](https://www.keycloak.org/)
+-
 -
 
 

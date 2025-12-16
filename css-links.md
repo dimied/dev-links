@@ -65,10 +65,25 @@
 - https://www.google.com/search?client=ubuntu&channel=fs&q=css+glassmorphism+generator
 -
 - https://levelup.gitconnected.com/10-css-tips-and-tricks-that-only-experienced-web-developers-know-d18da43d2632
+- https://cssflex-generator.netlify.app/
+-
+- https://alistapart.com/blog/post/css-regions-considered-harmful/
+-
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [CSS Button Generator](https://loading.io/button/generator/)
+- [CSS Shape Editors](https://css-tricks.com/css-shape-editors/)
+- [CSS Sprite Generator](https://spritegen.website-performance.org/)
+-
+- [@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@supports)
+- [transition-timing-function](https://webplatform.github.io/docs/css/properties/transition-timing-function/)
+- [font-feature-settings](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/font-feature-settings)
+-
+- [cssbuttons.app](https://cssbuttons.app/)
+-
+- [KelpUI](https://kelpui.com/)
 -
 -
 -
-
 
 
 ## CSS Games
@@ -78,6 +93,9 @@
 -
 -
 
+
+## Animation (Tools)
+- [Ceasor](https://matthewlein.com/tools/ceaser)
 
 ## Animation
 - [Animate.css](https://animate.style/)
@@ -92,7 +110,8 @@
 -
 
 ---
-
+- [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)
+-
 - [em, px, pt, cm, in: Web Style Sheets CSS Tips & Tricks](https://www.w3.org/Style/Examples/007/units.de.html)
 - [Filament Group](https://github.com/filamentgroup)
 - [SMACSS Scalable and Modular Architecture for CSS](http://smacss.com/)

@@ -7,6 +7,31 @@
 -
 -
 - [learn-anything.xyz](https://learn-anything.xyz/)
+-
+- https://www.visualthesaurus.com/howitworks/
+- https://accelareader.com/
+-
+-
+-
+
+## Competition
+- [Codebattle](https://www.codebattle.in/)
+-
+-
+
+
+## Apps
+- [daily.dev](https://daily.dev/?r=0)
+-
+-
+
+## References
+- [quickref.me](https://quickref.me/)
+- [roadmap](https://roadmap.sh/)
+- [tldr.sh](https://tldr.sh/)
+-
+-
+
 
 ## Software development
 - https://github.com/MunGell/awesome-for-beginners
@@ -22,7 +47,6 @@
 - https://github.com/yangshun/front-end-interview-handbook
 - https://github.com/florinpop17/app-ideas
 - [exercism](https://exercism.org/)
--
 -
 
 ### Books

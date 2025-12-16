@@ -5,6 +5,7 @@
 - https://de.wikipedia.org/wiki/XProc
 - http://www.w3schools.com/xsl/
 - https://www.oxygenxml.com/
+- https://github.com/dwd/rapidxml
 
 ## 
 - [ The Apache FOP Project](https://xmlgraphics.apache.org/fop/)

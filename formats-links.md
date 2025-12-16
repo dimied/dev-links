@@ -3,7 +3,7 @@
 
 ## Apps (Paid)
 - [Appryse](https://docs.apryse.com/)
--
+- [ConvertAPI](https://www.convertapi.com/)
 -
 
 
@@ -16,6 +16,7 @@
 - [Infogram](https://infogram.com/)
 - [Matomo](https://matomo.org/)
 - [OpenRefine](https://openrefine.org/)
+- [Pandoc](https://pandoc.org/)
 - [pdfconvert](https://docupub.de/pdfconvert/)
 - [Sistrix](https://www.sistrix.de/)
 - [Splunk](https://www.splunk.com/en_us/download/splunk-enterprise.html)
@@ -62,9 +63,22 @@
 -
 
 
+## JPEG
+- [jpegclub](https://jpegclub.org/)
+-
+-
+
+
+## PNG
+- [optipng](https://optipng.sourceforge.net/)
+-
+-
+
 ## Network
 - [Avro (Apache)](https://avro.apache.org/)
 - [bsonspec](https://bsonspec.org/)
+- [cbor](https://cbor.io/)
+- [Flatbuffers](https://flatbuffers.dev/)
 - [grpc-gateway](https://grpc-ecosystem.github.io/grpc-gateway/)
 - https://buf.build/blog/connect-a-better-grpc
 - [MessagePack](https://msgpack.org/index.html)

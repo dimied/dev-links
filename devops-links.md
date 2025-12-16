@@ -63,6 +63,220 @@
 -
 - [modd](https://github.com/cortesi/modd)
 -
+- https://crontab.guru/
+-
+- https://github.com/xvzc/SpoofDPI
+- https://github.com/trufflesecurity/trufflehog
+- https://github.com/dependabot
+-
+- https://github.com/quackduck/devzat
+- [Dendrite](https://github.com/matrix-org/dendrite)
+- [Jam](https://jam.dev/)
+- [autocomplete](https://github.com/withfig/autocomplete)
+-
+- [The Silver Searcher](https://github.com/ggreer/the_silver_searcher)
+- [RIPE stat](https://stat.ripe.net/)
+-
+- [Dagger](https://dagger.io/)
+-
+- [Task](https://taskfile.dev/)
+- [ReductStore](https://www.reduct.store/)
+-
+- [tldr](https://github.com/tldr-pages/tldr)
+-
+- [Eleventy](https://www.11ty.dev/)
+-
+- [Neovim](https://github.com/neovim/neovim)
+-
+- [Pi-hole](https://docs.pi-hole.net/)
+-
+- [ClusterLabs](https://clusterlabs.org/)
+-
+- [Moovweb](https://github.com/moovweb)
+-
+- [Fly.io](https://fly.io/)
+-
+- [macchina.io](https://macchina.io/)
+-
+- [Airbrake](https://www.airbrake.io/)
+-
+- [Conduit.io](https://conduit.io/)
+-
+- [Juju](https://canonical.com/juju)
+-
+- [Cyberduck](https://cyberduck.io/)
+- [nhost](https://nhost.io/)
+-
+- [Bildr](https://www.bildr.com/)
+- [Softr](https://www.softr.io/)
+- [Pusher](https://pusher.com/)
+-
+- [lokalise](https://lokalise.com/)
+-
+- [tarantool](https://www.tarantool.io/en/)
+-
+- [Pangolin](https://github.com/fosrl/pangolin)
+- [Resemble.js](https://rsmbl.github.io/Resemble.js/)
+  - https://www.lullabot.com/articles/css-regression-testing-with-resemblejs
+- [testplane](https://github.com/gemini-testing/testplane)
+- [PhantomCSS](https://github.com/HuddleEng/PhantomCSS)
+- [Visual regression testing tools](https://www.thoughtworks.com/radar/tools/visual-regression-testing-tools)
+- http://laurent.bristiel.com/visual-regression-tests/
+- https://www.kevinlamping.com/hands-on-visual-regression-testing/
+- https://www.abhishek-tiwari.com/visual-regression/
+-
+- [html2canvas](https://html2canvas.hertzen.com/)
+-
+- [Fastly](https://www.fastly.com/)
+-
+- [ifconfig.me](https://ifconfig.me/)
+- [MYIP.MS](https://myip.ms/)
+-
+- [Swimm](https://swimm.io/)
+-
+- [Graphite](https://graphiteapp.org/)
+-
+- [OverAPI](https://overapi.com/)
+- [devdocs](https://devdocs.io/)
+- [readme.so](https://readme.so/de)
+- [DevSamples](https://www.devsamples.com/)
+- [SourceTrail](https://www.sourcetrail.com/)
+-
+- [pubnub](https://www.pubnub.com/)
+-
+-
+- [Nearby (Google)](https://developers.google.com/nearby?hl=de)
+-
+- [Codemirror](https://codemirror.net/)
+-
+- [hotscripts](https://www.hotscripts.com/)
+-
+- [Webinspector](https://trac.webkit.org/wiki/WebInspector)
+- [massCode](https://itsfoss.com/masscode/)
+- [ray.so](https://ray.so/)
+-
+- [browserframe](https://browserframe.com/)
+-
+- [Koding](https://www.koding.com/)
+- [VisBug](https://chromewebstore.google.com/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en)
+-
+- [LightHouse](https://github.com/GoogleChrome/lighthouse)
+-
+- [tools.fromdev](https://tools.fromdev.com/)
+-
+-
+- [Browserling (Tools)](https://www.browserling.com/tools)
+- [Freestuff](https://freestuff.dev/)
+-
+- [webcode.tools](https://webcode.tools/)
+- [DeployHQ](https://www.deployhq.com/)
+- [ConcreteCMS](https://www.concretecms.com/)
+-
+- [Silex](https://www.silex.me/)
+- [Sourcegraph](https://sourcegraph.com/)
+-
+- [Streamlit](https://streamlit.io/)
+-
+- [huly](https://github.com/hcengineering/huly-selfhost)
+-
+- [HxD](https://mh-nexus.de/de/hxd/)
+- [Omatsuri](https://omatsuri.app/)
+-
+- [free-for.dev](https://free-for.dev/#/)
+  - [free-for-dev](https://github.com/ripienaar/free-for-dev)
+- https://www.calculatorsoup.com/
+- https://www.omnicalculator.com/math/golden-ratio
+- https://codebeautify.org/
+- [devhints.io](https://devhints.io/)
+- https://unminify.com/
+- https://www.octotree.io/
+- https://www.dotnetperls.com/
+- [Cheatography](https://cheatography.com/)
+- [Frontendchecklist](https://frontendchecklist.io/)
+- [Jamstack](https://jamstack.org/)
+- [webdevchecklist](https://www.toptal.com/developers/webdevchecklist)
+-
+- https://github.com/sensepost/gowitness
+- https://www.freecodecamp.org/news/tag/web-development
+- https://transform.tools/json-to-typescript
+- https://www.30secondsofcode.org/
+- https://pipedream.com/requestbin
+-
+- [tRPC](https://trpc.io/)
+- https://www.todobackend.com/
+- [asciinema](https://asciinema.org/)
+-
+-
+-
+
+
+## Screen sharing
+- https://workplace.mangoapps.com/mango-recorder
+- https://www.awesomescreenshot.com/
+- 
+
+## Companies
+- [Altova](https://www.altova.com/de/)
+- [infoblox](https://www.infoblox.com/)
+- [Zeet](https://zeet.co/)
+- [Wundergraph](https://wundergraph.com/)
+-
+-
+-
+
+
+## Container
+- [Fedora CoreOS](https://fedoraproject.org/coreos/)
+- [OSv](https://osv.io/)
+-
+-
+
+## VCS
+- [Sapling](https://sapling-scm.com/)
+- https://makingsoftware.wordpress.com/2013/02/16/using-git-subtrees-for-repository-separation/
+
+
+## DNS
+- [Dynv6](https://dynv6.com/)
+- [FreeDNS](https://freedns.afraid.org/)
+-
+-
+
+
+## Simulation
+- [SimGrid](https://simgrid.org/)
+-
+-
+
+
+## Auto-tuning
+- [MLOS](https://github.com/microsoft/MLOS)
+
+
+
+## Command line
+- [advcpmv](https://github.com/jarun/advcpmv)
+- [dysk](https://github.com/Canop/dysk)
+- [fzf](https://github.com/junegunn/fzf)
+- [marker](https://github.com/pindexis/marker)
+- [nushell](https://www.nushell.sh/)
+- [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+- [shellcheck](https://www.shellcheck.net/)
+-
+-
+
+
+
+## Code generation
+- [quicktype](https://quicktype.io/)
+-
+-
+-
+
+## Deployment
+- [devpush](https://github.com/hunvreus/devpush)
+-
+
 
 
 ## Dashboards
@@ -80,6 +294,7 @@
 ## PaaS, Self-hosting
 - [CapRover](https://caprover.com/)
 - [Coolify](https://coolify.io/)
+- [Pinokio](https://pinokio.co/)
 - [Urocissa](https://github.com/hsa00000/Urocissa)
 -
 -
@@ -186,6 +401,7 @@
 - [ownCloud](https://owncloud.com/)
 - [Polipo](https://de.wikipedia.org/wiki/Polipo)
 - [Pyroscope](https://pyroscope.io/)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [sitespeed.io](https://www.sitespeed.io/)
 - [sshuttle](https://github.com/sshuttle/sshuttle)
 - [StormKit](https://stormkit.io/)
@@ -237,8 +453,11 @@
 
 ## System monitor
 - [Conky](https://github.com/brndnmtthws/conky)
+- [Glances](https://github.com/nicolargo/glances)
 -
 -
+-
+
 
 ## SRE
 - [Parity](https://www.tryparity.com/)
@@ -267,21 +486,54 @@
 - [httptap](https://github.com/monasticacademy/httptap)
 
 
+## Proxy
+- [Charles](https://www.charlesproxy.com/)
+-
+-
+
+
 ## WebServer
 - [Hiawatha](https://hiawatha.leisink.net/)
 
 
 ## IPs
+- [ip-api](https://ip-api.com/)
 - [Ip2Loc](https://ip2loc.com/)
+- [ip2location](https://www.ip2location.com/)
 - [IPdata](https://ipdata.co/)
 - [ipgeolocation](https://ipgeolocation.io/)
 - [IPstack](https://ipstack.com/)
 - https://worldpopulationreview.com/country-rankings/ip-address-by-country
+- https://linklyhq.com/blog/list-of-5-free-geoip-databases-2020
+-
 
 ### IPs (free)
 - [geoip.spotrealms.com](https://geoip.spotrealms.com/)
 -
 
+
+## CDN
+- [Cachefly](https://www.cachefly.com/)
+-
+-
+
+## Web caching
+- [Squid](https://www.squid-cache.org/)
+-
+-
+
+
+## Load balancing
+- https://systembash.com/how-to-stop-an-apache-ddos-attack-with-mod_evasive/
+-
+-
+-
+
+## Security
+- [fingerprint](https://fingerprint.com/)
+- [modsecurity](https://modsecurity.org/)
+-
+-
 
 ## Container, Images
 - [containerd](https://containerd.io/)
@@ -307,8 +559,9 @@
 - https://medium.com/@ujjawalr/5-dockerfile-tricks-that-separate-senior-developers-from-juniors-bcd9846d8b7f
 -
 -
--
--
+
+## Docker (mail)
+- https://hub.docker.com/r/tvial/docker-mailserver/
 
 
 ## Kubernetes
@@ -319,8 +572,10 @@
 - [Headlamp](https://github.com/kubernetes-sigs/headlamp)
 - [Helm](https://helm.sh/)
 - [Karpenter](https://karpenter.sh/)
+- [k-Atlas](https://github.com/intuit/katlas)
 - [Keda](https://keda.sh/)
 - [k0smotron](https://k0smotron.io/)
+- [k9s](https://k9scli.io/)
 - [kubebuilder](https://github.com/kubernetes-sigs/kubebuilder)
 - [lens](https://github.com/lensapp/lens)
 - [linkerd2](https://github.com/linkerd/linkerd2)
@@ -334,8 +589,11 @@
 - [Kubeone](https://github.com/kubermatic/kubeone)
 - [Kops](https://github.com/kubernetes/kops)
 - [Lightweight Kubernetes](https://k3s.io/)
+- [OpenEBS](https://github.com/openebs/openebs)
 -
 -
+-
+
 
 ### K8s security
 - [Kubescape](https://github.com/kubescape/kubescape)
@@ -377,6 +635,38 @@
 - https://dzone.com/articles/how-to-share-and-sync-code-between-microservices
 - https://dev.to/huizhou92/debunking-the-misconception-maximum-number-of-tcp-connections-on-a-server-174
 -
+- https://bhavyansh001.medium.com/10-terminal-tricks-that-saved-me-hours-every-week-aed1fa4f9ead
+- https://levelup.gitconnected.com/10-terminal-tricks-most-developers-dont-know-but-should-c62520940eab
+-
+- https://medium.com/@PowerUpSkills/if-you-use-git-daily-googles-jujutsu-jj-might-change-everything-0daf3d21087e
+-
+- https://xebia.com/de/blog/deleting-your-commit-history/
+- https://observabilityguy.medium.com/10-terminal-tricks-to-supercharge-your-developer-workflow-9d10ce15d7ea
+-
+- https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436
+- https://video.golem.de/desktop-applikationen/20841/kubernetes-in-5-minuten-vmware-englisch.html
+-
+- https://stackoverflow.com/questions/35115585/remove-files-completely-from-a-git-repository-along-with-its-history
+-
+- https://medium.com/better-programming/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
+-
+- https://enlear.academy/26-git-command-i-use-all-the-time-cheatsheet-6c5682ded2af
+- https://iorilan.medium.com/after-900-leetcode-problems-here-is-what-i-learned-4d39b17e0853
+-
+- https://javascript.plainenglish.io/11-productivity-tools-every-programmer-should-know-e0d571051752
+-
+- https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb
+-
+- https://blog.devgenius.io/the-art-of-overkill-web-dev-edition-6f224d81d9e9
+-
+-
+-
+-
+-
+-
+-
+-
+
 
 
 

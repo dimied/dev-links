@@ -4,6 +4,13 @@
 - [Andagon](https://www.andagon.com/)
 - [Tricentis](https://www.tricentis.com/de)
 
+
+---
+
+## Apps (Paid)
+- [CodeRabbit](https://www.coderabbit.ai/)
+-
+
 ---
 
 ## Apps
@@ -32,6 +39,12 @@
 ## Test data
 - [DTM Data Generator](https://sqledit.com/dg/download.html)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
+-
+-
+
+
+## Code quality
+- [PMD](https://sourceforge.net/projects/pmd/)
 -
 -
 
@@ -64,6 +77,7 @@
 - [Playwright](https://playwright.dev/)
 - [Puppeteer](https://pptr.dev/)
 - [Puppetry](https://puppetry.app/)
+- [Qodo Cover](https://github.com/qodo-ai/qodo-cover)
 - [Responsive Viewer](https://responsiveviewer.org/)
 - [Reqres](https://reqres.in/)
 - [SauceLabs](https://saucelabs.com/)
@@ -125,6 +139,11 @@
 - [Test-induced design damage or why TDD is so painful](https://enterprisecraftsmanship.com/posts/test-induced-design-damage-or-why-tdd-is-so-painful/)
 - [The Subtle Art of Test Automation Using Docker Compose](https://medium.com/better-programming/the-subtle-art-of-test-automation-using-docker-compose-69a10fc9aac5)
 - https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
+-
+- https://medium.com/velotio-perspectives/automation-testing-with-nightwatch-js-and-cucumber-everything-you-need-to-know-9761614abb86
+- https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
+-
+-
 -
 
 

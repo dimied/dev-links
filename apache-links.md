@@ -32,8 +32,10 @@
 - [Oozie](https://attic.apache.org/projects/oozie.html)
 - [Parquet](https://parquet.apache.org/)
 - [PDFBox](https://pdfbox.apache.org/)
+- [Pinot](https://pinot.apache.org/)
 - [Solr (search platform)](https://solr.apache.org/)
 - [SkyWalking](https://github.com/apache/skywalking)
+- [Superset](https://github.com/apache/superset)
 - [SystemDS](https://en.wikipedia.org/wiki/Apache_SystemDS)
 - [Thrift](https://thrift.apache.org/)
 - [Traffic Server](https://github.com/apache/trafficserver)
@@ -57,4 +59,10 @@
 - [mod_log_sql](https://www.outoforder.cc/projects/apache/mod_log_sql/docs/)
 - [POI (Excel)](https://www.callicoder.com/java-write-excel-file-apache-poi/)
 -
+- https://medium.com/@daxx5/this-tiny-open-source-project-is-doing-what-kafka-couldnt-397be38b6f9b
 -
+-
+-
+
+
+

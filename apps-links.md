@@ -5,6 +5,18 @@
 -
 - [opensourcealternative.to](https://www.opensourcealternative.to/)
 -
+- [Neave](https://neave.com/)
+-
+- [Draw.io](https://www.drawio.com/)
+-
+- [Jellyfin](https://jellyfin.org/)
+-
+- [Vivaldi](https://vivaldi.com/de/)
+-
+-
+
+---
+
 -
 - [chartbeat](https://chartbeat.com/)
 - [contentful](https://www.contentful.com/)
@@ -82,6 +94,96 @@
 -
 - [ClipShare](https://github.com/goshops-com/clipshare)
 -
+- [Wevo](https://wevo.ai/)
+-
+- [TagStudio](https://github.com/TagStudioDev/TagStudio)
+-
+- [ClickUp](https://github.com/clickup)
+-
+- [musixmatch](https://www.musixmatch.com/)
+- [Localsend](https://github.com/localsend/localsend)
+-
+- [Dashy](https://dashy.to/)
+- [Linear](https://github.com/linear)
+-
+- [DevToys](https://github.com/DevToys-app/DevToys)
+- [Taipy](https://github.com/Avaiga/taipy)
+-
+- [Excalidraw](https://github.com/excalidraw/excalidraw)
+-
+- [Skrifa.xyz](https://skrifa.xyz/)
+- https://nteract.io/
+-
+- [Alduin](https://alduinapp.github.io/)
+-
+- [Activiti](https://www.activiti.org/)
+-
+- [jmix](https://www.jmix.io/)
+-
+- [Solid](https://solidproject.org/)
+-
+- [Videograbber](https://videograbber.net/)
+-
+- [archive.is](https://archive.is/)
+-
+-
+- [Codeshare](https://codeshare.io/)
+-
+- [looker](https://cloud.google.com/looker)
+- [people.ai](https://www.people.ai/)
+-
+- [Mailu.io](https://mailu.io/2024.06/)
+- [mailcow](https://mailcow.email/)
+-
+- [Navidrome](https://www.navidrome.org/)
+-
+- [Gluster](https://www.gluster.org/)
+-
+- [Kahoot](https://kahoot.com/de/)
+-
+- [Poll Everywhere](https://www.polleverywhere.com/)
+-
+- [Lucidspark](https://lucid.co/lucidspark)
+-
+- [ERPnext](https://frappe.io/erpnext/de)
+-
+- [Carbon.now](https://carbon.now.sh/)
+-
+- [onlyoffice](https://www.onlyoffice.com/de)
+-
+- https://docs.paperless-ngx.com/
+-
+- [bitwarden](https://bitwarden.com/)
+-
+- [Greenshot](https://getgreenshot.org/)
+-
+-
+-
+
+
+## TUI
+- [astroterm](https://github.com/da-luce/astroterm)
+- [calcure](https://anufrievroman.gitbook.io/calcure)
+- [calcurse](https://www.calcurse.org/)
+- [caligula](https://github.com/ifd3f/caligula)
+- [micro](https://micro-editor.github.io/)
+- [pastel](https://github.com/sharkdp/pastel)
+- [zeit](https://github.com/mrusme/zeit)
+-
+-
+
+## Bookmarks
+- https://alex-d.fr/
+- [linkding](https://github.com/sissbruecker/linkding)
+-
+-
+
+
+## Mind mapping
+- [Mindmeister](https://www.mindmeister.com/de)
+-
+-
+
 
 ## Backups
 - [restic](https://restic.net/)
@@ -119,12 +221,20 @@
 -
 
 
+## Learning
+- [Growflow](https://www.growflow.app/)
+-
+-
+
+
 ## PKM
+- [Dendron](https://github.com/dendronhq/dendron)
 - [Joplin](https://joplinapp.org/)
 - [logseq](https://logseq.com/)
 - [SiYuan](https://github.com/siyuan-note/siyuan)
 - [learn-thing](https://github.com/aotakeda/learn-thing)
 - [notesnook](https://github.com/streetwriters/notesnook)
+- [Trilium](https://github.com/TriliumNext/Trilium)
 -
 -
 -
@@ -134,6 +244,9 @@
 - [Cap](https://github.com/CapSoftware/Cap)
 -
 -
+
+## Link sharing
+- [Goto](https://www.goto.tools/)
 
 ---
 
@@ -147,6 +260,12 @@
 
 ### Audio (Articles)
 - [Getting Started With GNU Radio](https://hackaday.com/2015/11/11/getting-started-with-gnu-radio/)
+
+
+## Video
+- [Kdenlive](https://kdenlive.org/de/)
+-
+-
 
 ---
 
@@ -170,10 +289,13 @@
 
 ## Computer vision
 - https://sourceforge.net/software/computer-vision/
+-
+-
+
 
 ## Self-hosting
 - [Kolab](https://de.wikipedia.org/wiki/Kolab)
--
+- [Picsur](https://picsur.org/upload)
 -
 -
 

@@ -11,6 +11,12 @@
 -
 
 
+## Apps (Paid)
+- [SvgTrace](https://svgtrace.com/)
+-
+-
+
+
 ## Libraries
 - [Boundarizr](https://github.com/wilsonpage/Boundarizr)
 - [Canvg](https://github.com/canvg/canvg)

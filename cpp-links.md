@@ -1,9 +1,50 @@
-## C, C++
+# C, C++
 
+
+
+## Competition
+- [Advent of Code](https://adventofcode.com/)
+  - [was.tl](https://was.tl/)
+-
+-
+
+---
+
+## References
+- [SYCL](https://github.khronos.org/SYCL_Reference/)
+
+---
+
+## Assembly
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
+- https://gpfault.net/posts/asm-tut-0.txt.html
+
+
+## Code samples (Assembly)
+- https://www.cortstratton.org/articles/HugiCode.html
+-
+
+
+---
+
+
+## Blogs
+- [timur.audio](https://timur.audio/)
+-
+-
+
+
+## Cache
+- [Cache placement policies](https://en.wikipedia.org/wiki/Cache_placement_policies)
+- https://github.com/sarthak-sehgal/cpp-fun/tree/main/cache_line
+- https://sartech.substack.com/p/fun-with-c-and-cache-lines
+- https://stackoverflow.com/questions/12594208/c-program-to-determine-levels-size-of-cache
+- https://igoro.com/archive/gallery-of-processor-cache-effects/
+-
 
 ## Online compiler
 - [godbolt](https://godbolt.org/)
--
+- [onlinegdb](https://www.onlinegdb.com/)
 -
 
 
@@ -13,26 +54,73 @@
 -
 -
 
+## Conferences
+- [CppCon2019](https://github.com/CppCon/CppCon2019)
+- [CppCon2024](https://github.com/CppCon/CppCon2024)
+- https://github.com/boostcon/cppnow_presentations_2024/blob/main/Presentations/a-new-dragon-in-the-den.pdf
+  - https://github.com/cassioneri/teju_jagua
+-
+-
+
+
+## Debugging
+- [Dmalloc](https://en.wikipedia.org/wiki/Dmalloc)
+- [strace](https://man7.org/linux/man-pages/man1/strace.1.html)
+- [raddebugger](https://github.com/EpicGamesExt/raddebugger)
+-
+-
+
+
+## Linux
+- [io uring](https://en.wikipedia.org/wiki/Io_uring)
+-
+-
 
 ## Linking
+- [include-what-you-use](https://include-what-you-use.org/)
 - [Wild](https://github.com/davidlattimore/wild)
 -
 -
 
+## GUI
+- [Clay](https://www.nicbarker.com/clay)
+- [Glade](https://glade.gnome.org/)
+-
+- [Sciter](https://sciter.com/)
+-
+-
 
-## Assembly
-- https://gpfault.net/posts/asm-tut-0.txt.html
+## Security
+- [WolfSSL](https://de.wikipedia.org/wiki/WolfSSL)
+-
+-
 
+
+## Optimization
+
+---
 
 ## Other languages
 - [How to call C/C++ code from Node.js](https://medium.com/@koistya/how-to-call-c-c-code-from-node-js-86a773033892)
 -
+
+### Erlang
+- [tinch++](https://www.adamtornhill.com/code/tinchpp.htm)
 -
 -
 
 ---
 
+## Articles
+- [Infographics: Operation Costs in CPU Clock Cycles](http://ithare.com/infographics-operation-costs-in-cpu-clock-cycles/)
+- https://floooh.github.io/2018/06/17/handles-vs-pointers.html
+- https://stackoverflow.com/questions/32746996/how-linux-process-address-space-is-stored
+- https://learn.microsoft.com/de-de/windows/win32/medfound/tutorial--encoding-an-mp4-file-?redirectedfrom=MSDN
+
+---
+
 ## C
+- [Dependable C](https://www.dependablec.org/)
 - https://gcc.gnu.org/onlinedocs/cpp/Common-Predefined-Macros.html
 - https://stackoverflow.com/questions/18531782/how-to-know-if-uint128-t-is-defined
 - https://github.com/barrust/set/blob/master/src/set.c
@@ -46,13 +134,23 @@
 -
 -
 
+## Standard library
+- [alloca](https://man7.org/linux/man-pages/man3/alloca.3.html)
+-
+-
+
 ### Compilers
 - [Aro](https://github.com/Vexu/arocc)
 -
 -
 
-## GUI
-- [Clay](https://www.nicbarker.com/clay)
+## Libraries
+- [Sokol](https://github.com/floooh/sokol)
+- [easy-args](https://github.com/gouwsxander/easy-args)
+-
+
+## Code
+- [btree.c](https://github.com/tidwall/btree.c)
 -
 -
 
@@ -70,12 +168,25 @@
 ## C++
 
 - [Awesome Modern C++](https://awesomecpp.com/)
-- [cplusplus.com](https://cplusplus.com/)
+
 -
 -
 
+## Specs 
+- [cplusplus.com](https://cplusplus.com/)
+- [cppreference.com](https://en.cppreference.com/index.html)
+  - [_Generic](https://en.cppreference.com/w/c/language/generic.html)
+
+
+## Boost
+- [Fiber](https://www.boost.org/library/latest/fiber/)
+-
+
+
 ### Libraries
+- [base64](https://github.com/aklomp/base64)
 - [certificate-transparency: Auditing for TLS certificates](https://github.com/google/certificate-transparency)
+- [Cinder](https://libcinder.org/)
 - [crunchy](https://github.com/google/crunchy)
 - [dimsum](https://github.com/google/dimsum)
 - [effcee](https://github.com/google/effcee)
@@ -88,26 +199,51 @@
 - [NanoLog](https://github.com/PlatformLab/NanoLog)
 - [simdjson](https://github.com/simdjson/simdjson)
 - [Skia](https://github.com/google/skia)
+- [stb](https://github.com/nothings/stb)
+  - [perlin_noise](https://github.com/nothings/stb/blob/master/stb_perlin.h#L191)
 - https://code.google.com/archive/p/opencurrent/
 - https://code.google.com/archive/p/thrust/
+- https://github.com/numpy/x86-simd-sort/blob/main/src/avx512-32bit-qsort.hpp
 
 ### Profiling
+- [Bloaty](https://github.com/google/bloaty)
 - [Coz](https://github.com/plasma-umass/coz)
+- [Spall](https://gravitymoth.com/spall/)
+-
+-
+
+
+## Testing
+- [Googletest](https://github.com/google/googletest)
+-
+-
+
+
+## Rendering
+- [HargBuzz](https://de.wikipedia.org/wiki/HarfBuzz)
+-
+-
+
+
+## Game engine
+- [Asset-Importer-Lib](https://www.assimp.org/)
+- [PhysX (NVIDIA)](https://nvidia-omniverse.github.io/PhysX/physx/5.6.1/index.html)
+- [recastnav](https://recastnav.com/)
+- [SDL](https://www.libsdl.org/)
+- [Symplygon](https://www.simplygon.com/)
 -
 -
 -
--
--
--
+
 
 ## 2D
 - [delabella](https://github.com/msokalski/delabella)
--
 
 ## 3D
 - [ANurbs](https://github.com/oberbichler/ANurbs)
 - [cubicoid](https://github.com/classAndrew/cubicoid)
 - [CurvatureVisualization](https://github.com/andresbejarano/CurvatureVisualization)
+- [Geometric Tools](https://geometrictools.com/)
 - [OpenVSP](https://github.com/OpenVSP/OpenVSP)
 - [Pinocchio](https://github.com/pmolodo/Pinocchio)
 - [raylib](https://www.raylib.com/)
@@ -116,15 +252,31 @@
 - https://github.com/Q-Minh/naive-surface-nets
 -
 
+## UI
+- [leif](https://github.com/cococry/leif)
+
+
+## Graphs
+- [libgrape-lite](https://github.com/alibaba/libgrape-lite)
+-
+-
+
 
 ## Web
 - [Crow](https://crowcpp.org/master/)
+- [Seasocks](https://github.com/mattgodbolt/seasocks)
+- [nlohmann-json](https://github.com/nlohmann/json)
+- [webview](https://github.com/webview/webview)
+-
+-
+-
 
 
 ## Articles
+- https://sartech.substack.com/p/fun-with-c-and-cache-lines
 - https://stackoverflow.com/questions/48166918/the-use-of-t-as-a-template-parameter
--
--
+- https://stackoverflow.com/questions/12040303/how-to-access-physical-addresses-from-user-space-in-linux
+- https://blog.molecular-matters.com/2012/08/27/memory-allocation-strategies-a-stack-like-lifo-allocator/
 -
 
 

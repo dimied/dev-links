@@ -1,6 +1,10 @@
 # Python
 
 
+## Learning
+- https://intellipaat.com/blog/interview-question/python-interview-questions/
+
+
 ## Audio
 - [pedalboard](https://github.com/spotify/pedalboard)
 -
@@ -10,6 +14,11 @@
 ## 3D
 - [gcs](https://github.com/bu-shapelab/gcs)
 -
+-
+-
+
+## GUI
+- [magicgui](https://pyapp-kit.github.io/magicgui/)
 -
 -
 
@@ -23,6 +32,9 @@
 -
 -
 -
+
+## Web
+- [Scrapling](https://github.com/D4Vinci/Scrapling)
 
 ---
 

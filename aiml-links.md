@@ -50,8 +50,73 @@
 -
 - [Thunderbit](https://thunderbit.com/)
 -
+- [Runway](https://runwayml.com/)
+-
+- [Apify](https://apify.com/)
+-
+- [LocalAI](https://github.com/mudler/LocalAI)
+-
+- [Designs.ai](https://designs.ai/de)
+-
+- [Cheatlayer](https://cheatlayer.com/)
+- [Drippi](https://www.drippi.ai/)
+-
+- [supermemory.ai](https://supermemory.ai/)
+-
+- [khoj](https://github.com/khoj-ai/khoj)
+-
+- [localai.io](https://localai.io/)
+- https://github.com/character-ai/prompt-poet
+- https://github.com/modelscope/FunClip
+- https://github.com/google-research/timesfm
+- https://github.com/Tencent-Hunyuan/HunyuanDiT
+-
+- https://github.com/abi/screenshot-to-code
+- [OpenHands](https://github.com/OpenHands/OpenHands)
+- [Pieces.app](https://github.com/pieces-app)
+-
+- [build nanoGPT](https://github.com/karpathy/build-nanogpt)
+- [BlackWave](https://github.com/metimol/BlackWave)
+-
+- [ml-4m](https://github.com/apple/ml-4m)
+- [Minference](https://github.com/microsoft/MInference)
+- [VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys)
+-
+- https://github.com/dsa/fast-voice-assistant
+- [Heptabase](https://heptabase.com/)
+- [Devv](https://devv.ai/)
+- [activepieces](https://www.activepieces.com/)
+-
+- [submagic](https://www.submagic.co/)
+-
+- [Relume](https://www.relume.io/)
+- [guidde](https://www.guidde.com/)
+-
+- [Pipedream](https://pipedream.com/)
+-
+- [bubble.io](https://bubble.io/)
+-
+- [Instant](https://instant.chat/)
+-
+- [RAGFlow](https://ragflow.io/)
+-
+- [Cloudairy](https://cloudairy.com/)
+- [tabnine](https://www.tabnine.com/)
+-
+- 
+
+
+## Companies
+- [Ammune.ai](https://ammune.ai/)
+- [Gestalt Automation](https://www.gestalt-automation.com/)
+- [Redpanda](https://www.redpanda.com/)
 -
 
+
+## Startups
+- [Startups.fyi](https://www.startups.fyi/)
+-
+-
 
 ## Articles
 - https://github.com/swirl-ai/ai-angineers-handbook/tree/main/building_agents_from_scratch/deep_research_agent
@@ -63,10 +128,22 @@
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 
 
+## Collections
+- [ai-collection](https://github.com/ai-collection/ai-collection)
+-
+-
+
+
+## Apps (Paid)
+- [OpusClip](https://www.opus.pro/de-de)
+-
+-
+
 ## Apps
 - [Foocus](https://github.com/lllyasviel/Fooocus)
 - [Midjourney](https://www.midjourney.com/home)
 - [Mistral](https://mistral.ai/)
+- [Sora](https://openai.com/de-DE/sora/)
 - [Valley](https://github.com/RupertLuo/Valley)
 -
 -
@@ -77,12 +154,21 @@
 -
 -
 
+
+## Video generation
+- [Runway](https://aitubo.ai/runway/)
+- [Veo](https://deepmind.google/models/veo/)
+-
+-
+
+
 ## Agents
 - [AgentK](https://github.com/mikekelly/AgentK)
 - [Cline](https://github.com/cline/cline)
 - [codel](https://github.com/semanser/codel)
 - [Composio](https://github.com/ComposioHQ)
 - [Flowiseai](https://flowiseai.com/)
+  - [Flowise (git)](https://github.com/FlowiseAI/Flowise)
 - [llamatutor](https://github.com/Nutlope/llamatutor)
 - [OpenAGI](https://github.com/agiresearch/OpenAGI)
 - [OpenHands](https://openhands.dev/)
@@ -91,6 +177,7 @@
 
 
 ## Compuer Vision
+- [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [supervision](https://supervision.roboflow.com/latest/)
 -
 -
@@ -140,7 +227,7 @@
 - [Introducing Code Llama, an AI Tool for Coding](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
 - [Fine-tuning](https://www.llama.com/docs/how-to-guides/fine-tuning/)
 - [llamafile](https://github.com/mozilla-ai/llamafile)
--
+- [llama3.np](https://github.com/likejazz/llama3.np)
 -
 -
 
@@ -148,6 +235,13 @@
 ## Promps
 - [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
 -
+-
+
+## Audio (OS)
+- [Whisper.cpp](https://github.com/ggml-org/whisper.cpp)
+-
+
+
 
 ## Images
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
@@ -362,7 +456,7 @@
 - https://arxiv.org/abs/2203.08913
 - https://towardsdatascience.com/monitoring-nlp-models-in-production-ac65745772cf/
 - https://towardsdatascience.com/building-a-recommender-system-using-machine-learning-2eefba9a692e/
--
+- https://towardsdatascience.com/the-math-behind-neural-networks-a34a51b93873/
 -
 -
 -

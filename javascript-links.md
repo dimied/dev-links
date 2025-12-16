@@ -120,10 +120,94 @@
 - [Tippy.js](https://atomiks.github.io/tippyjs/)
 -
 - https://quokkajs.com/
+- [Driverjs](https://driverjs.com/)
 -
+- [jsoncrack](https://github.com/AykutSarac/jsoncrack.com)
+-
+- [biomejs](https://biomejs.dev/)
+-
+- [DOMPurify](https://github.com/cure53/DOMPurify)
+- [BlockNote](https://github.com/TypeCellOS/BlockNote)
+-
+- [DataStar](https://data-star.dev/)
+-
+- [udeps](https://github.com/hamish-milne/udeps)
+-
+- [snugtext](https://www.npmjs.com/package/snugtext)
+-
+- [transducers.js](https://github.com/cognitect-labs/transducers-js)
+- [Cx.js](https://github.com/codaxy/cxjs)
+-
+- [MUI](https://www.muicss.com/)
+-
+- https://html5please.com/
+- [Pixi.js](https://pixijs.com/)
+-
+- https://www.toptal.com/designers/htmlarrows/arrows/
+-
+- https://html5boilerplate.com/
+- https://www.initializr.com/
+- https://htmlcolorcodes.com/
+- https://simon.html5.org/dump/html5-canvas-cheat-sheet.html
+- http://dev-test.nemikor.com/web-storage/support-test/
+- [Dropzone](https://www.dropzone.dev/)
+- 
+- [Tiny.cloud](https://www.tiny.cloud/)
+- [CKEditor](https://ckeditor.com/docs/)
+- https://github.com/menismu/popcorn-js
+-
+- [JHipster](https://en.wikipedia.org/wiki/JHipster)
+-
+- [Dust.js](https://akdubya.github.io/dustjs/#dust)
+-
+- [Headless-CMS](https://jamstack.org/headless-cms/)
+-
+- [elementor](https://elementor.com/)
+-
+- [videoconverter.js](https://bgrins.github.io/videoconverter.js/)
+- https://html5media.info/
+- [PlayerJS](https://playerjs.com/)
+-
+- https://github.com/rwaldron/chromakey
+- https://github.com/brianchirls/annotated-video-player
 -
 -
 
+ 
+
+## Companies
+- [data2type](https://www.data2type.de/home/)
+-
+-
+
+
+## HTML
+- https://www.it-gecko.de/html5-file-upload-fortschrittanzeige-progressbar.html
+- https://html5gallery.com/
+- https://html5doctor.com/
+- https://html5test.com/
+- https://www.craftymind.com/blowing-up-html5-video-and-mapping-it-into-3d-space/
+- https://wonko.com/post/html-escaping/
+- https://mateam.net/html-escape-characters/
+- https://www.mediaevent.de/html/html5-tags.html
+- https://www.the-art-of-web.com/javascript/escape/
+- https://t3n.de/news/html5-sandbox-modus-iframes-357278/
+- https://caniuse.com/css-filters
+- https://caniuse.com/link-rel-dns-prefetch
+- https://htmldog.com/
+- https://www.golem.de/news/web-components-html-elemente-selber-bauen-1305-99318.html
+- https://dev.to/emmabostian/10-html-element-you-didnt-know-you-needed-3jo4
+- https://www.w3.org/International/questions/qa-html-encoding-declarations
+- https://www.freeformatter.com/html-entities.html
+-
+-
+
+
+## PDF
+- https://cloudmersive.com/article/Understanding-Embedded-JavaScript-in-PDF-Documents
+- [Nutrient](https://www.nutrient.io/guides/web/editor/)
+-
+-
 
 
 ## Form builder
@@ -138,6 +222,11 @@
 -
 
 
+## State management
+- [Mobx](https://github.com/mobxjs/mobx)
+-
+
+
 ## Web Builder (OS)
 - [GrapesJS](https://github.com/GrapesJS/grapesjs)
 - [Plasmic](https://www.plasmic.app/)
@@ -148,7 +237,7 @@
 
 - [Bun](https://bun.sh/)
 - [Deno](https://deno.com/)
--
+- [QuickJS](https://bellard.org/quickjs/)
 -
 -
 - [htmx](https://htmx.org/)
@@ -157,6 +246,10 @@
 -
 - https://esbuild.github.io/
 - [oxc](https://github.com/oxc-project/oxc)
+- [swc.rs](https://swc.rs/)
+-
+-
+
 
 ## Specs
 - [Shadow DOM](https://www.w3.org/TR/shadow-dom/)
@@ -177,31 +270,6 @@
 ## Offline
 - https://web.dev/articles/offline-cookbook?hl=de
 
-## TypeScript
-- https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
-- https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/
-- https://mariusschulz.com/blog/the-omit-helper-type-in-typescript
-- https://javascript.plainenglish.io/the-5-best-features-of-typescript-5-beta-you-should-know-about-290048ead20b
-- https://github.com/DefinitelyTyped/DefinitelyTyped
-- https://devsmitra.medium.com/13-typescript-utility-a-cheat-sheet-for-developer-9dfd23cb1bbc
-- https://obaranovskyi.medium.com/top-5-techniques-in-typescript-to-bring-your-code-to-the-next-level-6f20be543b39
-- https://medium.com/@klisarkk/2-new-killer-features-coming-to-typescript-33013ce0b295
-- https://obaranovskyi.medium.com/10-typescript-features-you-might-not-be-using-yet-or-didnt-understand-d1f28888ea45
-- https://medium.com/better-programming/figuring-types-in-typescript-generic-functions-9479dd2fc3ea
-- https://javascript.plainenglish.io/top-5-pro-tips-for-your-next-typescript-code-33ae2c6f1e5e
-- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces
-- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
-- https://medium.com/better-programming/the-ultimate-clean-architecture-template-for-typescript-projects-e53936269bb9
-- https://github.com/bigslycat/typed-contracts
-- https://github.com/gcanti/io-ts
-- https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c
-- https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680
-- https://www.typescriptlang.org/docs/handbook/modules/theory.html#module-resolution
-- https://medium.com/@reidev275/typesafe-monadic-parsing-with-mapped-types-in-typescript-a3ef9efbd9f2
-- [up-fetch](https://github.com/L-Blondy/up-fetch)
-- [zod](https://github.com/colinhacks/zod)
-- https://valibot.dev/
--
 
 
 ## AI, OCR
@@ -223,6 +291,12 @@
 -
 
 
+## Canvas
+- [Fabric.js](https://fabricjs.com/)
+- https://html5.litten.com/layers/canvaslayers.html
+-
+-
+
 
 ## Graphics
 - [Babylon.js](https://www.babylonjs.com/)
@@ -238,6 +312,11 @@
 - https://www.peter-strohm.de/webgl/webgltutorial1.php
 - https://github.com/brianchirls/webgl-loader
 - https://github.com/brianchirls/glsl-optimize-loader
+
+
+### Three.js
+- https://github.com/alexmackey/threeJsBasicExamples/tree/master
+- https://github.com/computetube/computetube.github.io/blob/main/xy.html
 
 
 ## Games
@@ -270,9 +349,13 @@
 - [plotly.js](https://github.com/plotly/plotly.js)
 - [Raphael.js](http://raphaeljs.com/)
 - [Skia](https://skia.org/)
+- [Rough.js](https://github.com/rough-stuff/rough)
 - [Spring Flo](https://github.com/spring-projects/spring-flo)
 - [Theatre.js](https://www.theatrejs.com/)
 - [Vizone](https://github.com/gilbox/vizone)
+- [Zim.js](https://zimjs.com/)
+  - [Ornamate](https://zimjs.com/ornamate.html)
+  - 
 - https://bost.ocks.org/mike/
 - https://mbostock.github.io/d3/talk/20111116/#8
 - https://observablehq.com/
@@ -296,6 +379,12 @@
 - https://github.com/charlyoleg/parametrix
 -
 
+
+## WebGL
+- [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
+-
+-
+
 ## Animation
 - [animejs](https://animejs.com/)
 - [barba.js](https://barba.js.org/)
@@ -304,6 +393,8 @@
 - [mojs](https://mojs.github.io/)
 - [Popmotion](https://popmotion.io/)
 - [vivus](https://maxwellito.github.io/vivus/)
+- [wow.js](https://wowjs.uk/)
+-
 -
 
 
@@ -609,184 +700,6 @@
 
 ---
 
-## Frameworks
-- [Astro](https://astro.build/)
-- [Aurelia](https://aurelia.io/)
-- [DerbyJS](https://derbyjs.com/)
-- [Electronjs](https://www.electronjs.org/)
-- [Ionic](https://ionicframework.com/)
-- [Meteor](https://www.meteor.com/)
-- [Mootools](https://mootools.net/)
-- [Nue.js](https://nuejs.org/)
-- [Prototypejs](http://prototypejs.org/)
-- [Reveal.js](https://revealjs.com/)
-- [ShieldUI](https://www.shieldui.com/)
-- [Svelte](https://svelte.dev/)
-- [qooxdoo](https://qooxdoo.org/)
-- [VanJS](https://vanjs.org/)
-- [Vanilla-JS](http://vanilla-js.com/)
-- [webcomponents](https://www.webcomponents.org/)
-- https://semantic-ui.com/
-- [wasp](https://github.com/wasp-lang/wasp)
--
--
-
----
-
-## AngularJS
-- [UI-Grid](http://ui-grid.info/)
-- https://angular-ui.github.io/
-- https://material.angularjs.org/latest/getting-started
-- https://github.com/wix-incubator/angular-tree-control
-- https://github.com/angular-ui-tree/angular-ui-tree
-- https://angularscript.com/collection/tree-view/page/2/
-- https://github.com/axel-zarate/angular-tree-view
-- https://github.com/awendland/angular-json-tree
-- https://thienhung1989.github.io/angular-tree-dnd/demo/#!/table
-- https://gist.github.com/vojtajina/3354046
-- https://marceljuenemann.github.io/angular-drag-and-drop-lists/demo/#/nested
-- https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes
-- https://github.com/chenkie/angular1-user-authentication
-- https://github.com/Pasvaz/bindonce
--
--
--
-
-## Angular
-- https://github.com/orizens/ngx-infinite-scroll
-- https://github.com/marceljuenemann/angular-drag-and-drop-lists
-- https://github.com/chenkie/angular2-user-authentication
-- https://i-topolev-vladimir.medium.com/3-powerful-tips-to-improve-angular-codebases-d355534701e9
-- https://blog.thoughtram.io/angular/2016/07/18/guards-in-angular-2.html
-- https://blog.thoughtram.io/angular/2016/01/06/taking-advantage-of-observables-in-angular2.html
-- https://blog.thoughtram.io/angular/2016/06/22/model-driven-forms-in-angular-2.html
-- https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html
-- https://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html
-- https://blog.thoughtram.io/angular/2016/05/16/exploring-rx-operators-map.html
-- https://blog.thoughtram.io/angular/2016/05/13/angular-2-providers-using-map-literals.html
-- https://github.com/angular/flex-layout
-- https://www.tektutorialshub.com/angular/ng-template-in-angular/
-- https://stackoverflow.com/questions/37185820/how-to-place-a-dynamic-component-in-a-container
-- https://edupala.com/how-to-add-angular-time-picker-in-angular/
-- https://medium.com/madhash/19-things-you-need-to-learn-to-become-an-effective-angular-developer-c0ccfa51222a
-- https://blog.angular.dev/schematics-an-introduction-dc1dfbc2a2b2
-- https://dev.to/alisaduncan/how-to-level-up-your-angular-unit-testing-game-33-5f3k
-- https://medium.com/netanelbasal/testing-observables-in-angular-a2dbbfaf5329
-- https://mentormate.com/blog/create-modal-window-with-angular-cdk/
-- https://www.codecentric.de/en/knowledge-hub/blog/different-ways-unsubscribing-rxjs-observables-angular
-- https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
-- https://medium.com/netanelbasal/angular-components-tips-and-tricks-d9e725871d58
-- https://medium.com/netanelbasal/the-need-for-speed-lazy-load-non-routable-modules-in-angular-30c8f1c33093
-- https://medium.com/@fivedicephoto/angular-activatedroute-vs-activatedroutesnapshot-6365c384feb8
-- https://medium.com/swlh/simplifying-angular-unit-testing-fc09bf142a7a
-- https://medium.com/angular-in-depth/state-management-in-angular-using-akita-82f117d282dd
-- https://medium.com/angular-in-depth/designing-scalable-angular-applications-6629b5158277
-- https://entwickler.de/javascript/sichere-angular-projekte-mit-oauth-20-erstellen/
-- https://medium.com/netanelbasal/3-style-management-tips-that-will-save-you-a-headache-in-your-angular-app-css-94365570987e
-- https://medium.com/better-programming/angular-how-keep-user-from-lost-his-data-by-accidentally-leaving-the-page-before-submit-4eeb74420f0d
-- https://medium.com/@aliakbarzohour/the-best-angular-projects-535e9ca9b964
-- https://medium.com/better-programming/routing-101-in-angular-9-c76144b28cbd
-- https://nathanfriend.com/2018/05/14/live-reloading-an-angular-2-app-behind-nginx.html
-- https://faun.pub/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
-- https://github.com/src-zone/material
-- https://medium.com/front-end-weekly/dynamically-add-components-to-the-dom-with-angular-71b0cb535286
-- https://medium.com/hackernoon/angular-pro-tip-how-to-dynamically-create-components-in-body-ba200cc289e6
-- https://medium.com/netanelbasal/dynamically-creating-components-with-angular-a7346f4a982d
-- https://dzone.com/articles/how-to-dynamically-create-a-component-in-angular
-- https://blog.angular.dev/a-component-dev-kit-for-angular-9f06e3b4b3b4
-- https://www.heise.de/blog/LocationStrategy-fuer-den-Angular-2-Router-setzen-3457321.html
-- https://v17.angular.io/api/common/HashLocationStrategy
-- https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html
-- https://lucid.co/techblog/2016/05/04/angular-2-best-practices-change-detector-performance
-- https://blog.mgechev.com/2017/11/12/faster-angular-applications-pure-pipes-memoization-pure-functions-part-2/
-- https://medium.com/@MertzAlertz/what-the-hell-is-zone-js-and-why-is-it-in-my-angular-2-6ff28bcf943e
-- https://medium.com/@leadbyluke/the-new-way-of-subscribing-in-an-angular-component-f74ef79a8ffc
-- https://malcoded.com/posts/angular-dynamic-components/
-- https://github.com/apress/reactive-prog-w-angular-ngrx
-- https://github.com/onehungrymind/angular-rest-app
-- https://github.com/simpulton/angular2-rest-app
-- https://medium.com/angular-in-depth/creatively-decouple-ngonchanges-fab95395cc6e
-- https://blog.angular.dev/use-angulars-new-deferrable-views-now-20ca9f64f1e5
-- https://medium.com/netanelbasal/exploring-the-various-decorators-in-angular-b208875b207c
-- https://medium.com/wizdm-genesys/rendering-text-with-style-in-angular-b006bdb945e7
-- https://medium.com/better-programming/expressionchangedafterithasbeencheckederror-in-angular-what-why-and-how-to-fix-it-c6bdc0b22787
-- https://medium.com/@coffeeandcloud/angular-clean-architecture-approach-fcfe32e983a5
-- https://medium.com/@patrik.horva90/guidelines-for-creating-performant-angular-applications-and-their-efficient-maintenance-6c7537bd56cf
-- https://blog.mgechev.com/2017/11/11/faster-angular-applications-onpush-change-detection-immutable-part-1/
--
--
-
-## Electron
-- [menubar](https://github.com/max-mapper/menubar)
-
-## jQuery
-- [ajax-zoom](https://www.ajax-zoom.com/)
-- [FitText](https://github.com/davatron5000/FitText.js)
-- [FitVids](https://github.com/davatron5000/FitVids.js)
-- [Slinky](https://github.com/alizahid/slinky)
-- [Guillotine](https://github.com/matiasgali/guillotine)
-- [Lettering.js](https://github.com/davatron5000/Lettering.js)
-- [onepage-scroll](https://github.com/peachananr/onepage-scroll)
-- [scrollpath](https://github.com/JoelBesada/scrollpath)
-- [toastr](https://github.com/CodeSeven/toastr)
-- https://oscarotero.com/jquery/
-- https://github.com/DavidHDev/react-bits
--
-
-
-## React
-- [Ant Design](https://ant.design/)
-- [Chakra-UI](https://v2.chakra-ui.com/)
-- [Expo](https://expo.dev/)
-- [Fancy](https://github.com/danielpetho/fancy)
-- [Formily](https://github.com/alibaba/formily)
-- [mui](https://mui.com/)
-- [Pure React](https://www.purereact.com/)
-- https://github.com/chenkie/react-user-authentication
-- https://github.com/oblador/react-native-vector-icons
-- https://javascript.plainenglish.io/create-a-list-view-in-react-with-typescript-c598be1d0ff5
-- https://medium.com/better-programming/how-to-create-responsive-tables-with-flexbox-and-react-d6b58574333b
-- https://docs.expo.dev/versions/latest/sdk/camera/
-- https://gluestack.io/
-- https://recoiljs.org/
-- https://create-react-app.dev/docs/making-a-progressive-web-app/
-- [Functional UI Kit](https://github.com/functional-ui/functional-ui-kit)
-- [Refine](https://github.com/refinedev/refine)
-- https://github.com/astoilkov/use-local-storage-state
--
--
-
-## SolidJS
-- https://reactivity-with-solidjs.netlify.app/workshop/introduction
--
--
-
-
-## Vue
-- [Formkit](https://formkit.com/)
-- [Nuxt](https://nuxt.com/)
-- [vuetify](https://vuetifyjs.com/en/)
-- [mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar)
-- [Quasar](https://quasar.dev/)
-- [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome)
-- [Vue Toastification](https://github.com/Maronato/vue-toastification)
-- https://github.com/rhysd/marked-sanitizer-github/blob/master/test/fixture/vuejs-awesome-vue-README.md
-- [VueGL](https://vue-gl.github.io/)
-- [Vue Material](https://www.creative-tim.com/vuematerial/)
-- [vue-mixins](https://github.com/paulpflug/vue-mixins)
-- [vue-comps](https://github.com/vue-comps)
-- https://vuejs.org/guide/essentials/event-handling.html#Event-Modifiers
-- https://github.com/sdras/intro-to-vue
-- https://medium.com/coding-artist/how-to-create-the-vueconf-load-animation-with-svgs-and-vue-js-f7bbf0e24fb0#.khljyoks5
-- https://blog.logrocket.com/methods-optimizing-vue-js-applications/
-- https://blog.logrocket.com/petite-vue-alpine-alternative-progressive-enhancement/
-- https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8
-- https://codepen.io/hexagoncircle/pen/ZZQLoM
-- https://www.vuemastery.com/blog/getting-started-with-pwas-and-vue3/
-- https://github.com/kitbagjs/router
--
--
-
 
 ## WebAssembly
 - [AssemblyScript](https://www.assemblyscript.org/)
@@ -795,6 +708,7 @@
 - [emscripten](https://github.com/emscripten-core/emscripten)
 - [wabt](https://github.com/WebAssembly/wabt)
 - [wasi.dev](https://wasi.dev/)
+- [WasmExplorer](https://mbebenita.github.io/WasmExplorer/)
 - https://madewithwebassembly.com/
 - https://pengowray.github.io/wasm-ops/
 - https://github.com/torch2424/as-bind
@@ -861,8 +775,19 @@
 - https://medium.com/swlh/how-to-access-webcam-and-take-picture-with-javascript-b9116a983d78
 - [Shaka player](https://github.com/shaka-project/shaka-player)
 - [xgplayer](https://github.com/bytedance/xgplayer)
+- https://www.mediaevent.de/tutorial/html-video-tag-object-tag.html
+- https://hacks.mozilla.org/2016/04/record-almost-everything-in-the-browser-with-mediarecorder/
+- https://stackoverflow.com/questions/18509385/html-5-video-recording-and-storing-a-stream
+- https://webaudiodemos.appspot.com/AudioRecorder/index.html
+- https://webcamtoy.com/de/
+- https://webaudiodemos.appspot.com/pitchdetect/index.html
+- https://simpl.info/mediarecorder/
+- https://stackoverflow.com/questions/14256316/how-can-i-get-the-size-of-the-webcam-image-with-getusermedia
+- https://webrtchacks.github.io/WebRTC-Camera-Resolution/
+- https://simpl.info/imagecapture/
 -
 -
+
 
 ## Speech
 - https://github.com/coqui-ai
@@ -871,10 +796,13 @@
 ## WebAPI
 - [AbortSignal](https://developer.mozilla.org/en-US/docs/Web/API/AbortSignal)
 - [Ambient light sensor](https://www.w3.org/TR/ambient-light/)
+- [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
 - [Contact Picker API](https://www.w3.org/TR/contact-picker/)
 - [Contact Picker](https://developer.chrome.com/docs/capabilities/web-apis/contact-picker?hl=de)
+- [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS)
 - [DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/DeviceMotionEvent?retiredLocale=de)
 - [Device orientation events](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events)
+- [Detecting device orientation](https://developer.mozilla.org/en-US/docs/Web/API/Device_orientation_events/Detecting_device_orientation)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [Generic Sensor API](https://www.w3.org/TR/generic-sensor/)
 - [getusermedia](https://web.dev/articles/getusermedia-intro?hl=de)
@@ -892,14 +820,18 @@
   - https://developer.mozilla.org/en-US/docs/Web/API/Media_Capture_and_Streams_API/Taking_still_photos
   - https://web.dev/articles/media-capturing-images?hl=de#access_the_camera_interactively
 - [MutationObserver](https://developer.mozilla.org/de/docs/Web/API/MutationObserver)
+- [Notification](https://developer.mozilla.org/en-US/docs/Web/API/Notification)
 - [Notification Triggers API](https://developer.chrome.com/docs/web-platform/notification-triggers/)
 - [PerformancePaintTiming](https://developer.mozilla.org/en-US/docs/Web/API/PerformancePaintTiming)
 - [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+- [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 - [requestIdleCallback](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestIdleCallback)
 - [sendBacon](https://developer.mozilla.org/de/docs/Web/API/Navigator/sendBeacon)
+- [SharedWorker](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker)
 - [SpeechRecognition](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 - [unhandledrejection event](https://developer.mozilla.org/en-US/docs/Web/API/Window/unhandledrejection_event)
 - [User Timing](https://developer.mozilla.org/en-US/docs/Web/API/Performance_API/User_timing)
+- [Vibration API](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
 - [View Transition API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transition_API)
 - [Web Shape API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API)
 - [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
@@ -917,6 +849,16 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/Scheduler/yield
 - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/script/type/speculationrules
 - [DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
+-
+- [multiwindowcolors](https://github.com/neomjs/multiwindowcolors)
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes/crossorigin
+- https://html.spec.whatwg.org/multipage/indices.html#event-online
+-
+- https://webdesign.tutsplus.com/html5-vibration-api--mobile-22585t
+- https://www.quirksmode.org/js/dragdrop.html
+- https://stackoverflow.com/questions/21696052/copy-to-clipboard-with-javascript-in-firefox
+- https://www.w3.org/TR/mediastream-recording/#dom-mediarecorder-start
+-
 -
 -
 
@@ -937,9 +879,12 @@
 - https://webrtchacks.github.io/WebRTC-Camera-Resolution/
 - https://www.simplewebrtc.com/
 - [PeerJS](https://peerjs.com/)
+- https://simpl.info/rtcdatachannel/
 -
 -
 -
+-
+
 
 ## Addons, Extensions
 - [Anatomy of an extension](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
@@ -962,38 +907,17 @@
 -
 
 
-## Codepen.io
-- https://blog.codepen.io/2017/03/17/best-music-pens-codepen/
-- https://codepen.io/pouretrebelle/post/hexagons
-- https://codepen.io/rachsmith/post/how-to-code-fireworks-with-es2015-javascript-and-pixi-js
-- https://codepen.io/towc/pen/oBvYEL
-- https://codepen.io/bali_balo/pen/oYKaZx
-- https://codepen.io/waaark/pen/ENRvvq
-- https://codepen.io/ykob/pen/QGeGgJ
-- https://codepen.io/thebabydino/pen/MbxQmJ
-- https://codepen.io/tmrDevelops/pen/dOLgWm
-- https://codepen.io/davidkpiano/pen/vxZEoO
-- https://codepen.io/peterhry/pen/dOrZLX
-- https://codepen.io/collection/AvOgqk/
-- https://codepen.io/gregh/post/start-using-the-web-audio-with-pizzicato-js
-- https://codepen.io/jak_e/pen/xqVrvE
-- https://codepen.io/gregh/post/recreating-legendary-8-bit-games-music-with-web-audio-api
-- https://codepen.io/DonKarlssonSan/post/drum-loops-and-effects-with-web-audio-api
-- https://codepen.io/jak_e/full/xqVrvE
-- [Infinite scroll](https://codepen.io/regchiu/pen/PMpmBK)
-- [The circular menu](https://codepen.io/ainalem/pen/YoyZpq)
-- [Off-canvas Navigation Variants (Sidebar)](https://codepen.io/foxeisen/pen/YgEwbK)
-- [Electric Monster](https://codepen.io/OfigenusMaximus/pen/QWmdoPa)
-- [SVG background texture generator (v2019)](https://codepen.io/2kool2/pen/KvmBJN)
-- [404 - Sinclair ZX Spectrum emulation](https://codepen.io/2kool2/pen/xVrdpZ)
-- https://codepen.io/stevekinney/full/eVadLB/
-- [Reptile Interactive Cursor](https://codepen.io/sk-chaurasiya/pen/VYvbxed)
 
 ## Audio articles
 - https://www.keithmcmillen.com/blog/making-music-in-the-browser-web-audio-api-part-1/
 - https://web.dev/articles/webaudio-intro?hl=de
 - https://medium.com/better-programming/peaks-js-interact-with-audio-waveforms-b7cb5bd3939a
 - https://medium.com/swlh/visualizing-sound-with-d3-and-web-audio-api-435ffea88f30
+-
+-
+
+## Articles (German)
+- https://www.computerwoche.de/article/2625742/zehn-tipps-fuer-den-code-review.html
 -
 -
 
@@ -1181,8 +1105,29 @@
 - https://medium.com/coding-beauty/new-javascript-operator-1e60dea05654
 - https://javascript.plainenglish.io/11-mysterious-but-interesting-front-end-tips-39f98bc416a9
 -
+- https://medium.com/before-semicolon/reactive-dom-finally-9ccfd2b181b7
+- https://matemarschalko.medium.com/28-javascript-one-liners-every-senior-developer-needs-to-know-e74bdedc3b3b
+- https://javascript.plainenglish.io/why-pwas-are-exploding-in-2025-and-how-you-can-build-one-in-a-weekend-ed8a10b9eac7
 -
-
+- https://gomakethings.com/bulletproof-web-component-loading/
+- https://gomakethings.com/how-to-generate-an-id-from-element-text/
+-
+- https://de.slideshare.net/slideshow/offline-strategies-for-html5-web-applications-froscon8/25553408
+- https://css-tricks.com/html5-meter-element/
+- https://www.w3schools.com/TAgs/av_prop_mediagroup.asp
+- https://stackoverflow.com/questions/22885702/html-for-the-pause-symbol-in-audio-and-video-control
+- https://t3n.de/news/responsive-iframe-retrofitting-608891/
+-
+- https://javascript.plainenglish.io/11-html-one-liners-that-are-insanely-useful-3b62f4e57a06
+-
+- https://www.mediaevent.de/javascript/filereader.html
+-
+- https://web.dev/articles/add-manifest?hl=de
+-
+-
+-
+-
+-
 
 
 

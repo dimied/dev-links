@@ -8,6 +8,8 @@
 - [AppSheet](https://about.appsheet.com/home/)
 - [Betty blocks](https://www.bettyblocks.com/)
 -
+- [Appwrite](https://appwrite.io/)
+-
 -
 
 ## Tools (Paid)
@@ -21,6 +23,7 @@
 - [Budibase](https://github.com/Budibase/budibase)
 - [Frappe](https://github.com/frappe/frappe)
 - [ILLA builder](https://github.com/illacloud/illa-builder)
+- [NocoBase](https://github.com/nocobase/nocobase)
 - [Node-Red](https://github.com/node-red)
 - [rowy](https://github.com/rowyio/rowy)
 -

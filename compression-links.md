@@ -3,6 +3,7 @@
 
 
 ## Tools
+- [Oodle](https://www.radgametools.com/oodle.htm)
 - [ZPAQ](https://en.wikipedia.org/wiki/ZPAQ)
 -
 -
