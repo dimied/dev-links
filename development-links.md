@@ -3,8 +3,10 @@
 ## Interesting
 - [complexityexplained](https://complexityexplained.github.io/)
 
+
 ## Collections
 - [Awesome Minimalist Frameworks](https://github.com/neiesc/awesome-minimalist)
+
 
 ## Apps
 - [CodeTracer](https://github.com/metacraft-labs/codetracer)
@@ -97,10 +99,6 @@
 - https://azeynalli1990.medium.com/how-to-become-a-strong-software-architect-c36e144fe2fd
 - https://www.linkedin.com/pulse/how-use-multiple-github-accounts-macos-atish-maske/
 -
-
-
-
-
 
 
 

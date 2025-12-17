@@ -2,34 +2,47 @@
 
 - [Academic Earth](https://academicearth.org/)
 -
--
 - [OpenCourseWare](https://ocw.mit.edu/search/?s=department_course_numbers.sort_coursenum#electrical-engineering-and-computer-science)
--
 -
 - [learn-anything.xyz](https://learn-anything.xyz/)
 -
-- https://www.visualthesaurus.com/howitworks/
 - https://accelareader.com/
--
--
+- https://www.visualthesaurus.com/howitworks/
 -
 
+
 ## Competition
+- [atcoder.jp](https://atcoder.jp/)
 - [Codebattle](https://www.codebattle.in/)
+- [Timus Online Judge](https://acm.timus.ru/)
 -
+
+
+## Collections
+- [Codechef](https://www.codechef.com/)
+- [freeCodeCamp's curriculum](https://www.freecodecamp.org/learn/)
+- [CodingDojo/Kata](https://codingdojo.org/kata/)
+- [Sphere Online Judge (Problems)](https://www.spoj.com/problems/classical/)
+-
+
+
+## Learning
+- [Codility](https://app.codility.com/programmers/)
+- [Codingcoach](https://codingcoach.io/)
+- [Commonlounge](https://www.commonlounge.com/)
+- [Tutorialzine](https://tutorialzine.com/)
 -
 
 
 ## Apps
 - [daily.dev](https://daily.dev/?r=0)
 -
--
+
 
 ## References
 - [quickref.me](https://quickref.me/)
 - [roadmap](https://roadmap.sh/)
 - [tldr.sh](https://tldr.sh/)
--
 -
 
 
@@ -49,6 +62,7 @@
 - [exercism](https://exercism.org/)
 -
 
+
 ### Books
 - https://github.com/EbookFoundation/free-programming-books
 
@@ -56,17 +70,11 @@
 ### JavaScript
 - [javascript-questions](https://github.com/lydiahallie/javascript-questions)
 -
--
 
 ---
 
 ## Math
 - https://www.cut-the-knot.org/algebra.shtml
-
-
-
-
-
 
 
 

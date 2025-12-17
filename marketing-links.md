@@ -49,11 +49,7 @@
 - [Do you love your customers?](https://seths.blog/2014/02/do-you-love-your-customers/)
 - [A Book in 5 Minutes: “The Founder’s Dilemmas” by Noam Wasserman](https://tech.co/news/founders-dilemmas-noam-wasserman-2013-10)
 -
--
 - https://www.onstartups.com/tabid/3339/bid/97391/3-Biggest-Mistakes-When-Choosing-a-Cofounder.aspx
--
--
--
 -
 
 ## Branding
@@ -62,14 +58,6 @@
 - [Lead generation strategies to start attracting business and drive growth](https://blog.hubspot.com/marketing/beginner-inbound-lead-generation-guide-ht)
 - [The Compounding Returns of Content Marketing](https://tomtunguz.com/content-marketing-compounding-returns/)
 -
--
--
-
-
-
-
-
-
 
 
 

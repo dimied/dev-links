@@ -37,7 +37,6 @@
 - [A Survey of CPU Caches](https://meribold.org/2017/10/20/survey-of-cpu-caches/)
 -
 -
--
 
 ## GPU
 - [How GPU came to be used for general computation](https://igoro.com/archive/how-gpu-came-to-be-used-for-general-computation/)
@@ -138,18 +137,10 @@
 - https://github.com/collections/load-testing
 
 
-
 ---
-
-## DB articles
-
--
--
 
 ## Web headers
 - [Cache-Control header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Cache-Control)
--
--
 -
 
 ## Web articles
@@ -220,9 +211,6 @@
 - [Vectorized and performance-portable Quicksort](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html?m=1)
 -
 -
--
--
-
 
 
 

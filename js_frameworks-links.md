@@ -43,7 +43,7 @@
 - https://github.com/Pasvaz/bindonce
 -
 -
--
+
 
 ## Angular
 - https://github.com/orizens/ngx-infinite-scroll
@@ -109,8 +109,6 @@
 -
 - [Material Design Lite](https://getmdl.io/)
 -
--
--
 
 
 ## Electron
@@ -151,11 +149,10 @@
 - [Refine](https://github.com/refinedev/refine)
 - https://github.com/astoilkov/use-local-storage-state
 -
--
+
 
 ## SolidJS
 - https://reactivity-with-solidjs.netlify.app/workshop/introduction
--
 -
 
 
@@ -183,4 +180,6 @@
 - https://github.com/kitbagjs/router
 -
 -
+
+
 

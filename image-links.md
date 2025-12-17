@@ -17,14 +17,14 @@
 - [upscaler](https://icons8.com/upscaler)
 - [vectr](https://vectr.com/)
 -
-- https://www.coolutils.com/de/online/DICOM-to-JPG
+- [DICOM-to-JPG](https://www.coolutils.com/de/online/DICOM-to-JPG)
 -
 
 ## Open source
 - [Immich](https://github.com/immich-app/immich)
 - [darktable](https://www.darktable.org/)
 -
--
+
 
 ## Collections
 - [Adobe stock](https://stock.adobe.com/de)
@@ -85,26 +85,6 @@
 - https://www.freecodecamp.org/news/an-intro-to-responsive-image-optimization-with-html5-and-intersection-observer-2a4fbe1473c1
 -
 -
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
-
-
-
 
 
 

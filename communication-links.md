@@ -4,8 +4,6 @@
 - [FTAPI](https://www.ftapi.com/)
 - [IOTA](https://www.iota.org/)
 -
--
-
 - [Jekyll](https://jekyllrb.com/)
 - [Hugo](https://gohugo.io/)
 - [BookStack](https://www.bookstackapp.com/)
@@ -30,7 +28,6 @@
 - [Mentimeter](https://www.mentimeter.com/de-DE)
 - [Slido](https://www.slido.com/de)
 -
--
 
 
 ## Community
@@ -41,7 +38,6 @@
 
 ## Cloud
 - [Nextcloud](https://nextcloud.com/)
--
 -
 
 
@@ -55,80 +51,62 @@
 ## Apps (Paid)
 - [XMind](https://xmind.com/)
 -
--
 
 ## Apps (OS)
 - [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 -
--
+
 
 ## RSS
 - [RSSHub](https://github.com/DIYgod/RSSHub)
 -
--
+
 
 ## Sharing
 - [PrivateBin](https://privatebin.info/)
--
 -
 
 
 ## Dashboards
 - [Listmonk](https://github.com/knadh/listmonk)
 -
--
 
 
 ## IRC
 - [IRCCloud](https://www.irccloud.com/)
 -
--
+
 
 ## Chat
 - [Algora TV](https://github.com/algora-io/tv)
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 - [databag](https://github.com/balzack/databag)
 - [Keybase.io](https://keybase.io/)
+- [Talky](https://talky.io/)
 - [Threema](https://github.com/threema-ch/threema-android)
 - [Zulip](https://github.com/zulip/zulip)
--
 -
 
 
 ## Video conferencing
 - [Jitsi](https://jitsi.org/)
 -
--
 
 
 ## Web conferencing
 - [BigBlueButton](https://github.com/bigbluebutton/bigbluebutton)
--
 -
 
 
 ## Forum
 - [Flarum](https://github.com/flarum/framework)
 -
--
 
 
 ## Notification
 - [Novu](https://github.com/novuhq/novu)
 -
--
 
-
-## Platforms
-- [Discourse](https://github.com/discourse/discourse)
-- [ejabberd](https://www.ejabberd.im/)
-- [Huly](https://huly.io/)
-- [Mattermost](https://github.com/mattermost/mattermost)
--
-
-## Wiki
-- [Docmost](https://docmost.com/)
--
 
 ## Planning
 - [AFFiNE](https://github.com/toeverything/AFFiNE)
@@ -143,47 +121,46 @@
 - [Wekan](https://wekan.fi/)
   - [Wekan (git)](https://github.com/wekan/wekan)
 -
+
+
+## Platforms
+- [Discourse](https://github.com/discourse/discourse)
+- [ejabberd](https://www.ejabberd.im/)
+- [Huly](https://huly.io/)
+- [Mattermost](https://github.com/mattermost/mattermost)
+-
+
+
+## Wiki
+- [Docmost](https://docmost.com/)
 -
 
 
 ## Ticket management
 - [Peppermint](https://github.com/Peppermint-Lab/peppermint)
 -
--
--
-
 
 ## Incident management
 - [versus-incident](https://github.com/VersusControl/versus-incident)
 -
--
--
-
 
 ## Screen sharing
 - [CoScreen](https://www.coscreen.co/)
--
 -
 
 ## User onboarding
 - [Usertour](https://github.com/usertour/usertour)
 -
--
--
--
+
 
 ## Open source
 - [chatwoot](https://github.com/chatwoot/chatwoot)
 -
--
--
+
 
 ## Articles
 - https://caryn-marooney.medium.com/big-moment-communications-framework-s-w-i-m-c73910f820b6
 -
--
--
-
 
 
 

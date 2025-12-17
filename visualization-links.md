@@ -56,7 +56,6 @@
 - [RRDtool](https://de.wikipedia.org/wiki/RRDtool)
 -
 -
--
 
 
 ## Graphs (Paid)
@@ -71,7 +70,6 @@
 - [Grafana](https://grafana.com/)
 - [Kibana](https://www.elastic.co/kibana)
 - [Visprex](https://www.visprex.com/)
--
 - [RATH](https://github.com/Kanaries/Rath)
 -
 -

@@ -84,11 +84,6 @@
 -
 -
 
-
----
-
-- [Redis Labs ](https://github.com/RedisLabs)
-
 ---
 
 - [Qdrant Vector Database](https://qdrant.tech/)
@@ -111,34 +106,23 @@
 - [RethinkDB pushes JSON to your apps in realtime.](https://rethinkdb.com/)
 - [JanusGraph is a scalable graph database ](https://janusgraph.org/)
 - [ctlstore is a distributed data store](https://github.com/segmentio/ctlstore)
-- []()
 - [Cayley is an open-source database for Linked Data. ](https://github.com/cayleygraph/cayley)
-- []()
 - [etcd is a strongly consistent, distributed key-value store](https://etcd.io/)
 - [HSQLDB - 100% Java Database](http://www.hsqldb.org/)
-- []()
 - [H2 Database Engine](http://www.h2database.com/html/main.html)
 - [H2 Database](https://de.wikipedia.org/wiki/H2_Database)
-- []()
 - [Supabase](https://supabase.com/)
-- []()
 - [ElephantSQL  PostgreSQL as a Service ](https://www.elephantsql.com/)
-- []()
 - [Fauna A distributed document-relational database delivered as a cloud API](https://fauna.com/)
-- []()
 - [CrateDB](https://cratedb.com/)
-- []()
 - [Dgraph The most popular open source Graph database in the world](https://dgraph.io/)
-- []()
 - [Percona](https://www.percona.com/)
   - [Percona XtraBackup](https://docs.percona.com/percona-xtrabackup/2.4/index.html#)
   - [Percona Server for MySQL Feature Comparison](https://docs.percona.com/percona-server/5.7/feature_comparison.html)
-- []()
 - [Ori A Secure Distributed File System](http://ori.scs.stanford.edu/)
-- []()
-- []()
-- []()
-- []()
+-
+-
+-
 
 
 ---
@@ -150,56 +134,32 @@
 - [RA: A Relational Algebra Interpreter](https://users.cs.duke.edu/~junyang/ra/)
 - [Vektordatenbank](https://de.wikipedia.org/wiki/Vektordatenbank)
 - [What is a Vector Database & How Does it Work?](https://www.pinecone.io/learn/vector-database/)
-- []()
-- []()
 - [ServiceStack is a simple, fast, versatile and highly-productive full-featured Web and Web Services Framework](https://github.com/ServiceStack/ServiceStack)
-- []()
 - [Source code of Redis Essentials book.](https://github.com/redis-essentials/book)
 - [Redis persistence demystified ](http://oldblog.antirez.com/post/redis-persistence-demystified.html)
 - [Testing Fork Time on AWS/Xen Infrastructure](https://redis.com/blog/testing-fork-time-on-awsxen-infrastructure/#.WFgTE1zAZsw)
-- []()
 - [Asynchronous replication with failover](https://aphyr.com/posts/287-asynchronous-replication-with-failover)
 - [Reply to Aphyr, part 2](http://antirez.com/news/56)
-- []()
 - [Storing hundreds of millions of simple key-value pairs in Redis](https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c#.k9fl5l83g)
-- []()
 - [Optimizing Cypher Queries in Neo4j](https://vimeo.com/84900121)
-- []()
 - [Debezium Stream changes from your database.](https://debezium.io/)
-- []()
 - [Super Smack is a database benchmarking tool. ](https://github.com/tmountain/Super-Smack)
-- []()
 - [Apache Druid: A Real-Time Database for Modern Analytics ](https://thenewstack.io/apache-druid-a-real-time-database-for-modern-analytics/)
-- []()
 - [Mindsdb Blog](https://www.mindsdb.com/blog)
-- []()
 - [When and where to determine the ID of an entity](https://matthiasnoback.nl/2018/05/when-and-where-to-determine-the-id-of-an-entity/)
-- []()
-
-- []()
 - [Exasol is an analytics database management software company.](https://en.wikipedia.org/wiki/Exasol)
-- []()
 - [10 Common Database Security Issues](https://dzone.com/articles/10-common-database-security-issues)
-- []()
 - [Using Ecto.Multi for Complex Database Transactions](https://hackernoon.com/using-ecto-multi-for-complex-database-transactions-70aac419e81c#.txiq7nvw1)
 - [How to avoid latency spikes and memory consumption spikes during snapshotting in an in-memory](https://hackernoon.com/how-to-avoid-latency-spikes-and-memory-consumption-spikes-during-snapshotting-in-an-in-memory-40e82abde51d#.zc89ixslp)
-- []()
 - [Asynchronous processing with in-memory databases or how to handle one million transactions per second on a single CPU core](https://medium.com/@denisanikin/asynchronous-processing-with-in-memory-databases-or-how-to-handle-one-million-transactions-per-36a4c01fc4e4#.wx4tq68m0)
-- []()
 - [How To Use HAProxy to Set Up MySQL Load Balancing](https://www.digitalocean.com/community/tutorials/how-to-use-haproxy-to-set-up-mysql-load-balancing-3)
 - [How To Set Up a Remote Database to Optimize Site Performance with MySQL](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql)
 - [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
-- []()
 - [SQL Authority Blog](https://blog.sqlauthority.com/)
-- []()
 - [How to tune SQL Queries for better performance?](http://geekexplains.blogspot.com/2008/06/how-to-tune-sql-queries-for-better.html)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ---
 
@@ -209,23 +169,22 @@
 - [h2database](http://www.h2database.com/html/features.html)
 - [Hibernate](https://hibernate.org/)
 - [predis A flexible and feature-complete Redis client for PHP. ](https://github.com/predis/predis)
-- []()
 - [twemproxy  A fast, light-weight proxy for memcached and redis ](https://github.com/twitter/twemproxy)
-- []()
 - [SQLDBM  Develop databases online ](https://sqldbm.com/Home/)
 - [Hackolade Polyglot Data Modeling](https://hackolade.com/)
 - [Flyway is an open-source database-migration tool. ](https://flywaydb.org/)
 - [Liquibase is an open-source database-independent library for tracking, managing and applying database schema changes. ](https://www.liquibase.org/)
 - [TablePlus Modern, native, and friendly GUI tool for relational databases](https://tableplus.com/)
-- []()
+-
+-
+
 
 ---
 
 ## Apache
 - [Turning the database inside-out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
-- []()
-- []()
-- []()
+-
+-
 
 ---
 
@@ -233,13 +192,8 @@
 - [SQLite INSERT](https://www.sqlitetutorial.net/sqlite-insert/)
 - [Querying Data in SQLite Database from Node.js Applications](https://www.sqlitetutorial.net/sqlite-nodejs/query/)
 - [SQLite EXISTS](https://www.sqlitetutorial.net/sqlite-exists/)
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
+-
+-
 
 ---
 
@@ -250,8 +204,7 @@
 - [Building with Patterns: A Summary](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)
 - [Webinar: Working with Graph Data in MongoDB](https://de.slideshare.net/mongodb/webinar-working-with-graph-data-in-mongodb)
 - [GridFS](https://www.mongodb.com/docs/manual/core/gridfs/)
-- []()
-- []()
+
 
 ---
 
@@ -270,9 +223,8 @@
 - [mha4mysql-manager - Master High Availability Manager and tools for MySQL ](https://github.com/yoshinorim/mha4mysql-manager)
 - [Jetpants is an automation toolkit for handling monstrously large MySQL database topologies.](https://github.com/tumblr/jetpants)
 - [ MySQL Utilities: The New .frm Reader Utility ](http://drcharlesbell.blogspot.com/2013/04/mysql-utilities-new-frm-reader-utility.html)
-- []()
-- []()
-- []()
+-
+-
 
 ---
 
@@ -285,42 +237,8 @@
 - [ redis-sampler](https://github.com/antirez/redis-sampler)
 - [Redis Memory Analyzer](https://github.com/gamenet/redis-memory-analyzer)
 - [Storing hundreds of millions of simple key-value pairs in Redis](https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c#.k9fl5l83g)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-
+-
 
 
 

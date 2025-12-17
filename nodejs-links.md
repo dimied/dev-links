@@ -1,11 +1,10 @@
 # NodeJS
 
-- https://www.nodebeginner.org/
-- http://nodetuts.com/
-- https://nodeschool.io/de/
-- https://github.com/goldbergyoni/nodebestpractices
-- https://github.com/mafintosh/pump
-- https://github.com/node-cache/node-cache
+## Learning
+- [nodebeginner](https://www.nodebeginner.org/)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)
+- [nodeschool.io](https://nodeschool.io/de/)
+- [nodetuts](http://nodetuts.com/)
 -
 - [Encore](https://encore.dev/)
 -
@@ -13,20 +12,17 @@
 -
 - [Restify](https://restify.com/)
 -
--
--
+- [node-cache](https://github.com/node-cache/node-cache)
+- [pump](https://github.com/mafintosh/pump)
 
 
 ## AI
 - [Natural](https://naturalnode.github.io/natural/)
 -
--
 
 
 ## 3D
 - [awatif](https://github.com/madil4/awatif)
--
--
 -
 
 
@@ -42,8 +38,7 @@
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp)
 - https://github.com/theophilusx/ssh2-sftp-client
 -
--
--
+
 
 ---
 
@@ -51,9 +46,12 @@
 - [async-rq](https://github.com/burningtree/async-rq)
 - [Axon](https://github.com/tj/axon)
 - [Bookshelf.js](https://bookshelfjs.org/)
+- [cls-hooked](https://github.com/jeff-lewis/cls-hooked)
 - [commander.js](https://github.com/tj/commander.js)
 - [confluo](https://github.com/ucbrise/confluo)
+- [del](https://github.com/sindresorhus/del)
 - [Knex.js](https://knexjs.org/)
+- [node-memwatch](https://www.npmjs.com/package/node-memwatch)
 - [ora](https://www.npmjs.com/package/ora)
 - [pako](https://github.com/nodeca/pako/)
 - [parse5](https://github.com/inikulin/parse5/)
@@ -64,11 +62,8 @@
 - [undici](https://github.com/nodejs/undici)
 - [waterline](https://github.com/balderdashy/waterline)
 - [yup](https://github.com/jquense/yup/)
-- https://github.com/jeff-lewis/cls-hooked
-- https://www.npmjs.com/package/node-memwatch
-- [del](https://github.com/sindresorhus/del)
 -
--
+
 
 ## Templates
 - [pug](https://github.com/pugjs/pug)
@@ -76,7 +71,6 @@
 
 ## Security
 - [Malibu](https://github.com/tinyhttp/malibu)
--
 -
 
 ---
@@ -89,7 +83,6 @@
 - [koa.js](https://koajs.com/)
 - [NestJS](https://nestjs.com/)
 - [Sails.js](https://sailsjs.com/)
--
 -
 
 ---
@@ -106,12 +99,10 @@
 - https://github.com/bda-research/node-crawler
 - https://github.com/observing/thor
 -
--
--
+
 
 ## Tools
 - [Verdaccio](https://www.verdaccio.org/)
--
 -
 
 ---
@@ -121,7 +112,6 @@
 - https://stackoverflow.com/questions/18950703/how-do-i-set-the-bodyparser-upload-limit-to-specific-routes-rather-than-globally
 - https://node-security.com/posts/express-sni/#full-code
 - https://www.npmjs.com/package/express-status-monitor
--
 -
 
 ---

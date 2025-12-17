@@ -3,7 +3,6 @@
 - [auth0](https://auth0.com/)
 - [Clerk](https://clerk.com/)
 -
--
 
 ---
 
@@ -16,14 +15,13 @@
 -
 - [lldap](https://github.com/lldap/lldap)
 - [logto](https://github.com/logto-io/logto)
+- [stack-auth](https://github.com/stack-auth/stack-auth)
 - [Zitadel](https://github.com/zitadel/zitadel)
-- https://github.com/stack-auth/stack-auth
 -
 
 
 ## Tools (OS)
 - [Keycloak](https://www.keycloak.org/)
--
 -
 
 
@@ -31,7 +29,7 @@
 - [dex - A federated OpenID Connect provider](https://github.com/dexidp/dex)
 - [pocket-id](https://github.com/pocket-id/pocket-id)
 -
--
+
 
 ## Articles
 - https://levelup.gitconnected.com/secure-frontend-authorization-67ae11953723
@@ -40,9 +38,6 @@
 - https://medium.com/google-developer-experts/better-two-factor-authentication-experiences-with-webotp-f70e0ce19720
 - https://medium.com/better-programming/stop-using-json-web-tokens-for-authentication-use-stateful-sessions-instead-c0a803931a5d
 -
--
--
--
--
--
+
+
 

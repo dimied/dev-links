@@ -4,7 +4,6 @@
 ## Terminology
 - [Code sanitizer](https://en.wikipedia.org/wiki/Code_sanitizer)
 -
--
 
 
 ## Languages
@@ -13,21 +12,6 @@
 - [Haxe](https://haxe.org/)
 
 - [Unison](https://www.unison-lang.org/)
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 -
 -
 

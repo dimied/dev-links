@@ -1,8 +1,6 @@
 # GPU
 
 
----
-
 - [Scalability of efficient parallel K-Means](https://ieeexplore.ieee.org/document/5407991)
 -
 
@@ -19,45 +17,6 @@
 
 ## PyOpenCL
 - [OpenCL Runtime: Basics](https://documen.tician.de/pyopencl/runtime.html#pyopencl.program_info)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -4,7 +4,6 @@
 - [Andagon](https://www.andagon.com/)
 - [Tricentis](https://www.tricentis.com/de)
 
-
 ---
 
 ## Apps (Paid)
@@ -40,12 +39,10 @@
 - [DTM Data Generator](https://sqledit.com/dg/download.html)
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 -
--
 
 
 ## Code quality
 - [PMD](https://sourceforge.net/projects/pmd/)
--
 -
 
 ## General
@@ -55,7 +52,7 @@
 ## Mobile
 - [Kobiton](https://kobiton.com/?nab=0)
 -
--
+
 
 ## Web, Browsers
 - [Artillery.io](https://www.artillery.io/)
@@ -98,7 +95,6 @@
 ## Angular
 - [ngentest](https://github.com/allenhwkim/ngentest)
 -
--
 
 
 ## Tools
@@ -114,13 +110,12 @@
 ## SQL
 - [SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 -
--
+
 
 ## Performance
 - [gtmetrix](https://gtmetrix.com/)
 -
--
--
+
 
 ## Articles
 - [Sanity Testing](https://artoftesting.com/sanity-testing)
@@ -143,9 +138,6 @@
 - https://medium.com/velotio-perspectives/automation-testing-with-nightwatch-js-and-cucumber-everything-you-need-to-know-9761614abb86
 - https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 -
--
--
-
 
 
 

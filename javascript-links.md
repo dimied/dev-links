@@ -9,6 +9,7 @@
 - [You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 
 - [Piny](https://getpiny.com/)
+
 ---
 
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
@@ -97,7 +98,6 @@
 - [riot.js](https://github.com/riot/riot)
 - https://github.com/felix-bohlin/ui
 -
--
 - [FortuneSheet](https://github.com/ruilisi/fortune-sheet)
 -
 - [RunKit](https://runkit.netlify.app/)
@@ -109,7 +109,6 @@
 - [jscanify](https://github.com/puffinsoft/jscanify)
 -
 - [mavo](https://mavo.io/)
--
 -
 - https://github.com/GrapesJS/touch/blob/master/src/touchpolyfill.js
 -
@@ -171,13 +170,10 @@
 - https://github.com/rwaldron/chromakey
 - https://github.com/brianchirls/annotated-video-player
 -
--
-
  
 
 ## Companies
 - [data2type](https://www.data2type.de/home/)
--
 -
 
 
@@ -200,25 +196,21 @@
 - https://www.w3.org/International/questions/qa-html-encoding-declarations
 - https://www.freeformatter.com/html-entities.html
 -
--
 
 
 ## PDF
 - https://cloudmersive.com/article/Understanding-Embedded-JavaScript-in-PDF-Documents
 - [Nutrient](https://www.nutrient.io/guides/web/editor/)
 -
--
 
 
 ## Form builder
 - [Formsmd](https://github.com/formsmd/formsmd)
 -
--
 
 
 ## Grid system
 - [fast-grid](https://github.com/gabrielpetersson/fast-grid)
--
 -
 
 
@@ -239,10 +231,8 @@
 - [Deno](https://deno.com/)
 - [QuickJS](https://bellard.org/quickjs/)
 -
--
 - [htmx](https://htmx.org/)
 - [bare](https://github.com/holepunchto/bare)
--
 -
 - https://esbuild.github.io/
 - [oxc](https://github.com/oxc-project/oxc)
@@ -262,14 +252,13 @@
 - https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03
 - [sw-precache](https://github.com/GoogleChromeLabs/sw-precache)
 -
--
+
 
 ## Web worker
 - https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers
 
 ## Offline
 - https://web.dev/articles/offline-cookbook?hl=de
-
 
 
 ## AI, OCR
@@ -294,7 +283,6 @@
 ## Canvas
 - [Fabric.js](https://fabricjs.com/)
 - https://html5.litten.com/layers/canvaslayers.html
--
 -
 
 
@@ -355,7 +343,6 @@
 - [Vizone](https://github.com/gilbox/vizone)
 - [Zim.js](https://zimjs.com/)
   - [Ornamate](https://zimjs.com/ornamate.html)
-  - 
 - https://bost.ocks.org/mike/
 - https://mbostock.github.io/d3/talk/20111116/#8
 - https://observablehq.com/
@@ -383,7 +370,7 @@
 ## WebGL
 - [Getting started with WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial/Getting_started_with_WebGL)
 -
--
+
 
 ## Animation
 - [animejs](https://animejs.com/)
@@ -395,12 +382,10 @@
 - [vivus](https://maxwellito.github.io/vivus/)
 - [wow.js](https://wowjs.uk/)
 -
--
 
 
 ## Maps
 - [Leafletjs](https://leafletjs.com/)
--
 -
 
 
@@ -645,6 +630,7 @@
 - https://github.com/pqina/filepond
 -
 
+
 ## Components
 - [Bit](https://github.com/teambit/bit)
 - [DHTMLX](https://dhtmlx.com/)
@@ -658,12 +644,12 @@
 - [webcomponents](https://github.com/WICG/webcomponents)
 - https://componentator.com/
 -
--
+
 
 ### Web components
 - [app-storage](https://www.webcomponents.org/element/@polymer/app-storage)
 -
--
+
 
 ## Functional
 - https://github.com/jkup/functional-javascript
@@ -695,11 +681,9 @@
 - [Webpack Deep Dive](https://slides.com/kentcdodds/webpack-deep-dive)
 - [Rsdoctor](https://github.com/web-infra-dev/rsdoctor)
 -
--
 
 
 ---
-
 
 ## WebAssembly
 - [AssemblyScript](https://www.assemblyscript.org/)
@@ -715,6 +699,7 @@
 - https://kripken.github.io/mloc_emscripten_talk/#/
 - https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/
 -
+
 
 ---
 
@@ -732,8 +717,8 @@
 - [Zombie.js](https://zombie.js.org/)
 - https://github.com/theintern/digdug
 - https://tntim96.github.io/JSCover/
-
 -
+
 
 ## Performance
 - [Benchmark.js](https://benchmarkjs.com/)
@@ -750,6 +735,7 @@
 - https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/
 -
 
+
 ## Audio, Video
 - https://github.com/naomiaro/waveform-playlist
 - https://github.com/surikov/webaudiofont
@@ -761,6 +747,7 @@
 - https://github.com/video-dev/hls.js
 - https://github.com/brianchirls/annotated-video-player
 - https://github.com/brianchirls/Seriously.js/
+
 
 ## Media
 - https://hacks.mozilla.org/2016/04/record-almost-everything-in-the-browser-with-mediarecorder/
@@ -785,7 +772,6 @@
 - https://stackoverflow.com/questions/14256316/how-can-i-get-the-size-of-the-webcam-image-with-getusermedia
 - https://webrtchacks.github.io/WebRTC-Camera-Resolution/
 - https://simpl.info/imagecapture/
--
 -
 
 
@@ -860,7 +846,6 @@
 - https://www.w3.org/TR/mediastream-recording/#dom-mediarecorder-start
 -
 -
--
 
 
 ## WebRTC, WebSockets
@@ -880,8 +865,6 @@
 - https://www.simplewebrtc.com/
 - [PeerJS](https://peerjs.com/)
 - https://simpl.info/rtcdatachannel/
--
--
 -
 -
 
@@ -904,8 +887,6 @@
 - https://codepen.io/katzkode/pen/wvMRjg
 - https://developers.google.com/youtube/iframe_api_reference?hl=de#Loading_a_Video_Player
 -
--
-
 
 
 ## Audio articles
@@ -914,12 +895,12 @@
 - https://medium.com/better-programming/peaks-js-interact-with-audio-waveforms-b7cb5bd3939a
 - https://medium.com/swlh/visualizing-sound-with-d3-and-web-audio-api-435ffea88f30
 -
--
+
 
 ## Articles (German)
 - https://www.computerwoche.de/article/2625742/zehn-tipps-fuer-den-code-review.html
 -
--
+
 
 ## Articles
 - https://simpl.info/getusermedia/constraints/
@@ -1125,11 +1106,6 @@
 - https://web.dev/articles/add-manifest?hl=de
 -
 -
--
--
--
-
-
 
 
 

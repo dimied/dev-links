@@ -1,5 +1,9 @@
 # Dev Ops
 
+
+- [The C10K problem](https://www.kegel.com/c10k.html)
+-
+-
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [infobyip](https://www.infobyip.com/detectmonitordpi.php)
 - [eBPF](https://ebpf.io/)
@@ -266,7 +270,6 @@
 -
 
 
-
 ## Code generation
 - [quicktype](https://quicktype.io/)
 -
@@ -325,7 +328,7 @@
 - [SSOReady](https://github.com/ssoready/ssoready)
 -
 -
--
+
 
 ---
 
@@ -369,8 +372,7 @@
 - [WebSpy](https://www.webspy.com/)
 -
 -
--
--
+
 
 ## VM (OS)
 - [hyperlight](https://github.com/hyperlight-dev/hyperlight)
@@ -430,7 +432,6 @@
 - [yazi](https://github.com/sxyazi/yazi)
 
 
-
 ## Logging
 - [logu](https://github.com/ynqa/logu)
 -
@@ -462,7 +463,6 @@
 ## SRE
 - [Parity](https://www.tryparity.com/)
 - [StatusPal](https://www.statuspal.io/)
-
 
 
 ## SRE (OS)
@@ -507,6 +507,7 @@
 - https://linklyhq.com/blog/list-of-5-free-geoip-databases-2020
 -
 
+
 ### IPs (free)
 - [geoip.spotrealms.com](https://geoip.spotrealms.com/)
 -
@@ -527,13 +528,14 @@
 - https://systembash.com/how-to-stop-an-apache-ddos-attack-with-mod_evasive/
 -
 -
--
+
 
 ## Security
 - [fingerprint](https://fingerprint.com/)
 - [modsecurity](https://modsecurity.org/)
 -
 -
+
 
 ## Container, Images
 - [containerd](https://containerd.io/)
@@ -542,7 +544,6 @@
 - [skopeo](https://github.com/containers/skopeo)
 - [modern.ie-vm](https://archive.org/download/modern.ie-vm)
 -
-
 
 
 ## Docker
@@ -559,6 +560,7 @@
 - https://medium.com/@ujjawalr/5-dockerfile-tricks-that-separate-senior-developers-from-juniors-bcd9846d8b7f
 -
 -
+
 
 ## Docker (mail)
 - https://hub.docker.com/r/tvial/docker-mailserver/
@@ -592,19 +594,17 @@
 - [OpenEBS](https://github.com/openebs/openebs)
 -
 -
--
 
 
 ### K8s security
 - [Kubescape](https://github.com/kubescape/kubescape)
 -
--
+
 
 ---
 
 ## OpenStack
 - https://docs.openstack.org/api-quick-start/
--
 -
 
 ---
@@ -660,22 +660,6 @@
 - https://blog.devgenius.io/the-art-of-overkill-web-dev-edition-6f224d81d9e9
 -
 -
--
--
--
--
--
--
-
-
-
-
-
-
-
-
-
-
 
 
 

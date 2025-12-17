@@ -17,21 +17,16 @@
 -
 - [Crawlee](https://github.com/apify/crawlee)
 -
--
--
 
 
 ## Home automation
 - [Tasmota templates](https://tasmota.github.io/docs/Templates/)
 -
--
+
 
 ## Workflow (OS)
 - [Cadence](https://cadenceworkflow.io/)
 -
--
--
-
 
 
 ## Open source
@@ -46,8 +41,6 @@
 
 ## Python
 - https://medium.com/pythoneers/10-insanely-useful-automation-scripts-you-need-to-try-using-python-4fa538a9152b
--
--
 -
 
 
@@ -64,18 +57,11 @@
 ## Web
 - [Windmill](https://github.com/windmill-labs/windmill)
 -
--
--
 
 
 ## JavaScript
 - https://medium.com/write-a-catalyst/7-awesome-javascript-automation-scripts-that-i-use-daily-e896542c1d69
 -
--
--
--
-
-
 
 
 

@@ -18,7 +18,6 @@
 - [css.gui](https://github.com/components-ai/css.gui)
 - https://colourcontrast.cc/?background=ffe66d&foreground=222222
 -
--
 - [Hyper UI](https://www.hyperui.dev/)
 - [Motion UI](https://zurb.com/playground/motion-ui)
 -
@@ -42,7 +41,6 @@
 -
 - [Glassmorphism CSS Generator](https://ui.glass/generator/)
 - https://hype4.academy/tools/glassmorphism-generator
--
 -
 - https://medium.com/design-bootcamp/7-new-css-features-you-dont-know-about-226dd2921cb4
 -
@@ -83,7 +81,7 @@
 - [KelpUI](https://kelpui.com/)
 -
 -
--
+
 
 
 ## CSS Games
@@ -97,17 +95,17 @@
 ## Animation (Tools)
 - [Ceasor](https://matthewlein.com/tools/ceaser)
 
+
 ## Animation
 - [Animate.css](https://animate.style/)
 - https://github.com/miniMAC/magic
 -
--
--
+
 
 ### Loader
 - [CSS Loader Generator](https://www.cssportal.com/css-loader-generator/)
 -
--
+
 
 ---
 - [Values and units](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Values_and_units)
@@ -129,9 +127,11 @@
 - [csssecrets](http://play.csssecrets.io/)
 - [uiverse Open-Source UI elements for any project](https://uiverse.io/)
   - [Loaders](https://uiverse.io/loaders)
-- []()
-- [ Layouten mit CSS](https://de.learnlayout.com/toc.html)
+- [Layouten mit CSS](https://de.learnlayout.com/toc.html)
 - [Superkube Design System](https://imperavi.com/superkube/)
+-
+-
+
 
 ---
 
@@ -140,13 +140,15 @@
 - [Houdini.how](https://houdini.how/)
 - [CSS Houdini Spellbook](https://houdini.glitch.me/)
 - https://levelup.gitconnected.com/there-is-an-api-in-css-called-houdini-and-its-crazy-769227445d12
+-
+-
+
 
 ---
 
 ## Properties
 - [CSS Triggers List – What Kind of Changes You Can Make](https://csstriggers.com/)
 - [Custom Selectors](https://tabatkins.github.io/specs/css-aliases/#custom-selectors)
-- []()
 - [animation-timeline](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timeline)
 - [contain](https://developer.mozilla.org/en-US/docs/Web/CSS/contain)
 - [margin-block-start](https://developer.mozilla.org/en-US/docs/Web/CSS/margin-block-start)
@@ -154,10 +156,9 @@
 - [scroll-snap-align](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-align)
 - [@container](https://developer.mozilla.org/en-US/docs/Web/CSS/@container)
 - [CSS Paged Media Module Level 3](https://www.w3.org/TR/css-page-3/#margin-boxes)
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ---
 
@@ -171,42 +172,31 @@
 - [PostCSS PostCSS is a tool for transforming styles with JS plugins](https://github.com/postcss/postcss)
 - [SassMeister.com](https://www.sassmeister.com/)
 - [css3please](https://css3please.com/)]
-- []()
 - [range.css CSS Style Generator for Range Inputs](http://danielstern.ca/range.css/#/)
-- []()
 - [CSS Critic A lightweight framework for regression testing of Cascading Style Sheets](http://cburgmer.github.io/csscritic/)
-- []()
 - [Lightning CSS An extremely fast CSS parser, transformer, and minifier written in Rust](https://github.com/parcel-bundler/lightningcss)
-- []()
 - [CSS Stripes Generator](https://stripesgenerator.com/)
 - [CSS Accordion Slider Generator](https://accordionslider.com/)
 - [CSS Pattern Generator](http://www.patternify.com/)
-- []()
 - [Neumorphism.io Generate Soft-UI CSS code](https://neumorphism.io/#e0e0e0)
 - [Glassmorphism generator](https://hype4.academy/tools/glassmorphism-generator)
-
+-
 - [Online CSS Menu Generator](http://www.menucool.com/css-menu)
-- [ CSS Grid Generator ](https://cssgrid-generator.netlify.app/)
-- [ CSS Scan 3.0](https://getcssscan.com/)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [CSS Scan 3.0](https://getcssscan.com/)
 - [CSS Gradient](https://cssgradient.io/)
 - [smooth shadow](https://shadows.brumm.af/)
 - [PurgeCSS is a tool to remove unused CSS from your project](https://github.com/FullHuman/purgecss)
-- []()
 - [animista Animation library](https://animista.net/)
-- []()
 - [color-hunt-logo Color Hunt](https://colorhunt.co/)
-- []()
 - [css3buttongenerator.com](https://css3buttongenerator.com/)
-- [ CSS Generator Tool](https://cssgenerator.org/)
-- []()
+- [CSS Generator Tool](https://cssgenerator.org/)
 - [Typescale](https://typescale.com/)
 - [css art](https://css-art.angelika.me/triangles2/)
 - [UnCSS is a tool that removes unused CSS from your stylesheets](https://github.com/uncss/uncss)
 - [Autoprefixer PostCSS plugin to parse CSS and add vendor prefixes to CSS](https://github.com/postcss/autoprefixer)
-- []()
 - [Materialette - A material design color palette ](https://github.com/mike-schultz/materialette)
-- []()
-- [Tachyons ](https://tachyons.io/)
+- [Tachyons](https://tachyons.io/)
   - [Tachyons Functional css for humans ](https://github.com/tachyons-css/tachyons)
 - [SpinKit Simple loading spinners animated with CSS](https://github.com/tobiasahlin/SpinKit)
   - [SpinKit](https://tobiasahlin.com/spinkit/)
@@ -214,60 +204,50 @@
 - [CSSgram CSSGram is an Instagram filter library written in Sass and CSS.](https://github.com/una/CSSgram)
 - [PostCSS A tool for transforming CSS with JavaScript](https://postcss.org/)
 - [fp-units An FP-oriented library to easily convert CSS units](https://github.com/anthonydugois/fp-units)
-- []()
-- [Fluid Type ](https://trentwalton.com/2012/06/19/fluid-type/)
-- []()
+- [Fluid Type](https://trentwalton.com/2012/06/19/fluid-type/)
 - [http://getskeleton.com/](http://getskeleton.com/)
-- [ Generative Placeholders ](https://generative-placeholders.glitch.me/)
+- [Generative Placeholders](https://generative-placeholders.glitch.me/)
 - [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
-- []()
 - [ contrast-ratio](https://github.com/siege-media/contrast-ratio)
-- []()
 - [Animate.css Just-add-water CSS animations](https://animate.style/)
 - [cssnano](https://cssnano.co/)
 - [flexbox playground and code generator](https://the-echoplex.net/flexyboxes/)
-- []()
 - [http://jeet.gs/](http://jeet.gs/)
 - [YAML 4 CSS Framework](http://www.yaml.de/)
-- []()
 - [Minify is an HTTP server for JS and CSS assets](https://github.com/mrclay/minify)
 - [58 bytes of CSS to look great nearly everywhere](https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41)
-- []()
 - [CSS Layout Generator](https://layout.bradwoods.io/)
 - [Open Source CSS Variables](https://open-props.style/)
 - [UnusedCSS - Remove Unused CSS](https://unused-css.com/)
 - [Layoutit!](https://www.layoutit.com/)
-- []()
 - [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
-- []()
 - [Keyframe Animation CSS Generator](https://webcode.tools/css-generator/keyframe-animation)
-- []()
 - [CSS Hover Effects](https://www.proglobalbusinesssolutions.com/css-hover-effects/)
-- []()
 - [Linaria Zero-Runtime CSS in JS](https://linaria.dev/)
-- []()
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [https://gradient.style](https://gradient.style)
 - [https://gra.dient.art/](https://gra.dient.art/)
-- []()
 - [http://css3pie.com/](http://css3pie.com/)
 - [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/)
-- []()
 - [Clippy](https://bennettfeely.com/clippy/)
 - [Magic Effects](https://www.minimamente.com/project/magic/)
 - [Pure.css A set of small, responsive CSS modules](https://purecss.io/)
 - [extractCSS](http://extractcss.com/)
 - [Panda Universal, Type-Safe, CSS-in-JS Framework](https://github.com/chakra-ui/panda)
+-
+-
+-
+
 
 ## Color palettes
 - [https://coolors.co/](https://coolors.co/)
 - [24 Color Palette Tools for Web Designers and Developers]()
 - [Colorhunt pastel](https://colorhunt.co/palettes/pastel)
-- []()
 - [http://css3pie.com/](http://css3pie.com/)
 - [Color Palette Generator](https://colors.muz.li/)
-- []()
-- []()
+-
+-
+
 
 ---
 
@@ -279,22 +259,23 @@
 - [CSS-Selektoren, aber so richtig: Die 10 besten Selektoren um den Quellcode aufzuräumen](https://t3n.de/news/css-selektoren-richtig-10-694249/)
 - [CSS/Eigenschaften/Positionierung/position/wiki/CSS/Eigenschaften/Positionierung/position](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Positionierung/position#position:_static)
 - [Browser-Präfix: CSS-Stile frühzeitig nutzen](https://www.mediaevent.de/css/browser-praefix.html)
-- [ CSS Container Queries mit @container ](https://kulturbanause.de/blog/css-container-queries-mit-container/)
-- [ CSS-Sprites online erstellen – Spritepad ](https://kulturbanause.de/blog/css-sprites-online-erstellen-spritepad/)
+- [CSS Container Queries mit @container](https://kulturbanause.de/blog/css-container-queries-mit-container/)
+- [CSS-Sprites online erstellen – Spritepad](https://kulturbanause.de/blog/css-sprites-online-erstellen-spritepad/)
 - [So optimieren Sie Critical CSS, um Ihre Webseite schneller zu machen](https://www.ezoic.com/de-lang/so-optimieren-sie-critical-css-um-ihre-webseite-schneller-zu-machen/)
 - [404-Fehler](https://www.hosteurope.de/blog/wie-sie-mit-einer-kreativen-404-fehlerseite-und-lustigen-inhalten-punkten/)
 - [„One Page Scroll“ – Apples Webdesign für jedermann ](https://t3n.de/news/page-scroll-apples-webdesign-499981/)
-- []()
+-
+-
 
 
 ## Articles
 - [A Visual Guide to CSS3 Flexbox Properties](https://www.digitalocean.com/community/tutorials/a-visual-guide-to-css3-flexbox-properties)
 - [Manipulating SVG Icons With Simple CSS](https://webdesign.tutsplus.com/manipulating-svg-icons-with-simple-css--webdesign-15694a)
-- [ 12.4 Raus aus dem Fluss: position: absolute](https://little-boxes.de/lb1/12.4-raus-aus-dem-fluss-position-absolute.html)
+- [12.4 Raus aus dem Fluss: position: absolute](https://little-boxes.de/lb1/12.4-raus-aus-dem-fluss-position-absolute.html)
 - [Using CSS counters](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_counter_styles/Using_CSS_counters)
 
 - [How to create a <style> tag with Javascript?](https://stackoverflow.com/questions/524696/how-to-create-a-style-tag-with-javascript/524798#524798)
-- [ Fixed Header Footer Table ](http://s7u.blogspot.com/2010/08/fixed-header-footer-table.html)
+- [Fixed Header Footer Table](http://s7u.blogspot.com/2010/08/fixed-header-footer-table.html)
 - [Styling And Animating SVGs With CSS](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
 - [How to dynamically create CSS class in JavaScript and apply?](https://stackoverflow.com/questions/1720320/how-to-dynamically-create-css-class-in-javascript-and-apply)
 - [CSS: Absolutely positioning things relatively](https://www.canva.dev/blog/engineering/css-absolutely-positioning-things-relatively/)
@@ -317,9 +298,7 @@
 - [ProximityEffect demos](https://adasha.com/lab/components/proximity-effect/index.html)
 - [How to quickly prototype apps with CSS Grid and CSS Variables](https://www.freecodecamp.org/news/how-to-quickly-prototype-apps-with-css-grid-and-css-variables-8d3d96d68eaa)
 - [Easier scrollytelling with position sticky](https://pudding.cool/process/scrollytelling-sticky/)
-- []()
 - [Animating List Items](https://cssanimation.rocks/list-items/)
-- []()
 - [Build Truly Dynamic Theme with CSS Variables](https://medium.com/angular-in-depth/build-truly-dynamic-theme-with-css-variables-539516e95837)
 - [Fantastic CSS border animation](https://programming.earthonline.us/fantastic-css-border-animation-b02e06828beb)
 - [7 Practical CSS Tips](https://javascript.plainenglish.io/7-practical-css-tips-c6e4d77f4c40)
@@ -333,54 +312,45 @@
 - [CSS Inheritance: Using the Right Terms](https://betterprogramming.pub/css-inheritance-using-the-right-terms-532468b46a05)
 - [CSS masonry with flexbox, :nth-child(), and order](https://tobiasahlin.com/blog/masonry-with-css/)
 - [Utility-first CSS: Ridiculously fast front-end development for almost every design](https://medium.com/@sascha.wolff/utility-first-css-ridiculously-fast-front-end-development-for-almost-every-design-503130d8fefc)
-- [ Fading out siblings on hover in CSS ](https://www.trysmudford.com/blog/fade-out-siblings-css-trick/)
+- [Fading out siblings on hover in CSS](https://www.trysmudford.com/blog/fade-out-siblings-css-trick/)
 - [5 things to consider when creating your CSS style guide](https://blog.logrocket.com/5-things-to-consider-when-creating-your-css-style-guide-7b85fa70039d/)
 - [Common CSS Issues For Front-End Projects](https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/)
 - [Checking if an input is empty with CSS](https://zellwk.com/blog/check-empty-input-css/)
 - [Keeping aspect-ratio with HTML and no padding tricks](https://codeburst.io/keeping-aspect-ratio-with-html-and-no-padding-tricks-40705656808b)
-- []()
 - [Physics-Based Background Scroll Effects](https://codersblock.com/blog/physics-based-background-scroll-effects/)
 - [Creating horizontal scrolling containers the right way [CSS Grid]](https://uxdesign.cc/creating-horizontal-scrolling-containers-the-right-way-css-grid-c256f64fc585)
 - [How to Create and Animate Rotated Overlays](https://tympanus.net/codrops/2019/04/18/how-to-create-and-animate-rotated-overlays/)
 - [8 useful CSS tricks: Parallax images, sticky footers and more](https://bretcameron.medium.com/parallax-images-sticky-footers-and-more-8-useful-css-tricks-eef12418f676)
 - [22 CSS Tricks That Can Make You a Layout Ninja](https://betterprogramming.pub/22-css-tricks-that-can-make-you-a-layout-ninja-452847fba639)
-- []()
 - [CSS Color: crimson](https://www.quackit.com/html/codes/color/color-tester.cfm?colorname=crimson)
 - [Bubble Sort...in PURE CSS? [No JS] ](https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1)
 - [New functions, gradients, and hues in CSS colors (Level 4)](https://developer.mozilla.org/en-US/blog/css-color-module-level-4/)
 - [Using CSS custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-- []()
 - [Miriam Eric Suzanne](https://www.miriamsuzanne.com/)
 - [Dark Mode in 3 Lines of CSS and Other Adventures ](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
 - [The broken promise of atomic CSS](https://medium.com/@hayavuk/the-broken-promise-of-atomic-css-4d3de5e25886)
-- []()
 - [Solving All CSS Layout Issues — any screen, any root font size, without JS](https://levelup.gitconnected.com/solving-all-css-layout-issues-any-screen-any-root-font-size-without-js-62349644a71e)
 - [Sliding Doors of CSS](https://alistapart.com/article/slidingdoors/)
 - [CSS Grid Level 2: Here Comes Subgrid](https://www.smashingmagazine.com/2018/07/css-grid-2/)
 - [Beer Slider Responsive & Accessible Before-After Slider](https://pepsized.com/beer-slider-responsive-accessible-before-after-slider/)
-- []()
 - [devinrolsen](http://devinrolsen.com/category/tutorials/css-tutorials/)
 - [Space Ninja](https://spaceninja.com/)
-- []()
-- []()
-- []()
+-
+-
+
 
 ### PRINT
 - [CSS Print Media Query](https://joshuawinn.com/css-print-media-query/)
 - [Designing For Print With CSS](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
-- []()
-- []()
-- []()
+-
+-
+
 
 ## Frameworks
 - [Susy CSS layout framework ](https://www.oddbird.net/susy/)
 - [Bulma: the modern CSS framework](https://bulma.io/)
-- []()
-- []()
-- []()
-- []()
-- []()
-
+-
+-
 
 
 ---
@@ -388,34 +358,29 @@
 ## CSS-Tricks
 - [CSS-Tricks](https://css-tricks.com/)
   - [Video-Screencasts](https://css-tricks.com/video-screencasts/)
-- []()
-- [ A Complete Guide to Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#basics-and-terminology)
-- []()
-- []()
-- [ Clipping and Masking in CSS ](https://css-tricks.com/clipping-masking-css/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#basics-and-terminology)
+- [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/)
 - [hanging-punctuation](https://css-tricks.com/almanac/properties/h/hanging-punctuation/)
 - [Tools for Auditing CSS](https://css-tricks.com/tools-for-auditing-css/)
 - [What Are Design Tokens?](https://css-tricks.com/what-are-design-tokens/)
 - [Should CSS Override Default Browser Styles? ](https://css-tricks.com/should-css-override-default-styles/)
 - [align-self](https://css-tricks.com/almanac/properties/a/align-self/)
-- [ Blurred Borders in CSS ](https://css-tricks.com/blurred-borders-in-css/)
-- [ New in Chrome: CSS Overview ](https://css-tricks.com/new-in-chrome-css-overview/)
+- [Blurred Borders in CSS](https://css-tricks.com/blurred-borders-in-css/)
+- [New in Chrome: CSS Overview](https://css-tricks.com/new-in-chrome-css-overview/)
 - [Almanac](https://css-tricks.com/almanac/)
 - [SVG Animation and CSS Transforms: A Complicated Love Story](https://css-tricks.com/svg-animation-on-css-transforms/)
-- [ Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/)
+- [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/)
 - [The Importance of Context-Shifting in UX Patterns](https://css-tricks.com/the-importance-of-context-shifting-in-ux-patterns/)
-- [ That Fluid Type Stuff Again](https://css-tricks.com/fluid-type-stuff/)
-- [ Browserslist is a Good Idea ](https://css-tricks.com/browserlist-good-idea/)
-- [ How CSS Perspective Works ](https://css-tricks.com/how-css-perspective-works/)
-- [ Animated Matryoshka Dolls in CSS ](https://css-tricks.com/animated-matryoshka-dolls-in-css/)
+- [That Fluid Type Stuff Again](https://css-tricks.com/fluid-type-stuff/)
+- [Browserslist is a Good Idea ](https://css-tricks.com/browserlist-good-idea/)
+- [How CSS Perspective Works ](https://css-tricks.com/how-css-perspective-works/)
+- [Animated Matryoshka Dolls in CSS](https://css-tricks.com/animated-matryoshka-dolls-in-css/)
 - [font-display](https://css-tricks.com/almanac/properties/f/font-display/)
-- [ Blurred Borders in CSS ](https://css-tricks.com/blurred-borders-in-css/)
-- [Responsive Designs and CSS Custom Properties: Defining Variables and Breakpoints ](https://css-tricks.com/responsive-designs-and-css-custom-properties-defining-variables-and-breakpoints/)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Blurred Borders in CSS](https://css-tricks.com/blurred-borders-in-css/)
+- [Responsive Designs and CSS Custom Properties: Defining Variables and Breakpoints](https://css-tricks.com/responsive-designs-and-css-custom-properties-defining-variables-and-breakpoints/)
+-
+-
+
 
 ---
 
@@ -425,7 +390,6 @@
 - [10 CSS3 Projects: UI and Layout (+5 bonus projects!)](https://codepen.io/collection/nJGWpg/)
 - [10 CSS3 Projects: Branding and Presentation](https://codepen.io/collection/nYyVqV/)
 - [10CSS3Projects](https://codepen.io/collection/AdGqKx)
-- []()
 - [A bunch of funky CSS3 Toggle Buttons](https://codepen.io/ashleynolan/pen/wBppKz)
 - [Changing color of an icon (with alpha)](https://codepen.io/salixdubois/pen/LYNgJbM)
 - [Leaky Preloader](https://codepen.io/Vichhay0046/pen/vYreOyM)
@@ -451,7 +415,6 @@
 - [CSS Grid Layout + Mondrian = <3](https://codepen.io/ToasterCo/pen/VpzMxL)
 - [Rough.js + Font Awesome](https://codepen.io/milesmanners/pen/RMVGbd)
 - [SVG edges](https://codepen.io/miriamsuzanne/pen/oRBWjW)
-
 - [DebuCSSer](https://codepen.io/lucagez/pen/LMEerQ)
 - [Eyeballs w/ Zdog](https://codepen.io/nealagarwal/pen/yWmpPg)
 - [Verly Range Slider](https://codepen.io/anuraghazra/pen/agKJEd)
@@ -493,7 +456,7 @@
 - [GLSL: Primordial Soup](https://codepen.io/shubniggurath/pen/NXGbBo/)
 - [Nucleus](https://codepen.io/gmoyer/pen/dJoqzP)
 - [Border transformations](https://codepen.io/yuanchuan/pen/zpvQvV)
-- [ Eclipse Inspired Pens ](https://blog.codepen.io/2017/08/18/eclipse-inspired-pens/)
+- [Eclipse Inspired Pens](https://blog.codepen.io/2017/08/18/eclipse-inspired-pens/)
 - [Only CSS: Music Conductor](https://codepen.io/YusukeNakaya/pen/brWopM)
 - [Advanced image alignments with CSS Grid: Full Bleed and beyond](https://codepen.io/mor10/pen/baYLEB)
 - [How do I get a custom colored underline that will span multiple lines?](https://codepen.io/Wking/pen/BdmpVx)
@@ -704,15 +667,16 @@
 - [Well Formed Table Demo](https://codepen.io/jason-knight/pen/wvXZrKP)
 - [CSS-only Calendar App Concept](https://codepen.io/davidkpiano/pen/wBGjMr)
 - [Sheets API Specials Menu](https://codepen.io/quinlo/pen/eQrRMM)
-- []()
-- []()
-- []()
+-
+-
 
 ### Audio
 - [Webcam Air Guitar](https://codepen.io/kevinnewcombe/pen/QRZdYP)
 - [Drum Sequencer](https://codepen.io/stefcharle/pen/BJJmZJ)
 - [Threejs and Web Audio Api](https://codepen.io/EllenProbst/pen/RQQmJK)
-- []()
+-
+-
+
 
 ### Navigation
 - [Pacman pagination](https://codepen.io/ainalem/pen/YOraaR/)
@@ -721,11 +685,9 @@
 - [Emerging dropdown](https://codepen.io/ainalem/pen/YdOwYV)
 - [Slidey radios (swappy radios remix)](https://codepen.io/liamj/pen/pqLWzw)
 - [Slice list items](https://codepen.io/aaroniker/pen/WKbzgx)
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ### Canvas
 - [Hypnos](https://codepen.io/hakimel/pen/AGJpZd)
@@ -736,8 +698,8 @@
 - [Spaghetti Audio](https://codepen.io/woodwoerk/pen/pKrqLX/)
 - [drawing spirograph](https://codepen.io/mladen___/pen/BPNvvW)
 - [Worms](https://codepen.io/jlong/pen/pKENpM)
-- []()
-- []()
+-
+-
 
 ### SVG
 - [Morphing SVG Slider - 20th Century Women ](https://codepen.io/nolakat/pen/mWNvdb)
@@ -763,8 +725,9 @@
 - [Playing with SVG displacement filter](https://codepen.io/chooblarin/pen/xzGqrL)
 - [svg displacement filter — week 20/52](https://codepen.io/knyttneve/pen/KLgNgV)
 - [Gradient toggles](https://codepen.io/ainalem/pen/arRbWv)
-- []()
-- []()
+-
+-
+
 
 ### 3D
 - [GLSL: Cube Environment Reflections](https://codepen.io/shubniggurath/pen/MRZvqP)
@@ -789,30 +752,25 @@
 - [Linear Lemniscate](https://codepen.io/Mamboleoo/pen/aPjNEq)
 - [GLSL: Tri Noise Soup](https://codepen.io/shubniggurath/pen/gvvVvY)
 - [Psychedelic waves](https://codepen.io/Yakudoo/pen/rJjOJx)
-- []()
-- []()
-- []()
+-
+-
+-
+
 
 ### Tools
-- [ Irregular Shape Creator](https://codepen.io/afranceschetti/pen/pRmbKY)
+- [Irregular Shape Creator](https://codepen.io/afranceschetti/pen/pRmbKY)
 - [Sass Color Contrast Tools](https://codepen.io/giana/project/full/ZWbGzD)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ### Projects
 - [400 Followers! a.k.a. Gravity of Love (click!)](https://codepen.io/DonKarlssonSan/project/editor/XqynyX)
 - [Rays and Particles (move the mouse!)](https://codepen.io/DonKarlssonSan/project/editor/XYvQYA)
 - [Simple Bodymovin Demo](https://codepen.io/airnan/project/editor/ZeNONO)
 - [Voicebox (spoken Flexbox)](https://codepen.io/antibland/project/full/XGgWqp/)
-- []()
-- []()
-- []()
-- []()
+-
+-
 
 
 ### Collections
@@ -831,12 +789,8 @@
 - [Coalesce](https://codepen.io/collection/XEEaEa/)
 - [WebGL Wonderland](https://codepen.io/collection/APjjyy/)
 - [Truchet](https://codepen.io/collection/AVpZRW/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
 
 ### Posts
 - [D3 Table with Template Literals](https://codepen.io/pj_/post/d3-table-with-template-literals)
@@ -873,11 +827,9 @@
 - [Slanted CSS for a more intriguing looking page](https://codepen.io/cssgrid/post/slanted-css-3-methods-for-a-more-interesting-look)
 - [All-CSS Switch from #OrlandoCodePen](https://codepen.io/mburnette/post/all-css-switch-from-orlandocodepen)
 - [Cartoonifying and animating a still photograph](https://codepen.io/alvaromontoro/post/cartoonify-and-animate-a-photo)
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ### Persons
 - [Liam Egan](https://codepen.io/shubniggurath/)
@@ -888,10 +840,9 @@
 - [Michael Mangialardi](https://codepen.io/mikemang/project/full/AwKqGo/)
 - [Blake Bowen](https://codepen.io/osublake/#)
 - [Kirupa Chinnathambi](https://codepen.io/kirupa/pens/public/?grid_type=list#)
-- []()
-- []()
-- []()
-- []()
+-
+-
+
 
 ---
 
@@ -899,12 +850,10 @@
 - [Balloon.css Simple tooltips made of pure CSS](https://github.com/kazzkiq/balloon.css)
 - [StyleStats is a library to collect CSS statistics. ](https://github.com/t32k/stylestats)
 - [Emotion is a performant and flexible CSS-in-JS library](https://github.com/emotion-js/emotion)
-
 - [flexbugs A community-curated list of flexbox issues and cross-browser workarounds for them. ](https://github.com/philipwalton/flexbugs)
+-
+-
+-
 
-- []()
-- []()
-- []()
-- []()
-- []()
+
 

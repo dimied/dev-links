@@ -7,11 +7,9 @@
 ## Colors
 - https://www.rapidtables.com/web/color/RGB_Color.html
 -
--
 
 ## Animation
 - https://www.freshdesignweb.com/examples-html5-animation.html
--
 -
 
 

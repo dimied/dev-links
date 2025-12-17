@@ -19,9 +19,9 @@
 -
 -
 
+
 ## Programming
 - [Linux-Kernel-Programming](https://github.com/PacktPublishing/Linux-Kernel-Programming)
--
 -
 
 
@@ -68,13 +68,12 @@
 ## Games
 - [Linux Games](https://github.com/Ashpex/Linux_Games)
 -
--
 
 
 ## X Windows
 - [Xephyr](https://wiki.ubuntuusers.de/Xephyr/)
 -
--
+
 
 ---
 
@@ -115,7 +114,6 @@
 - https://www.hanselman.com/blog/vm-performance-checklist-before-you-complain-that-your-virtual-machine-is-slow
 - https://www.faqforge.com/linux/controlpanels/ispconfig3/how-to-disable-spamfilter-and-antivirus-functions-in-ispconfig-3/
 -
--
 
 
 ## FTP
@@ -133,13 +131,13 @@
 - https://www.cyberciti.biz/faq/unix-linux-password-cracking-john-the-ripper/
 - https://www.cyberciti.biz/tips/linux-iptables-examples.html
 -
--
--
+
 
 ## VPN
 - https://wiki.ubuntuusers.de/OpenVPN/
 - https://www.cyberciti.biz/tips/howto-configure-ubuntu-fedora-linux-pptp-client.html
 -
+
 
 ## SSH
 - [Parallel SSH](https://parallel-ssh.org/)
@@ -148,6 +146,7 @@
 - https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html
 - https://www.makeuseof.com/tag/dedicated-virtual-server-internet-proxy-ssh-tunneling/
 -
+
 
 ## Bash
 - https://explainshell.com/
@@ -187,18 +186,17 @@
 - [How to set up your very own local APT repository in Ubuntu](https://medium.com/@edinson.padron.urdaneta/how-to-set-up-your-very-own-local-apt-repository-in-ubuntu-dfb509e5b2df)
 - [How to Setup a Local or Private Ubuntu Mirror](https://louwrentius.com/how-to-setup-a-local-or-private-ubuntu-mirror.html)
 -
--
+
 
 ## Drivers
 - https://appusajeev.wordpress.com/2011/06/18/writing-a-linux-character-device-driver/
 - https://lwn.net/Kernel/LDD3/
 -
--
+
 
 ## Development
 - https://askubuntu.com/questions/724449/view-size-of-cpu-cache-through-the-command-line
 - https://stackoverflow.com/questions/8305866/how-do-i-analyze-a-programs-core-dump-file-with-gdb-when-it-has-command-line-pa
--
 -
 
 

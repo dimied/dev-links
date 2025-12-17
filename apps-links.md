@@ -13,7 +13,6 @@
 -
 - [Vivaldi](https://vivaldi.com/de/)
 -
--
 
 ---
 
@@ -157,8 +156,7 @@
 -
 - [Greenshot](https://getgreenshot.org/)
 -
--
--
+
 
 
 ## TUI
@@ -176,24 +174,20 @@
 - https://alex-d.fr/
 - [linkding](https://github.com/sissbruecker/linkding)
 -
--
 
 
 ## Mind mapping
 - [Mindmeister](https://www.mindmeister.com/de)
--
 -
 
 
 ## Backups
 - [restic](https://restic.net/)
 -
--
 
 
 ## CMS
 - [strapi](https://github.com/strapi/strapi)
--
 -
 
 
@@ -206,7 +200,6 @@
 ## Feedback
 - [fider](https://github.com/getfider/fider)
 -
--
 
 
 ## Development
@@ -218,12 +211,10 @@
 ## Personal
 - [ActivityWatch](https://github.com/ActivityWatch/activitywatch)
 -
--
 
 
 ## Learning
 - [Growflow](https://www.growflow.app/)
--
 -
 
 
@@ -236,14 +227,12 @@
 - [notesnook](https://github.com/streetwriters/notesnook)
 - [Trilium](https://github.com/TriliumNext/Trilium)
 -
--
--
 
 
 ## Screen sharing
 - [Cap](https://github.com/CapSoftware/Cap)
 -
--
+
 
 ## Link sharing
 - [Goto](https://www.goto.tools/)
@@ -255,8 +244,7 @@
 - [Mixxx](https://mixxx.org/)
 - [muted.io](https://muted.io/)
 -
--
--
+
 
 ### Audio (Articles)
 - [Getting Started With GNU Radio](https://hackaday.com/2015/11/11/getting-started-with-gnu-radio/)
@@ -265,14 +253,13 @@
 ## Video
 - [Kdenlive](https://kdenlive.org/de/)
 -
--
 
 ---
 
 ## Planing
 - [Whimsical](https://whimsical.com/)
 -
--
+
 
 ## Web
 - [Fire.app](https://fireapp.kkbox.com/)
@@ -280,7 +267,6 @@
 
 ## Inventory management
 - [openboxes](https://github.com/openboxes/openboxes)
--
 -
 
 
@@ -290,21 +276,18 @@
 ## Computer vision
 - https://sourceforge.net/software/computer-vision/
 -
--
 
 
 ## Self-hosting
 - [Kolab](https://de.wikipedia.org/wiki/Kolab)
 - [Picsur](https://picsur.org/upload)
 -
--
 
 
 ## Dev extensions
 - [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
 -
--
--
+
 
 ## Addons, Extensions
 - https://chromewebstore.google.com/detail/lighthouse/
@@ -342,31 +325,9 @@
 ## Articles
 - https://www.techdrivein.com/2012/09/5-best-opensource-social-networking-software.html
 -
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+
+
+
+
+
 

@@ -6,7 +6,6 @@
 - [Oodle](https://www.radgametools.com/oodle.htm)
 - [ZPAQ](https://en.wikipedia.org/wiki/ZPAQ)
 -
--
 
 
 ## Libraries
@@ -15,8 +14,6 @@
 - [Squash](https://quixdb.github.io/squash/)
 - [UPX](https://upx.github.io/)
 -
--
-
 
 
 

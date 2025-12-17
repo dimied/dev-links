@@ -1,6 +1,5 @@
 # Analytics
 
--
 - [Aptabase](https://github.com/aptabase/aptabase)
 - [Fathom](https://github.com/usefathom/fathom)
 - [Matomo](https://matomo.org/matomo-on-premise/)
@@ -14,15 +13,12 @@
 -
 - [Formbricks](https://github.com/formbricks/formbricks)
 -
--
-
 
 ## Paid
 - [Ghost](https://ghost.org/)
 - [Statcounter](https://statcounter.com/)
 -
--
--
+
 
 
 

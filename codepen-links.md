@@ -1,5 +1,7 @@
-
 ## Codepen.io
+
+
+- https://davidwalsh.name/codepen-animations
 - https://blog.codepen.io/2017/03/17/best-music-pens-codepen/
 - https://codepen.io/pouretrebelle/post/hexagons
 - https://codepen.io/rachsmith/post/how-to-code-fireworks-with-es2015-javascript-and-pixi-js
@@ -29,4 +31,12 @@
 -
 -
 -
+
+## Codepen (SVG)
+- https://codepen.io/yoksel/pen/MLVjoB
+- https://codepen.io/collection/XvBQJQ/#
+-
+-
+
+
 

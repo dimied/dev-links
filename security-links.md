@@ -1,11 +1,9 @@
 # Security
 
 
-
 ## Terminology
 - [Differential Privacy](https://de.wikipedia.org/wiki/Differential_Privacy)
 - [Security Technical Implementation Guide (STIG)](https://en.wikipedia.org/wiki/Security_Technical_Implementation_Guide)
--
 -
 
 
@@ -14,7 +12,6 @@
 - [Web Application Firewall (WAF)](https://de.wikipedia.org/wiki/Web_Application_Firewall)
 - [HTTP Strict Transport Security](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security)
 - [Session Fixation](https://de.wikipedia.org/wiki/Session_Fixation)
--
 -
 
 
@@ -58,7 +55,6 @@
 - [GIAC](https://www.giac.org/)
 - [SANS](https://www.sans.org/emea)
 -
--
 
 
 ---
@@ -66,7 +62,6 @@
 ## Books
 - [Practical IoT Hacking](https://nostarch.com/practical-iot-hacking)
 - [Schneier on Security](https://www.schneier.com/books/schneier-on-security/)
--
 -
 
 
@@ -82,11 +77,10 @@
 - [GOAD](https://github.com/Orange-Cyberdefense/GOAD)
 - [vulnhub](https://www.vulnhub.com/)
 -
--
+
 
 ## Community
 - [Virustotal](https://www.virustotal.com/gui/home/upload)
--
 -
 
 
@@ -112,7 +106,6 @@
 - [BlackArch](https://blackarch.org/)
 - Kali
 -
--
 
 
 ## rootkits
@@ -124,15 +117,11 @@
 ## Anti-Virus
 - [ClamAV](https://www.clamav.net/)
 -
--
-
 
 ---
 
 ## Kali
 - [Nethunter](https://www.kali.org/docs/nethunter/)
--
--
 -
 
 
@@ -146,10 +135,6 @@
 - [qTOX](https://qtox.github.io/)
 - [SparkleShare](https://www.sparkleshare.org/)
 -
--
--
-
-
 
 
 ## Secrets
@@ -164,7 +149,6 @@
 ### Steganography
 - [OpenPuff](https://en.wikipedia.org/wiki/OpenPuff)
 -
--
 
 
 ## Encryption
@@ -176,12 +160,10 @@
 ### Articles (Encryption)
 - [How to Set Up Virtual Disk Encryption on GNU/Linux that Unlocks at Boot](https://leewc.com/articles/how-to-set-up-virtual-disk-encryption-linux/)
 -
--
 
 
 ## Auth
 - [Authentic](https://goauthentik.io/)
--
 -
 
 
@@ -190,13 +172,10 @@
 - [Leonidas](https://github.com/ReversecLabs/leonidas)
 - [Cloudmersive](https://cloudmersive.com/)
 -
--
--
 
 
 ## CI/CD
 - [Raven](https://github.com/CycodeLabs/raven)
--
 -
 
 
@@ -206,19 +185,16 @@
 - [Hyphanet](https://www.hyphanet.org/index.html)
 - [Tox](https://github.com/TokTok/c-toxcore)
 -
--
 
 
 ## Database testing
 - [sqlmap](https://sqlmap.org/)
--
 -
 
 
 ## Firewalls
 - [pfsense](https://www.pfsense.org/)
 - [Wafris](https://github.com/wafris)
--
 -
 
 
@@ -243,14 +219,12 @@
 - [Padlock](https://itsfoss.com/padloc/)
 - [Ezcrypt](https://codeberg.org/ezcrypt/ezcrypt)
 -
--
 
 
 ## Libraries
 - [cyberbro](https://github.com/stanfrbd/cyberbro)
 - [Tink](https://github.com/tink-crypto/tink)
 - [tpotce](https://github.com/telekom-security/tpotce)
--
 -
 
 
@@ -266,7 +240,6 @@
 - [Free Website Safety & Security Checker](https://www.ssltrust.com.au/ssl-tools/website-security-check)
 - [Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
 - [Port Scanner Tool](https://www.whatismyip.com/port-scanner/)
--
 -
 
 
@@ -289,12 +262,10 @@
 - [fprobe](https://manpages.ubuntu.com/manpages/jammy/man8/fprobe.8.html)
 - [Malcolm](https://malcolm.fyi/)
 -
--
 
 
 ## Tools (Paid)
 - [Nessus](https://www.tenable.com/products/nessus)
--
 -
 
 
@@ -303,18 +274,15 @@
 - [Reaper](https://github.com/ghostsecurity/reaper)
 -
 -
--
 
 
 ## WiFi
 - [Aircrack-ng](https://www.aircrack-ng.org/)
 -
--
 
 
 ## Development
 - [The Update Framework](https://theupdateframework.io/)
--
 -
 
 
@@ -339,9 +307,6 @@
 - [OpenVAS](https://www.openvas.org/)
 - [ZAP](https://www.zaproxy.org/)
 -
--
--
--
 
 
 ## Articles
@@ -358,7 +323,6 @@
 
 ## Articles (GERMAN)
 - https://www.heise.de/hintergrund/Die-Kruecke-fuer-Passwoerter-und-wie-sie-ausgenutzt-wird-4970547.html
--
 -
 
 
@@ -383,12 +347,6 @@
 - https://arstechnica.com/information-technology/2013/08/gone-in-30-seconds-new-attack-plucks-secrets-from-https-protected-pages/ 
 -
 -
-
-
-
-
-
-
 
 
 

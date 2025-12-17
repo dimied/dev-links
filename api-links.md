@@ -10,16 +10,17 @@
 - [Mulesoft](https://www.mulesoft.com/api/management)
 - [rapidapi](https://rapidapi.com/)
 - [traefik.io](https://traefik.io/)
+-
+-
 
 
 ## Maps
 - [maplarge](https://maplarge.com/)
 - [OpenGeoDB](http://opengeodb.org/wiki/OpenGeoDB_Downloads)
 -
--
+
 
 ---
-
 
 ## APIs (Free,Open)
 - [Free Dictionary API](https://dictionaryapi.dev/)
@@ -32,12 +33,11 @@
 - [APIParrot](https://apiparrot.com/)
 - [beeceptor](https://beeceptor.com/)
 -
--
+
 
 ## APIs
-
-- https://publicapis.dev/
-- https://github.com/public-apis/public-apis
+- [publicapis](https://publicapis.dev/)
+- [public-apis](https://github.com/public-apis/public-apis)
 - https://developer.xentral.com/reference/intro
 -
 - [APIARY](https://apiary.io/)
@@ -59,30 +59,12 @@
 - [Waifu API](https://github.com/Waifu-im/waifu-api)
 - [World News API](https://worldnewsapi.com/)
 - [Zyte](https://www.zyte.com/)
+-
+-
 
 
 ## Mail APIs
 - [nylas](https://www.nylas.com/)
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
 -
 
 

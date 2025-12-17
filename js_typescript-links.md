@@ -1,4 +1,16 @@
 ## TypeScript
+
+- https://valibot.dev/
+
+### Libraries (TypeScript)
+- https://github.com/gcanti/io-ts
+- https://github.com/bigslycat/typed-contracts
+- [up-fetch](https://github.com/L-Blondy/up-fetch)
+- [zod](https://github.com/colinhacks/zod)
+-
+
+
+### Articles (TypeScript)
 - https://www.typescriptlang.org/docs/handbook/2/types-from-types.html
 - https://auth0.com/blog/typescript-3-exploring-tuples-the-unknown-type/
 - https://mariusschulz.com/blog/the-omit-helper-type-in-typescript
@@ -13,14 +25,9 @@
 - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces
 - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#union-types
 - https://medium.com/better-programming/the-ultimate-clean-architecture-template-for-typescript-projects-e53936269bb9
-- https://github.com/bigslycat/typed-contracts
-- https://github.com/gcanti/io-ts
 - https://medium.com/@martin_hotell/interface-vs-type-alias-in-typescript-2-7-2a8f1777af4c
 - https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680
 - https://www.typescriptlang.org/docs/handbook/modules/theory.html#module-resolution
 - https://medium.com/@reidev275/typesafe-monadic-parsing-with-mapped-types-in-typescript-a3ef9efbd9f2
-- [up-fetch](https://github.com/L-Blondy/up-fetch)
-- [zod](https://github.com/colinhacks/zod)
-- https://valibot.dev/
 -
 

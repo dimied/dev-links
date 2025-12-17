@@ -5,7 +5,6 @@
 - [netdata](https://www.netdata.cloud/)
 -
 -
--
 
 
 ## Linux
@@ -23,11 +22,6 @@
 
 ## MS
 - https://learn.microsoft.com/de-de/archive/blogs/mssmallbiz/largest-collection-of-free-microsoft-ebooks-ever-including-windows-8-1-windows-8-windows-7-office-2013-office-365-office-2010-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2
--
--
--
--
--
 -
 -
 -

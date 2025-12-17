@@ -4,15 +4,15 @@
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
 - [awesome-backend](https://github.com/zhashkevych/awesome-backend)
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
-- [node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture)
-- [eventmodeling.org](https://eventmodeling.org/)
-- [Structure101](https://www.sonarsource.com/structure101/)
-- [SAFe Scaled Agile Framework](https://framework.scaledagile.com/#big-picture)
 - [Destroyallsoftware](https://www.destroyallsoftware.com/screencasts)
   - https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell
+- [eventmodeling.org](https://eventmodeling.org/)
 - [microservices.io](https://microservices.io/index.html)
-- [eventuate.io](https://eventuate.io/)
+- [node.js-clean-architecture](https://github.com/panagiop/node.js-clean-architecture)
+- [SAFe Scaled Agile Framework](https://framework.scaledagile.com/#big-picture)
+- [Structure101](https://www.sonarsource.com/structure101/)
 - [Istio.io](https://istio.io/)
+- [eventuate.io](https://eventuate.io/)
 - [Parse Platform](https://parseplatform.org/)
 -
 - [OSGi](https://de.wikipedia.org/wiki/OSGi)
@@ -28,18 +28,15 @@
 - [LeSS](https://less.works/)
 - [Scrum Guides](https://scrumguides.org/)
 -
--
 
 
 ## Books
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 -
--
 
 
 ## Coding style
 - [Tiger style](https://tigerstyle.dev/)
--
 -
 
 
@@ -51,28 +48,22 @@
 - [CMDBuild](https://www.cmdbuild.org/en)
 - [Ralph](https://github.com/allegro/ralph/)
 -
--
 
 
 ## ITSM
 - [GLPI](https://github.com/glpi-project/glpi)
 - [Snipe-it](https://github.com/grokability/snipe-it)
 -
--
--
--
+
 
 ## Data oriented design
 - [Data-Oriented Design (Wikipedia)](https://en.wikipedia.org/wiki/Data-oriented_design)
 - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/)
 -
--
--
 
 
 ## Data models
 - [TypeSchema](https://typeschema.org/)
--
 -
 
 
@@ -84,8 +75,7 @@
 - [Terrastruct](https://terrastruct.com/)
 - [Structurizr](- https://structurizr.com/)
 -
--
--
+
 
 ## Microservices
 - [Grokking Microservices Design Patterns](https://www.designgurus.io/course/grokking-microservices-design-patterns)
@@ -94,12 +84,10 @@
 - [14 Microservice Best Practices: The 80/20 Way](https://www.simform.com/blog/microservice-best-practices/)
 - [The hardest part of microservices: your data](https://de.slideshare.net/slideshow/the-hardest-part-of-microservices-your-data/71566821)
 -
--
 
 
 ## Mobile
 - https://www.freecodecamp.org/news/a-deeply-detailed-but-never-definitive-guide-to-mobile-development-architecture-6b01ce3b1528
--
 -
 
 
@@ -117,7 +105,6 @@
 - https://venilnoronha.io/a-simple-state-machine-framework-in-go
 - https://mermaid.js.org/syntax/stateDiagram.html
 -
--
 
 
 ## Web
@@ -126,7 +113,6 @@
 - https://blog.bitsrc.io/micro-frontends-shell-vs-micro-apps-5ad809a9b85a
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - https://blog.meetbrackets.com/architectures-of-modern-front-end-applications-8859dfe6c12e
--
 -
 
 
@@ -195,11 +181,6 @@
 -
 - https://worrydream.com/LadderOfAbstraction/
 -
--
--
-
-
-
 
 
 

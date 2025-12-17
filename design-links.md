@@ -62,11 +62,11 @@
 -
 - [Magic UI](https://magicui.design/)
 -
-- https://lawsofux.com/
-- https://designbetterpodcast.com/
-- https://www.kickassux.com/
-- https://learnmobile.design/
-- https://www.uxtools.co/
+- [lawsofux](https://lawsofux.com/)
+- [designbetterpodcast](https://designbetterpodcast.com/)
+- [kickassux](https://www.kickassux.com/)
+- [learnmobile.design](https://learnmobile.design/)
+- [UXtools](https://www.uxtools.co/)
 - https://uxcel.com/
 -
 - https://superdesigner.co/
@@ -166,7 +166,6 @@
 - [Wirify](https://www.wirify.com/)
 -
 -
--
 
 ---
 
@@ -207,6 +206,7 @@
 -
 
 ## Design systems
+- [carbon](https://github.com/carbon-design-system/carbon)
 - [Primer (GitHub)](https://primer.style/)
 -
 -
@@ -238,14 +238,6 @@
 - [Themesberg](https://themesberg.com/)
 - [w3layouts](https://w3layouts.com/)
 - [webdesign-inspiration](https://www.webdesign-inspiration.com/)
--
--
-
-
-## Collections (Paid)
-- [refero.design](https://refero.design/)
-- [paperflows](https://pageflows.com/)
--
 -
 -
 
@@ -314,21 +306,6 @@
 
 ---
 
-## Design system
-- [carbon](https://github.com/carbon-design-system/carbon)
--
--
-
-
----
-
-## Forms
-
-### Articles
-- [How to design accessible forms in 10 steps](https://uxdesign.cc/how-to-design-accessible-forms-in-10-steps-22232d65de18)
-
----
-
 
 ## Collections
 - [Pexels](https://www.pexels.com/de-de/)
@@ -338,8 +315,9 @@
 
 
 ## Collections (Paid)
+- [refero.design](https://refero.design/)
+- [paperflows](https://pageflows.com/)
 - [vexels](https://www.vexels.com/)
-
 
 ## Apps
 - https://westciv.com/tools/radialgradients/
@@ -355,9 +333,64 @@
 - [MRCUTOUT](https://www.mrcutout.com/)
 
 
+---
+
+## Typography
+- [Axis-praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
+- [Typescale](https://typescale.com/)
+- [typographic scale](https://www.google.com/search?channel=fs&client=ubuntu&q=the+typographic+scale)
+- https://github.com/ErniW/Processing-Generative-Typography
+- https://elliotjaystocks.com/blog/a-recap-on-opentype-features/
+-
+-
+
+### Articles (Typography)
+- [On Web Typography](https://alistapart.com/article/on-web-typography/)
+
+
+
 ## Fonts (Apps)
 - [calligraphr](https://www.calligraphr.com/de/)
 - 
+-
+
+## Fonts
+
+- https://fontawesome.com/
+- https://losttype.com/
+- https://www.modularscale.com/
+- [Fontello - icon fonts generator](https://fontello.com/)
+- [fontflipper](https://fontflipper.com/upload)
+- [fontjoy](https://fontjoy.com/)
+- [fontpair](https://www.fontpair.co/)
+- [Fontsgeek](https://fontsgeek.com/fonts/Seeing-Stars-Regular)
+- [fontspring](https://www.fontspring.com/)
+- [FontSquirrel](https://www.fontsquirrel.com)
+  - [Cabinsketch](https://www.fontsquirrel.com/fonts/cabinsketch)
+  - [webfont-generator](https://www.fontsquirrel.com/tools/webfont-generator)
+- [freefaces](https://www.freefaces.gallery/)
+- [Google Fonts](https://fonts.google.com/icons)
+  - [IBM+Plex+Sans](https://fonts.google.com/specimen/IBM+Plex+Sans)
+  - [Slabo](https://fonts.google.com/specimen/Slabo+27px)
+- [Variable Fonts](https://v-fonts.com/)
+- https://de.wikipedia.org/wiki/Minion_(Schriftart)
+- https://de.wikipedia.org/wiki/Myriad_(Schriftart)
+- [20 Free Chalkboard Fonts](https://www.ucreative.com/resources/20-free-chalkboard-fonts/)
+- [Monotype Fonts](https://www.monotype.com/fonts)
+- [Elusive-Iconfont](https://github.com/dovy/elusive-iconfont)
+-
+- https://emojipedia.org/person-juggling
+
+- [google-webfonts-helper](https://gwfh.mranftl.com/fonts)
+- [Improve Page Speed when Using Google Fonts](https://johnfraney.ca/blog/improve-page-speed-google-fonts/)
+-
+- [Font Tester](https://font-tester.foxcraft.tech/)
+
+
+## Apps
+- [MyFonts](https://www.myfonts.com/de)
+-
+-
 -
 
 
@@ -387,23 +420,49 @@
 - https://lucide-animated.com/
 - [unicornicons](https://www.unicornicons.com/)
 -
+- [flaticon](https://www.flaticon.com/)
+- [Flowbite icons](https://flowbite.com/icons/)
+- [Freepik icons](https://www.freepik.com/icons)
+- [iconbuddy](https://iconbuddy.com/)
+- [Iconify](https://iconify.design/)
+- [icons8](https://icons8.com/)
+- [iconmonstr](https://iconmonstr.com/)
+- [iconstore](https://iconstore.co/)
+- [iconuncle](https://iconuncle.com/)
+- [icomoon](https://icomoon.io/)
+- [ionicons](https://ionic.io/ionicons/)
+- [Ligature Symbols](https://kudakurage.com/ligature_symbols/)
+- [Linearicons](https://linearicons.com/)
+- [lordicon](https://lordicon.com/)
+- [Lucide](https://lucide.dev/)
+  - [Lucide (git)](https://github.com/lucide-icons/lucide)
+- [MFG labs icon set](https://mfglabs.github.io/mfglabs-iconset/)
+- [modernpictograms](https://modernpictograms.com/)
+- [nucleoapp](https://nucleoapp.com/)
+- [nounproject](https://thenounproject.com/)
+- [Simple Icons](https://github.com/simple-icons/simple-icons)
+- [Typicons](https://www.s-ings.com/typicons/)
+- https://responsiveicons.co.uk/
+- [Google](https://fonts.google.com/icons?hl=de)
+-
+- [Skillicons](https://skillicons.dev/)
 -
 
+
+## Articles
+- https://fonts.google.com/download/next-steps
+- [Icon design done right.](https://medium.com/@ewoudt/icon-design-done-right-79a051197c59)
+- [Build an Icon System With SVG Sprites: A Complete Guide](https://levelup.gitconnected.com/build-an-icon-system-with-svg-sprites-a-complete-guide-1e195820ac6a)
+-
 ---
 
-## Typography
-- [Axis-praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
-- [Typescale](https://typescale.com/)
-- [typographic scale](https://www.google.com/search?channel=fs&client=ubuntu&q=the+typographic+scale)
-- https://github.com/ErniW/Processing-Generative-Typography
-- https://elliotjaystocks.com/blog/a-recap-on-opentype-features/
--
--
+## Forms
 
 ### Articles
-- [On Web Typography](https://alistapart.com/article/on-web-typography/)
+- [How to design accessible forms in 10 steps](https://uxdesign.cc/how-to-design-accessible-forms-in-10-steps-22232d65de18)
 
 ---
+
 
 ## Unicode
 - [Symbl.cc](https://symbl.cc/de/)
@@ -412,7 +471,6 @@
 
 ## Theming
 - [toggles.dev](https://toggles.dev/)
--
 -
 
 
@@ -474,8 +532,6 @@
 - https://medium.com/@Flowmapp/bad-bad-ui-10-common-mistakes-in-user-interfaces-ac89767ac43d
 - https://medium.com/@Flowmapp/bad-bad-ux-20-common-mistakes-in-user-experience-d30301ba686b
 -
-- https://davidwalsh.name/codepen-animations
--
 - https://uxdesign.cc/neubrutalism-is-taking-over-the-web-e9d09e0fe441
 - https://uxdesign.cc/quick-tips-to-create-a-modern-app-ui-4e9ef4daf677
 - https://medium.com/quick-code/coolest-25-web-design-trends-in-2021-thatll-rock-the-world-388eb1144b7e
@@ -497,14 +553,6 @@
 - https://johnfraney.ca/blog/improve-page-speed-google-fonts/
 -
 -
--
--
-
-
-
-
-
-
 
 
 

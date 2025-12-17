@@ -1,9 +1,7 @@
 # 3D
 
 
-
-- https://github.com/mxgmn/WaveFunctionCollapse
--
+- [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
 -
 
 
@@ -14,18 +12,14 @@
 ## Products
 - [Vuframe](https://www.vuframe.com/)
 -
--
 
 
 ## Collections
 - [Humans](https://humans.wannathis.one/)
 -
--
-
 
 ## Modelling
 - [Wings 3D](https://www.wings3d.com/)
--
 -
 
 ---
@@ -39,16 +33,12 @@
 ## Engines
 - [GODOT](https://godotengine.org/de/)
 -
--
 
 
 ## OpenSource
 - [FreeCAD](https://github.com/FreeCAD/FreeCAD)
 - [rhioCAD](https://github.com/mikowiec/rhioCAD)
 -
--
--
-
 
 ---
 
@@ -60,7 +50,6 @@
 - https://acko.net/
 - https://www.quelsolaar.com/
 -
--
 - [Curves and Surfaces for GAGD](https://github.com/SirVer/cagd5e)
 - [Homepage Jürgen Meier](http://www.3d-meier.de/)
 -
@@ -70,7 +59,7 @@
 -
 - [https://nehe.gamedev.net/](https://nehe.gamedev.net/)
 - [Icare3D](http://www.icare3d.org/)
-- []()
+-
 
 
 ## Libraries
@@ -78,8 +67,8 @@
 - [The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.](https://pointclouds.org/)
 - [TinySpline is a small, yet powerful library for interpolating, transforming, and querying arbitrary NURBS, ](https://github.com/msteinbeck/tinyspline)
 - [Einspline B-spline library ](https://sourceforge.net/projects/einspline/)
-- []()
-- []()
+-
+-
 
 
 ## Tools
@@ -90,9 +79,8 @@
 - https://www.symbolab.com/solver/derivative-calculator/%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft(%5Cfrac%7B3y%2B9%7D%7B2-x%7D%5Cright)
 - https://www.emathhelp.net/calculators/calculus-1/derivative-calculator/?f=e%5Eu&order=1&var=u&p=&steps=on
 - https://www.emathhelp.net/calculators/calculus-1/derivative-calculator/?f=%28cos%28v%29%2Bsin%28v%29-1%29*%281%2Bsin%28v%29%29*log%281-pi*v%2F10%29%2B7.5*sin%28v%29&order=1&var=v&p=&steps=on
-- []()
-- []()
-- []()
+-
+-
 
 
 ## Articles
@@ -103,7 +91,6 @@
 - https://www.humus.name/index.php?page=Comments&ID=228
 - https://developer.nvidia.com/content/life-triangle-nvidias-logical-pipeline#
 - https://gpuopen.com/videos/graphics-pipeline/
--
 -
 - https://de.wikipedia.org/wiki/Inversion_(Geometrie)
 - https://iquilezles.org/articles/distfunctions2d/
@@ -140,9 +127,9 @@
 -
 - [Darstellung von Knoten mit Cinema](http://www.3d-meier.de/tut8/Seite0.html)
 - [How to Know the Graphics Memory Size and Usage In OpenGL](https://www.geeks3d.com/20100531/programming-tips-how-to-know-the-graphics-memory-size-and-usage-in-opengl/)
-- []()
-- []()
-- []()
+-
+-
+
 
 ## Models
 - [Free3D](https://free3d.com/)
@@ -151,37 +138,33 @@
 - [Jremesh Tools](https://blendermarket.com/products/jremesh-tools)
 - [Turbosquid : 3D Models for Professionals](https://www.turbosquid.com/)
 - [DMI Car 3d Models](http://www.dmi-3d.net/)
-- []()
-- []()
-- []()
-- []()
+-
+-
 
 
 ## Textures
 - [Textures](https://www.textures.com/)
 - [https://github.com/nothings/stb/blob/master/stb_image.h](https://github.com/nothings/stb/blob/master/stb_image.h)
 - [Texturer](http://texturer.com/)
-- []()
-- []()
-- []()
+-
+-
 
 ---
 
 ## Formats
 - [The Asset Importer Library](http://www.assimp.org/)
-- []()
-- []()
+-
+-
 
 ---
 
 ## Engines
 - [ogre3d: A point light's attenuation](https://wiki.ogre3d.org/tiki-index.php?page=-Point+Light+Attenuation)
 - [Irrlicht Engine](https://irrlicht.sourceforge.io/)
-- []()
-
+-
+-
 
 ---
-
 
 ## OpenGL
 - [OpenGL Mathematics (GLM) is a header only C++ mathematics library](https://github.com/icaven/glm)
@@ -192,9 +175,8 @@
 - [OpenGL Examples](https://www.opengl.org/archives/resources/code/samples/glut_examples/examples/examples.html)
 - [glutInitWindowPosition, glutInitWindowSize](https://www.opengl.org/resources/libraries/glut/spec3/node11.html)
 - https://medium.com/@benjamin.botto/opengl-and-cuda-applications-in-docker-af0eece000f1
-- []()
-- []()
-- []()
+-
+-
 
 ---
 
@@ -208,15 +190,11 @@
 - [(Demoscene) 38644: Mandelbulb in 1024 Bytes (OpenGL/GLSL)](https://www.geeks3d.com/20101126/demoscene-38644-mandelbulb-in-1024-bytes-openglglsl/)
 - [<GeeXLab/>](https://www.geeks3d.com/geexlab/index.php#what_is_geexlab)
 - [Creating a GLSL Library](https://www.gamedev.net/tutorials/_/technical/opengl/creating-a-glsl-library-r2428/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+-
+-
 
 
 
----
+
+
+

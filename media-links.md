@@ -61,8 +61,6 @@
 - https://www.all-streaming-media.com/
 - https://www.unified-streaming.com/
 
-## Chats
-- [Talky](https://talky.io/)
 
 
 ## Libraries
@@ -82,6 +80,7 @@
 -
 -
 
+
 ## PHP
 - https://www.php.net/manual/de/function.imagecreatefromstring.php
 - https://stackoverflow.com/questions/6735414/php-data-uri-to-file
@@ -90,17 +89,12 @@
 -
 -
 
+
 ## Articles
 - [Comparison of UPnP AV media servers](https://en.wikipedia.org/wiki/Comparison_of_UPnP_AV_media_servers)
 - https://developers.google.com/interactive-media-ads/docs/sdks/html5/client-side/get-started?hl=de
 - https://foliovision.com/player/troubleshooting/encoding
 - http://www.live555.com/
--
--
--
--
--
--
 -
 -
 

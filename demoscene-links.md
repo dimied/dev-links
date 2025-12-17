@@ -3,7 +3,6 @@
 
 - [theproduct.de](http://www.theproduct.de/)
 -
--
 
 ---
 
@@ -18,14 +17,12 @@
 - [the farbrausch way of making demos](https://llg.cubic.org/docs/farbrauschDemos/)
 - [Subdivision Surfaces](https://github.com/GeZiheng/subdivision-surfaces)
 - [squishy is a modern pc 64k intro packer ]https://logicoma.io/squishy/)
-- [ farbrausch / fr_public](https://github.com/farbrausch/fr_public)
+- [farbrausch / fr_public](https://github.com/farbrausch/fr_public)
 -
 - [http://www.theproduct.de/](http://www.theproduct.de/)
 
 ## Audio
-- [ The development of the 4klang softsynth](http://zine.bitfellas.org/article.php?zine=14&id=35)
--
--
+- [The development of the 4klang softsynth](http://zine.bitfellas.org/article.php?zine=14&id=35)
 -
 
 
@@ -37,17 +34,14 @@
 
 ## Videos
 - [Revision Online 2020 - Seminar - ferris: modern 64k intro compression](https://www.youtube.com/watch?v=O5LfE_qNzes)
-- [ Farbrausch - fr-041: debris. [2160p60] ](https://www.youtube.com/watch?v=jY5Vrc5G0lk)
-- [ VX2 by Spectrals (Revision Online 2020 PC Demo Compo) ](https://www.youtube.com/watch?v=hrlkv6eDKx0)
-- [ Revision 2019 - Compo - PC 64K Intro ](https://www.youtube.com/watch?v=FYyL_mEQWOM)
-- [ Revision 2018 - Compo - PC 64k Intro ](https://www.youtube.com/watch?v=gY0IAnybDm0)
-- [ Revision 2018 - Compo - PC 4k Intro ](https://www.youtube.com/watch?v=MmBPmUJjQSQ)
-- [ Revision Online 2020 - Compo - PC 64K Intro ](https://www.youtube.com/watch?v=PEf_Aw4K-Og)
-- []()
-- []()
+- [Farbrausch - fr-041: debris. [2160p60] ](https://www.youtube.com/watch?v=jY5Vrc5G0lk)
+- [VX2 by Spectrals (Revision Online 2020 PC Demo Compo)](https://www.youtube.com/watch?v=hrlkv6eDKx0)
+- [Revision 2019 - Compo - PC 64K Intro](https://www.youtube.com/watch?v=FYyL_mEQWOM)
+- [Revision 2018 - Compo - PC 64k Intro](https://www.youtube.com/watch?v=gY0IAnybDm0)
+- [Revision 2018 - Compo - PC 4k Intro](https://www.youtube.com/watch?v=MmBPmUJjQSQ)
+- [Revision Online 2020 - Compo - PC 64K Intro](https://www.youtube.com/watch?v=PEf_Aw4K-Og)
 -
 -
 -
 
 
----

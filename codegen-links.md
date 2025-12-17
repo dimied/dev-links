@@ -13,7 +13,6 @@
 - [Kythe](https://github.com/kythe/kythe)
 - [Telosys](https://www.telosys.org/)
 -
--
 
 
 ## Java

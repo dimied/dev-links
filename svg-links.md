@@ -2,18 +2,18 @@
 
 ---
 
-## Collections
-- [svghub](https://svghub.vercel.app/)
-- []()
-- []()
--
--
+## Books
+- https://www.oreilly.com/library/view/svg-essentials-2nd/9781491945308/
 -
 
 
 ## Apps (Paid)
 - [SvgTrace](https://svgtrace.com/)
 -
+
+
+## Collections
+- [svghub](https://svghub.vercel.app/)
 -
 
 
@@ -44,18 +44,9 @@
 - [SVGO](https://github.com/svg/svgo)
   - [SVGOMG](https://jakearchibald.github.io/svgomg/)
 - [vvvortex](https://www.fffuel.co/vvvortex/)
-
-## Books
-- https://www.oreilly.com/library/view/svg-essentials-2nd/9781491945308/
 -
 -
 
-## Codepen
-- https://codepen.io/yoksel/pen/MLVjoB
-- https://codepen.io/collection/XvBQJQ/#
--
--
--
 
 ## Articles
 - [6 Common SVG Fails (and How to Fix Them)](https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/)
@@ -93,11 +84,6 @@
 -
 -
 -
--
-
-
-
-
 
 
 

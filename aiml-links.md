@@ -103,7 +103,6 @@
 - [Cloudairy](https://cloudairy.com/)
 - [tabnine](https://www.tabnine.com/)
 -
-- 
 
 
 ## Companies
@@ -116,12 +115,10 @@
 ## Startups
 - [Startups.fyi](https://www.startups.fyi/)
 -
--
 
 ## Articles
 - https://github.com/swirl-ai/ai-angineers-handbook/tree/main/building_agents_from_scratch/deep_research_agent
 - https://github.com/wenhao728/awesome-diffusion-v2v
--
 -
 
 ## Tutorials
@@ -131,13 +128,12 @@
 ## Collections
 - [ai-collection](https://github.com/ai-collection/ai-collection)
 -
--
 
 
 ## Apps (Paid)
 - [OpusClip](https://www.opus.pro/de-de)
 -
--
+
 
 ## Apps
 - [Foocus](https://github.com/lllyasviel/Fooocus)
@@ -146,19 +142,16 @@
 - [Sora](https://openai.com/de-DE/sora/)
 - [Valley](https://github.com/RupertLuo/Valley)
 -
--
 
 
 ## Art generator
 - [Bluewillow](https://www.bluewillow.ai/)
--
 -
 
 
 ## Video generation
 - [Runway](https://aitubo.ai/runway/)
 - [Veo](https://deepmind.google/models/veo/)
--
 -
 
 
@@ -180,17 +173,15 @@
 - [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 - [supervision](https://supervision.roboflow.com/latest/)
 -
--
+
 
 ## Documents
 - [MinerU](https://github.com/opendatalab/MinerU)
--
 -
 
 
 ## RAG
 - [GraphRAG](https://github.com/microsoft/graphrag)
--
 -
 
 
@@ -203,20 +194,14 @@
 - [llm-answer-engine](https://github.com/developersdigest/llm-answer-engine)
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)
 -
--
-
 
 ## VLM
 - [VILA](https://github.com/NVlabs/VILA)
 -
--
-
 
 ## MLX
 - [rlx](https://github.com/noahfarr/rlx)
 -
--
-
 
 ## Claude
 - [Claude Engineer v3](https://github.com/Doriandarko/claude-engineer)
@@ -229,19 +214,14 @@
 - [llamafile](https://github.com/mozilla-ai/llamafile)
 - [llama3.np](https://github.com/likejazz/llama3.np)
 -
--
-
 
 ## Promps
 - [Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering)
--
 -
 
 ## Audio (OS)
 - [Whisper.cpp](https://github.com/ggml-org/whisper.cpp)
 -
-
-
 
 ## Images
 - [AniPortrait](https://github.com/Zejun-Yang/AniPortrait)
@@ -249,12 +229,9 @@
 - [Zerox](https://github.com/getomni-ai/zerox)
 -
 
-
 ## Video
 - [Loom](https://www.loom.com/)
--
--
- 
+- 
 
 ## Datasets
 - https://datasetsearch.research.google.com/
@@ -326,15 +303,12 @@
 - https://netzpolitik.org/2022/text-zu-bild-generierung-der-anfang-von-etwas-grossem/
 - https://www.heise.de/news/Text-zu-Bild-Revolution-Stable-Diffusion-ermoeglicht-KI-Bildgenerieren-fuer-alle-7244307.html
 -
--
--
 
 
 ## Speech
 - https://www.golem.de/news/machine-learning-die-eigene-stimme-als-tts-modell-2207-164919.html
 - https://github.com/mozilla/DeepSpeech
 - https://github.com/fishaudio/fish-speech
--
 -
 
 
@@ -351,7 +325,6 @@
 - https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db
 - https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html
 - https://www.oreilly.com/content/perform-sentiment-analysis-with-lstms-using-tensorflow/
--
 -
 
 
@@ -457,8 +430,6 @@
 - https://towardsdatascience.com/monitoring-nlp-models-in-production-ac65745772cf/
 - https://towardsdatascience.com/building-a-recommender-system-using-machine-learning-2eefba9a692e/
 - https://towardsdatascience.com/the-math-behind-neural-networks-a34a51b93873/
--
--
 -
 
 ## Fun

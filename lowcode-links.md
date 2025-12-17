@@ -6,11 +6,11 @@
 - [appian](https://appian.com/)
 - [apppresser](https://apppresser.com/)
 - [AppSheet](https://about.appsheet.com/home/)
+- [Appwrite](https://appwrite.io/)
 - [Betty blocks](https://www.bettyblocks.com/)
 -
-- [Appwrite](https://appwrite.io/)
 -
--
+
 
 ## Tools (Paid)
 - [Hype](https://tumult.com/hype/)
@@ -29,17 +29,15 @@
 -
 -
 
+
 ## Dashboards
 - [Toolpad](https://github.com/mui/toolpad/)
--
 -
 
 
 ## Websites
 - [Framer](https://www.framer.com/)
 - [Teleport](https://teleporthq.io/)
--
--
 -
 
 
@@ -56,10 +54,6 @@
 - https://blog.devgenius.io/why-low-code-software-development-is-eating-the-world-ca5d9644a821
 -
 -
--
-
-
-
 
 
 

@@ -6,17 +6,15 @@
 - [Introduction to Dart](https://dart.dev/language)
 - [Flutter](https://flutter.dev/)
 - [dartpad](https://dartpad.dev/)
-- []()
-
+-
+-
 
 ---
 
 ## 
 - [How to build and distribute iOS apps without Mac with Flutter & Codemagic](https://blog.codemagic.io/how-to-build-and-distribute-ios-apps-without-mac-with-flutter-codemagic/)
-- []()
-- []()
-- []()
-- []()
+-
+-
 
 ---
 
@@ -30,30 +28,9 @@
 - [Appwrite is a backend platform for developing Web, Mobile, and Flutter applications](https://github.com/appwrite/appwrite)
 - [“Flutter is awesome, but where do I start learning?”](https://medium.com/free-code-camp/learn-flutter-best-resources-18f88346ed0f)
 - [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
-- []()
-- []()
-- []()
-- []()
-
----
-
-## 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-- []()
-
-
-
-
-
-
-
-
+-
+-
+-
 
 
 
